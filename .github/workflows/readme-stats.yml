@@ -1,0 +1,53 @@
+name: Update README Statistics
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "data/*.csv.gz"
+      - "data/by_year/**/*.csv.gz"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Refresh dataset statistics
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Validate and update README
+        run: |
+          mapfile -t DATA_FILES < <(find data -name '*.csv.gz' ! -name 'historical.csv.gz' | sort)
+          python scripts/validation.py \
+            --input "${DATA_FILES[@]}" \
+            --report-json releases/validation-report.json \
+            --report-md releases/validation-report.md \
+            --update-readme README.md
+
+      - name: Commit README statistics
+        run: |
+          git config user.name "Shahroz"
+          git config user.email "shahrozmails@gmail.com"
+          git add README.md releases/validation-report.json releases/validation-report.md
+          if git diff --cached --quiet; then
+            echo "No README statistics changes to commit."
+          else
+            git commit -m "Update dataset statistics"
+            git push
+          fi

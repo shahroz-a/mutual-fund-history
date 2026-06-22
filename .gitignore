@@ -1,0 +1,24 @@
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local database files created from examples
+*.db
+*.sqlite
+*.sqlite3
+
+# Full monolithic archive is published as a GitHub Release asset.
+data/historical.csv.gz
+
+# Temporary files
+*.tmp
+*.log

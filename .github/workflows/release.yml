@@ -1,0 +1,95 @@
+name: Create Dataset Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Release tag. Defaults to nav-YYYYMMDD."
+        required: false
+        type: string
+      title:
+        description: "Release title. Defaults to NAV archive YYYY-MM-DD."
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Validate and publish release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Validate dataset
+        run: |
+          mapfile -t DATA_FILES < <(find data -name '*.csv.gz' ! -name 'historical.csv.gz' | sort)
+          python scripts/validation.py \
+            --input "${DATA_FILES[@]}" \
+            --report-json releases/validation-report.json \
+            --report-md releases/validation-report.md \
+            --update-readme README.md
+
+      - name: Build monolithic release archive
+        run: python scripts/build_release_archive.py
+
+      - name: Generate checksums and release notes
+        id: metadata
+        run: |
+          mkdir -p releases
+          python scripts/generate_checksums.py
+          RELEASE_DATE="$(date -u +%Y-%m-%d)"
+          TAG="${{ inputs.tag }}"
+          TITLE="${{ inputs.title }}"
+          if [ -z "$TAG" ]; then
+            TAG="nav-$(date -u +%Y%m%d)"
+          fi
+          if [ -z "$TITLE" ]; then
+            TITLE="NAV archive ${RELEASE_DATE}"
+          fi
+          {
+            echo "Dataset release for ${RELEASE_DATE}."
+            echo ""
+            echo "Assets:"
+            echo "- historical.csv.gz"
+            echo "- latest.csv.gz"
+            echo "- checksums.sha256"
+            echo "- validation-report.md"
+            echo "- validation-report.json"
+            echo ""
+            echo "This release packages generated dataset files already present in the repository."
+          } > releases/release-notes.md
+          echo "tag=${TAG}" >> "$GITHUB_OUTPUT"
+          echo "title=${TITLE}" >> "$GITHUB_OUTPUT"
+
+      - name: Commit generated metadata
+        run: |
+          git config user.name "Shahroz"
+          git config user.email "shahrozmails@gmail.com"
+          git add README.md releases/checksums.sha256 releases/validation-report.json releases/validation-report.md
+          if git diff --cached --quiet; then
+            echo "No metadata changes to commit."
+          else
+            git commit -m "Prepare dataset release metadata"
+            git push
+          fi
+
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${{ steps.metadata.outputs.tag }}" \
+            data/historical.csv.gz \
+            data/latest.csv.gz \
+            releases/checksums.sha256 \
+            releases/validation-report.md \
+            releases/validation-report.json \
+            --title "${{ steps.metadata.outputs.title }}" \
+            --notes-file releases/release-notes.md
