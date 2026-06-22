@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for helping improve `mutual-fund-history`.
+Thank you for helping improve `mutual-fund-historical-data`.
 
 This repository is a public archive for generated Indian mutual fund NAV data. Contributions should keep the repository simple, reliable, and focused on downloadable dataset files.
 

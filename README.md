@@ -1,8 +1,8 @@
-# mutual-fund-history
+# mutual-fund-historical-data
 
 Historical daily NAV data for Indian mutual funds. Open-source archive with complete past and continuously updated NAV history.
 
-`mutual-fund-history` is a public dataset repository for historical mutual fund NAV data in India. It is an open-source initiative by [Creget](https://creget.com) for developers, researchers, analysts, and data teams who need downloadable Indian mutual fund NAV history.
+`mutual-fund-historical-data` is a public dataset repository for historical mutual fund NAV data in India. It is an open-source initiative by [Creget](https://creget.com) for developers, researchers, analysts, and data teams who need downloadable Indian mutual fund NAV history.
 
 This repository focuses only on storing and publishing normalized NAV archive files. Collection methods, update systems, private automation, and operational details are intentionally not exposed in the public repository.
 
@@ -82,16 +82,16 @@ See [docs/schema.md](docs/schema.md) for the full schema.
 Download from the latest GitHub Release:
 
 ```bash
-curl -L -o historical.csv.gz https://github.com/shahroz-a/mutual-fund-history/releases/latest/download/historical.csv.gz
-curl -L -o latest.csv.gz https://github.com/shahroz-a/mutual-fund-history/releases/latest/download/latest.csv.gz
-curl -L -o checksums.sha256 https://github.com/shahroz-a/mutual-fund-history/releases/latest/download/checksums.sha256
+curl -L -o historical.csv.gz https://github.com/shahroz-a/mutual-fund-historical-data/releases/latest/download/historical.csv.gz
+curl -L -o latest.csv.gz https://github.com/shahroz-a/mutual-fund-historical-data/releases/latest/download/latest.csv.gz
+curl -L -o checksums.sha256 https://github.com/shahroz-a/mutual-fund-historical-data/releases/latest/download/checksums.sha256
 shasum -a 256 -c checksums.sha256 --ignore-missing
 ```
 
 Or download month files directly from the repository:
 
 ```bash
-curl -L -o 2026-06.csv.gz https://raw.githubusercontent.com/shahroz-a/mutual-fund-history/main/data/by_year/2026/06.csv.gz
+curl -L -o 2026-06.csv.gz https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/by_year/2026/06.csv.gz
 ```
 
 ## GitHub Data Access
@@ -99,9 +99,9 @@ curl -L -o 2026-06.csv.gz https://raw.githubusercontent.com/shahroz-a/mutual-fun
 This repository does not run a hosted API server. For lightweight API-like access, you can use GitHub-hosted files directly:
 
 ```text
-https://raw.githubusercontent.com/shahroz-a/mutual-fund-history/main/data/latest.csv.gz
-https://raw.githubusercontent.com/shahroz-a/mutual-fund-history/main/data/by_year/2026/06.csv.gz
-https://github.com/shahroz-a/mutual-fund-history/releases/latest/download/historical.csv.gz
+https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/latest.csv.gz
+https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/by_year/2026/06.csv.gz
+https://github.com/shahroz-a/mutual-fund-historical-data/releases/latest/download/historical.csv.gz
 ```
 
 Applications can also use the GitHub Contents API or Release Assets API, subject to GitHub rate limits.
