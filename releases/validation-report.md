@@ -1,6 +1,6 @@
 # Dataset Validation Report
 
-- Generated at: `2026-06-22T15:49:48+00:00`
+- Generated at: `2026-06-22T16:10:49+00:00`
 - Validation date: `2026-06-22`
 - Status: `passed`
 
@@ -21,7 +21,6 @@
 
 | File | Rows | Invalid | Unique schemes | Date range | SHA-256 |
 | --- | ---: | ---: | ---: | --- | --- |
-| data/latest.csv.gz | 37360 | 0 | 37360 | 2006-04-03 to 2026-06-21 | `ae986a3f09121d704890cea97a59c513b35201da941569f4c3e43ee673023f04` |
 | data/by_year/2006/04.csv.gz | 32763 | 0 | 1905 | 2006-04-01 to 2006-04-30 | `e4f3d39ffe12271e005339a51a83ec7b9b03a991c1fc55a9ae529a035dd7d575` |
 | data/by_year/2006/05.csv.gz | 41077 | 0 | 1898 | 2006-05-01 to 2006-05-31 | `ea9c6c3dab94d5524c55ebadd6eb4e9eca74167809e6c821e2caf8903d7d20b4` |
 | data/by_year/2006/06.csv.gz | 40756 | 0 | 1909 | 2006-06-01 to 2006-06-30 | `4540749740f68b440343e0070268fbacbdc88280c71ac4d108b8d74ee9b9183e` |
@@ -265,6 +264,7 @@
 | data/by_year/2026/04.csv.gz | 174400 | 0 | 8633 | 2026-04-01 to 2026-04-30 | `49f255dd6476ccc0cba2f39ef925d408a8f40b31fd755b3b4a9ffcca80399d08` |
 | data/by_year/2026/05.csv.gz | 169831 | 0 | 8527 | 2026-05-01 to 2026-05-31 | `5ab4fd579252dbc57ead39b9f5c5b359bac52abc46c37cf3b8c9f946149b5323` |
 | data/by_year/2026/06.csv.gz | 130968 | 0 | 8511 | 2026-06-01 to 2026-06-21 | `8a1335a92fac038fed213e45d4e250a53b315ad75621cb5992e7faca5a47c345` |
+| data/latest.csv.gz | 37360 | 0 | 37360 | 2006-04-03 to 2026-06-21 | `ae986a3f09121d704890cea97a59c513b35201da941569f4c3e43ee673023f04` |
 
 ## Issues
 
