@@ -18,7 +18,12 @@ def digest(path: Path) -> str:
 
 
 def archive_files(data_dir: Path) -> list[Path]:
-    files = [data_dir / "historical.csv.gz", data_dir / "latest.csv.gz"]
+    files = [
+        data_dir / "historical.csv.gz",
+        data_dir / "latest.csv",
+        data_dir / "latest.csv.gz",
+    ]
+    files.extend(sorted((data_dir / "Year").glob("*/*/*.csv")))
     files.extend(sorted((data_dir / "Year").glob("*/*/*.csv.gz")))
     return [path for path in files if path.exists()]
 

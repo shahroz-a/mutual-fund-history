@@ -49,10 +49,13 @@ jobs:
 
           python scripts/import_dataset_archive.py "${archive}" --data-dir data
 
+      - name: Materialize browser-visible CSV files
+        run: python scripts/materialize_visible_csv.py --data-dir data --year latest
+
       - name: Validate dataset and update README
         run: |
-          mapfile -t DATA_FILES < <(find data -name '*.csv.gz' ! -name 'historical.csv.gz' | sort)
-          python scripts/validation.py --input "${DATA_FILES[@]}" --report-json releases/validation-report.json --report-md releases/validation-report.md --update-readme README.md
+          mapfile -t ARCHIVE_FILES < <(find data/Year -name '*.csv.gz' | sort)
+          python scripts/validation.py --input data/latest.csv "${ARCHIVE_FILES[@]}" --report-json releases/validation-report.json --report-md releases/validation-report.md --update-readme README.md
 
       - name: Build monolithic release archive
         run: python scripts/build_release_archive.py
@@ -83,7 +86,7 @@ jobs:
         run: |
           git config user.name "Shahroz"
           git config user.email "shahrozmails@gmail.com"
-          git add README.md data/latest.csv.gz data/Year releases/checksums.sha256 releases/validation-report.json releases/validation-report.md
+          git add README.md data/latest.csv data/Year releases/checksums.sha256 releases/validation-report.json releases/validation-report.md
           if git diff --cached --quiet; then
             echo "No metadata changes to commit."
           else

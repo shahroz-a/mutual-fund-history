@@ -8,7 +8,7 @@ This repository focuses only on storing and publishing normalized NAV archive fi
 
 ## Overview
 
-This repository publishes historical mutual fund NAV data as compressed CSV files. The archive targets common discovery and research needs around:
+This repository publishes historical mutual fund NAV data as browser-visible CSV files plus compressed CSV archives for bulk downloads. The archive targets common discovery and research needs around:
 
 - historical mutual fund nav data
 - india mutual fund nav history
@@ -28,10 +28,11 @@ This archive is maintained as an open-source initiative by [Creget](https://creg
 
 The dataset is organized as a historical archive plus a latest snapshot:
 
-- `data/Year/YYYY/MM/DD.csv.gz`: date-level historical daily NAV records committed to the repository.
+- `data/latest.csv`: browser-visible latest available NAV snapshot.
+- `data/Year/YYYY/MM/DD.csv`: browser-visible daily NAV files for the latest archive year and future updates.
+- `data/Year/YYYY/MM/DD.csv.gz`: compressed date-level historical daily NAV records for the complete archive.
 - `historical.csv.gz`: complete monolithic historical daily NAV archive attached to GitHub Releases.
-- `data/latest.csv.gz`: latest available NAV records.
-- GitHub Releases: immutable published archives with checksums and validation reports.
+- GitHub Releases: immutable compressed archives with checksums and validation reports.
 
 <!-- DATASET_STATS_START -->
 | Metric | Value |
@@ -41,7 +42,7 @@ The dataset is organized as a historical archive plus a latest snapshot:
 | Unique scheme codes | 37,360 |
 | Date range | 2006-04-01 to 2026-06-21 |
 | Latest NAV date | 2026-06-21 |
-| Last validation | 2026-06-24T06:58:50+00:00 |
+| Last validation | 2026-06-24T07:20:38+00:00 |
 | Validation status | passed |
 <!-- DATASET_STATS_END -->
 
@@ -52,15 +53,16 @@ The repository runs a daily scheduled publish job at 21:00 IST, after Indian mar
 Every update should:
 
 1. Import generated NAV archive files from private automation when configured.
-2. Validate `data/Year/YYYY/MM/DD.csv.gz` and `data/latest.csv.gz`.
-3. Generate validation reports.
-4. Generate SHA-256 checksums.
-5. Create a GitHub Release containing `historical.csv.gz`, `latest.csv.gz`, checksums, and reports.
-6. Update the README statistics block.
+2. Materialize browser-visible `data/latest.csv` and latest-year `data/Year/YYYY/MM/DD.csv` files.
+3. Validate `data/latest.csv` and the complete compressed daily archive under `data/Year`.
+4. Generate validation reports.
+5. Generate SHA-256 checksums.
+6. Create a GitHub Release containing `historical.csv.gz`, `latest.csv.gz`, checksums, and reports.
+7. Update the README statistics block.
 
 ## File Format
 
-Files are gzip-compressed CSV files using UTF-8 text and a header row.
+Repository-visible files are plain CSV where possible. Bulk historical downloads are also provided as gzip-compressed CSV files. All CSV content uses UTF-8 text and a header row.
 
 Required column order:
 
@@ -79,7 +81,7 @@ See [docs/schema.md](docs/schema.md) for the full schema.
 
 ## Download Instructions
 
-Download from the latest GitHub Release:
+Download compressed archives from the latest GitHub Release:
 
 ```bash
 curl -L -o historical.csv.gz https://github.com/shahroz-a/mutual-fund-historical-data/releases/latest/download/historical.csv.gz
@@ -88,10 +90,11 @@ curl -L -o checksums.sha256 https://github.com/shahroz-a/mutual-fund-historical-
 shasum -a 256 -c checksums.sha256 --ignore-missing
 ```
 
-Or download date files directly from the repository:
+Or open/download browser-visible CSV files directly from the repository:
 
 ```bash
-curl -L -o 2026-06-21.csv.gz https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/Year/2026/06/21.csv.gz
+curl -L -o latest.csv https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/latest.csv
+curl -L -o 2026-06-21.csv https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/Year/2026/06/21.csv
 ```
 
 ## GitHub Data Access
@@ -99,8 +102,8 @@ curl -L -o 2026-06-21.csv.gz https://raw.githubusercontent.com/shahroz-a/mutual-
 This repository does not run a hosted API server. For lightweight API-like access, you can use GitHub-hosted files directly:
 
 ```text
-https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/latest.csv.gz
-https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/Year/2026/06/21.csv.gz
+https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/latest.csv
+https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/Year/2026/06/21.csv
 https://github.com/shahroz-a/mutual-fund-historical-data/releases/latest/download/historical.csv.gz
 ```
 
@@ -121,9 +124,8 @@ Python standard library:
 
 ```python
 import csv
-import gzip
 
-with gzip.open("data/Year/2026/06/21.csv.gz", "rt", newline="", encoding="utf-8") as f:
+with open("data/Year/2026/06/21.csv", newline="", encoding="utf-8") as f:
     rows = csv.DictReader(f)
     scheme_rows = [row for row in rows if row["scheme_code"] == "120503"]
 
@@ -209,11 +211,11 @@ No. This public repository intentionally does not disclose collection methods, p
 
 ### Does this repository expose an API or website?
 
-No. This repository only publishes compressed CSV archives and validation reports.
+No. This repository only publishes CSV dataset files, compressed archives, checksums, and validation reports.
 
 ### What files should I use?
 
-Use the GitHub Release asset `historical.csv.gz` for complete NAV history, `data/Year/YYYY/MM/DD.csv.gz` for date-specific history, and `data/latest.csv.gz` for the latest available NAV snapshot.
+Use `data/latest.csv` for the browser-visible latest snapshot, `data/Year/YYYY/MM/DD.csv` for browser-visible recent day files, `data/Year/YYYY/MM/DD.csv.gz` for complete date-specific history, and the GitHub Release asset `historical.csv.gz` for the full archive.
 
 ### How do I verify downloads?
 

@@ -23,7 +23,7 @@ Column order is part of the public contract.
 
 - Files must be UTF-8 encoded.
 - Files must include a header row.
-- Files must be gzip-compressed when published as `.csv.gz`.
+- Plain `.csv` files and gzip-compressed `.csv.gz` files must contain the same header and column format.
 - Dates must not be in the future.
 - `scheme_code` must be non-empty and numeric.
 - `nav` must be non-empty, numeric, finite, and greater than zero.

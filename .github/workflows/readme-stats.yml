@@ -6,7 +6,9 @@ on:
     branches:
       - mutual-fund-historical-data
     paths:
+      - "data/*.csv"
       - "data/*.csv.gz"
+      - "data/Year/**/*.csv"
       - "data/Year/**/*.csv.gz"
 
 permissions:
@@ -33,9 +35,9 @@ jobs:
 
       - name: Validate and update README
         run: |
-          mapfile -t DATA_FILES < <(find data -name '*.csv.gz' ! -name 'historical.csv.gz' | sort)
+          mapfile -t ARCHIVE_FILES < <(find data/Year -name '*.csv.gz' | sort)
           python scripts/validation.py \
-            --input "${DATA_FILES[@]}" \
+            --input data/latest.csv "${ARCHIVE_FILES[@]}" \
             --report-json releases/validation-report.json \
             --report-md releases/validation-report.md \
             --update-readme README.md

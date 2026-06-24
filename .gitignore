@@ -18,6 +18,7 @@ venv/
 
 # Full monolithic archive is published as a GitHub Release asset.
 data/historical.csv.gz
+data/latest.csv.gz
 
 # Temporary files
 *.tmp

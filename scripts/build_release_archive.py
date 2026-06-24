@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import gzip
 import io
+import shutil
 import sys
 from pathlib import Path
 
@@ -15,6 +16,24 @@ HEADER = "date,scheme_code,scheme_name,nav\n"
 
 def daily_files(data_dir: Path) -> list[Path]:
     return sorted((data_dir / "Year").glob("*/*/*.csv.gz"))
+
+
+def open_daily_text(path: Path):
+    if path.suffix == ".gz":
+        return gzip.open(path, "rt", newline="", encoding="utf-8")
+    return path.open("rt", newline="", encoding="utf-8")
+
+
+def gzip_file(source: Path, output: Path) -> None:
+    output.parent.mkdir(parents=True, exist_ok=True)
+    raw = output.open("wb")
+    gz = gzip.GzipFile(filename="", mode="wb", fileobj=raw, compresslevel=6, mtime=0)
+    try:
+        with source.open("rb") as src:
+            shutil.copyfileobj(src, gz, length=1024 * 1024)
+    finally:
+        gz.close()
+        raw.close()
 
 
 def build_historical(data_dir: Path, output: Path) -> int:
@@ -30,7 +49,7 @@ def build_historical(data_dir: Path, output: Path) -> int:
     try:
         text.write(HEADER)
         for path in files:
-            with gzip.open(path, "rt", newline="", encoding="utf-8") as f:
+            with open_daily_text(path) as f:
                 header = f.readline()
                 if header != HEADER:
                     raise RuntimeError(f"Unexpected header in {path}: {header!r}")
@@ -44,16 +63,36 @@ def build_historical(data_dir: Path, output: Path) -> int:
     return rows
 
 
+def build_latest(data_dir: Path, output: Path) -> None:
+    latest_csv = data_dir / "latest.csv"
+    latest_gz = data_dir / "latest.csv.gz"
+    if latest_csv.exists():
+        gzip_file(latest_csv, output)
+        print(f"Wrote {output} from {latest_csv}")
+        return
+    if latest_gz.exists() and latest_gz != output:
+        shutil.copy2(latest_gz, output)
+        print(f"Copied {latest_gz} to {output}")
+        return
+    if latest_gz.exists():
+        print(f"Using existing {latest_gz}")
+        return
+    raise RuntimeError(f"Missing latest dataset file: {latest_csv}")
+
+
 def parse_args(argv: list[str]) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Build release archives from public data chunks.")
     parser.add_argument("--data-dir", default="data")
     parser.add_argument("--historical-output", default="data/historical.csv.gz")
+    parser.add_argument("--latest-output", default="data/latest.csv.gz")
     return parser.parse_args(argv)
 
 
 def main(argv: list[str]) -> int:
     args = parse_args(argv)
-    build_historical(Path(args.data_dir), Path(args.historical_output))
+    data_dir = Path(args.data_dir)
+    build_historical(data_dir, Path(args.historical_output))
+    build_latest(data_dir, Path(args.latest_output))
     return 0
 
 

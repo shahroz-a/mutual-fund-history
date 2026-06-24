@@ -402,12 +402,21 @@ def build_report(paths: list[Path], as_of: date, max_examples: int) -> dict[str,
         (item for item in file_reports if Path(item["path"]).name == "historical.csv.gz"),
         None,
     )
-    archive_chunks = [
+    compressed_archive_chunks = [
         item
         for item in file_reports
-        if "Year" in Path(item["path"]).parts and Path(item["path"]).suffix == ".gz"
+        if "Year" in Path(item["path"]).parts and Path(item["path"]).name.endswith(".csv.gz")
     ]
+    visible_archive_chunks = [
+        item
+        for item in file_reports
+        if "Year" in Path(item["path"]).parts and Path(item["path"]).name.endswith(".csv")
+    ]
+    archive_chunks = compressed_archive_chunks or visible_archive_chunks
     latest = next(
+        (item for item in file_reports if Path(item["path"]).name == "latest.csv"),
+        None,
+    ) or next(
         (item for item in file_reports if Path(item["path"]).name == "latest.csv.gz"),
         None,
     )
@@ -563,7 +572,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument(
         "--input",
         nargs="+",
-        default=["data/historical.csv.gz", "data/latest.csv.gz"],
+        default=["data/historical.csv.gz", "data/latest.csv"],
         help="CSV or CSV.GZ files to validate.",
     )
     parser.add_argument(

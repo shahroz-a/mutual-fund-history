@@ -15,7 +15,7 @@ permissions:
 
 jobs:
   validate:
-    name: Validate compressed CSV files
+    name: Validate CSV files
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -28,9 +28,9 @@ jobs:
 
       - name: Validate dataset
         run: |
-          mapfile -t DATA_FILES < <(find data -name '*.csv.gz' ! -name 'historical.csv.gz' | sort)
+          mapfile -t ARCHIVE_FILES < <(find data/Year -name '*.csv.gz' | sort)
           python scripts/validation.py \
-            --input "${DATA_FILES[@]}" \
+            --input data/latest.csv "${ARCHIVE_FILES[@]}" \
             --report-json releases/validation-report.json \
             --report-md releases/validation-report.md
 

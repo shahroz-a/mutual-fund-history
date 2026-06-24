@@ -4,7 +4,20 @@ These examples show how to load, filter, and analyze the mutual fund NAV archive
 
 ## Python
 
-Load records with only the Python standard library:
+Load a browser-visible daily CSV with only the Python standard library:
+
+```python
+import csv
+
+scheme_code = "120503"
+
+with open("data/Year/2026/06/21.csv", newline="", encoding="utf-8") as f:
+    rows = [row for row in csv.DictReader(f) if row["scheme_code"] == scheme_code]
+
+print(rows[:5])
+```
+
+Load the complete compressed daily archive:
 
 ```python
 import csv
@@ -40,11 +53,23 @@ print(f"{total_return:.2%}")
 
 ## Pandas
 
-Load the archive:
+Load the browser-visible latest snapshot:
 
 ```python
 import pandas as pd
+
+latest = pd.read_csv(
+    "data/latest.csv",
+    dtype={"scheme_code": "string", "scheme_name": "string"},
+    parse_dates=["date"],
+)
+```
+
+Load the complete compressed archive:
+
+```python
 from glob import glob
+import pandas as pd
 
 df = pd.concat(
     pd.read_csv(
@@ -83,7 +108,16 @@ latest_by_scheme = (
 
 ## DuckDB
 
-Query the gzip file directly:
+Query a browser-visible daily CSV:
+
+```sql
+SELECT date, scheme_code, scheme_name, nav
+FROM read_csv('data/Year/2026/06/21.csv', header=true)
+WHERE scheme_code = '120503'
+ORDER BY date;
+```
+
+Query the complete compressed archive directly:
 
 ```sql
 SELECT date, scheme_code, scheme_name, nav
@@ -141,7 +175,39 @@ CREATE INDEX nav_scheme_date ON nav (scheme_code, date);
 
 ## SQLite
 
-SQLite cannot read gzip files directly, but the Python standard library can load the compressed CSV into SQLite:
+SQLite can load the visible CSV files directly through Python:
+
+```python
+import csv
+import sqlite3
+
+con = sqlite3.connect("mutual_fund_nav.db")
+
+con.execute("""
+CREATE TABLE IF NOT EXISTS nav (
+  date TEXT NOT NULL,
+  scheme_code TEXT NOT NULL,
+  scheme_name TEXT NOT NULL,
+  nav REAL NOT NULL,
+  PRIMARY KEY (date, scheme_code)
+)
+""")
+
+with open("data/Year/2026/06/21.csv", newline="", encoding="utf-8") as f:
+    con.executemany(
+        """
+        INSERT OR REPLACE INTO nav
+        (date, scheme_code, scheme_name, nav)
+        VALUES (:date, :scheme_code, :scheme_name, :nav)
+        """,
+        csv.DictReader(f),
+    )
+
+con.execute("CREATE INDEX IF NOT EXISTS nav_scheme_date ON nav (scheme_code, date)")
+con.commit()
+```
+
+SQLite cannot read gzip files directly, but the Python standard library can load the complete compressed archive into SQLite:
 
 ```python
 import csv
