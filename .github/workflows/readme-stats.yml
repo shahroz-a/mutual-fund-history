@@ -7,7 +7,7 @@ on:
       - mutual-fund-historical-data
     paths:
       - "data/*.csv.gz"
-      - "data/by_year/**/*.csv.gz"
+      - "data/Year/**/*.csv.gz"
 
 permissions:
   contents: write

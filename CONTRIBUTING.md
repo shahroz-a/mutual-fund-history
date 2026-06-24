@@ -6,7 +6,7 @@ This repository is a public archive for generated Indian mutual fund NAV data. C
 
 ## Accepted Contributions
 
-- Dataset corrections to `data/by_year/YYYY/MM.csv.gz` or `data/latest.csv.gz`.
+- Dataset corrections to `data/Year/YYYY/MM/DD.csv.gz` or `data/latest.csv.gz`.
 - Validation improvements in `scripts/validation.py`.
 - Documentation improvements in `README.md`, `data/README.md`, or `docs/`.
 - Release metadata and checksum workflow improvements.
@@ -37,7 +37,7 @@ date,scheme_code,scheme_name,nav
 Before opening a pull request, run:
 
 ```bash
-python3 scripts/validation.py --input data/latest.csv.gz data/by_year/*/*.csv.gz
+python3 scripts/validation.py --input data/latest.csv.gz data/Year/*/*/*.csv.gz
 ```
 
 ## Pull Request Checklist

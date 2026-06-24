@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build release archives from public CSV chunks."""
+"""Build release archives from public daily CSV chunks."""
 
 from __future__ import annotations
 
@@ -13,14 +13,14 @@ from pathlib import Path
 HEADER = "date,scheme_code,scheme_name,nav\n"
 
 
-def month_files(data_dir: Path) -> list[Path]:
-    return sorted((data_dir / "by_year").glob("*/*.csv.gz"))
+def daily_files(data_dir: Path) -> list[Path]:
+    return sorted((data_dir / "Year").glob("*/*/*.csv.gz"))
 
 
 def build_historical(data_dir: Path, output: Path) -> int:
-    files = month_files(data_dir)
+    files = daily_files(data_dir)
     if not files:
-        raise RuntimeError(f"No monthly archive files found in {data_dir / 'by_year'}")
+        raise RuntimeError(f"No daily archive files found in {data_dir / 'Year'}")
 
     output.parent.mkdir(parents=True, exist_ok=True)
     raw = output.open("wb")
@@ -40,7 +40,7 @@ def build_historical(data_dir: Path, output: Path) -> int:
     finally:
         text.close()
         raw.close()
-    print(f"Wrote {output} from {len(files)} monthly files ({rows:,} rows)")
+    print(f"Wrote {output} from {len(files)} daily files ({rows:,} rows)")
     return rows
 
 

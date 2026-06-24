@@ -402,37 +402,28 @@ def build_report(paths: list[Path], as_of: date, max_examples: int) -> dict[str,
         (item for item in file_reports if Path(item["path"]).name == "historical.csv.gz"),
         None,
     )
-    yearly = [
+    archive_chunks = [
         item
         for item in file_reports
-        if Path(item["path"]).parent.name == "by_year" and Path(item["path"]).suffix == ".gz"
-    ]
-    monthly = [
-        item
-        for item in file_reports
-        if Path(item["path"]).parent.parent.name == "by_year" and Path(item["path"]).suffix == ".gz"
+        if "Year" in Path(item["path"]).parts and Path(item["path"]).suffix == ".gz"
     ]
     latest = next(
         (item for item in file_reports if Path(item["path"]).name == "latest.csv.gz"),
         None,
     )
-    archive_reports = [historical] if historical else yearly if yearly else monthly
+    archive_reports = [historical] if historical else archive_chunks
     archive_reports = [item for item in archive_reports if item]
     date_min = min((item["date_min"] for item in archive_reports if item["date_min"]), default=None)
     date_max = max((item["date_max"] for item in archive_reports if item["date_max"]), default=None)
     historical_rows = (
         int(historical["rows"])
         if historical
-        else sum(int(item["rows"]) for item in yearly)
-        if yearly
-        else sum(int(item["rows"]) for item in monthly)
+        else sum(int(item["rows"]) for item in archive_chunks)
     )
     unique_scheme_codes = (
-        int(historical["unique_scheme_codes"])
-        if historical
-        else int(latest["unique_scheme_codes"])
+        int(latest["unique_scheme_codes"])
         if latest
-        else 0
+        else max((int(item["unique_scheme_codes"]) for item in archive_chunks), default=0)
     )
 
     report = {

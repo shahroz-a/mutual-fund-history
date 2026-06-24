@@ -5,9 +5,9 @@ All notable changes to this dataset repository are documented here.
 ## Unreleased
 
 - Seeded historical NAV data.
-- Added committed monthly CSV archives under `data/by_year/YYYY/MM.csv.gz`.
+- Reorganized committed archive files under `data/Year/YYYY/MM/DD.csv.gz`.
 - Published the complete monolithic `historical.csv.gz` archive as a GitHub Release asset.
-- Added data-only release packaging automation.
+- Added data-only release packaging automation with private generated-archive import support.
 
 ## 0.1.0 - 2026-06-22
 

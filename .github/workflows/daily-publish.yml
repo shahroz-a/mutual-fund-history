@@ -2,7 +2,8 @@ name: Daily Dataset Publish
 
 on:
   schedule:
-    - cron: "30 18 * * *"
+    # 21:00 IST daily, after Indian market close and NAV publication window.
+    - cron: "30 15 * * *"
   workflow_dispatch:
 
 permissions:
@@ -28,14 +29,30 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Import generated private dataset archive
+        env:
+          NAV_DATASET_ARCHIVE_URL: ${{ secrets.NAV_DATASET_ARCHIVE_URL }}
+          NAV_DATASET_ARCHIVE_TOKEN: ${{ secrets.NAV_DATASET_ARCHIVE_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${NAV_DATASET_ARCHIVE_URL}" ]; then
+            echo "No generated private dataset archive configured; validating existing public data."
+            exit 0
+          fi
+
+          archive="${RUNNER_TEMP}/nav-dataset-archive"
+          if [ -n "${NAV_DATASET_ARCHIVE_TOKEN}" ]; then
+            curl -fsSL -H "Authorization: Bearer ${NAV_DATASET_ARCHIVE_TOKEN}" "${NAV_DATASET_ARCHIVE_URL}" -o "${archive}"
+          else
+            curl -fsSL "${NAV_DATASET_ARCHIVE_URL}" -o "${archive}"
+          fi
+
+          python scripts/import_dataset_archive.py "${archive}" --data-dir data
+
       - name: Validate dataset and update README
         run: |
           mapfile -t DATA_FILES < <(find data -name '*.csv.gz' ! -name 'historical.csv.gz' | sort)
-          python scripts/validation.py \
-            --input "${DATA_FILES[@]}" \
-            --report-json releases/validation-report.json \
-            --report-md releases/validation-report.md \
-            --update-readme README.md
+          python scripts/validation.py --input "${DATA_FILES[@]}" --report-json releases/validation-report.json --report-md releases/validation-report.md --update-readme README.md
 
       - name: Build monolithic release archive
         run: python scripts/build_release_archive.py
@@ -66,7 +83,7 @@ jobs:
         run: |
           git config user.name "Shahroz"
           git config user.email "shahrozmails@gmail.com"
-          git add README.md data/latest.csv.gz data/by_year releases/checksums.sha256 releases/validation-report.json releases/validation-report.md
+          git add README.md data/latest.csv.gz data/Year releases/checksums.sha256 releases/validation-report.json releases/validation-report.md
           if git diff --cached --quiet; then
             echo "No metadata changes to commit."
           else
@@ -79,21 +96,8 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           if gh release view "${{ steps.metadata.outputs.tag }}" >/dev/null 2>&1; then
-            gh release upload "${{ steps.metadata.outputs.tag }}" \
-              data/historical.csv.gz \
-              data/latest.csv.gz \
-              releases/checksums.sha256 \
-              releases/validation-report.md \
-              releases/validation-report.json \
-              --clobber
+            gh release upload "${{ steps.metadata.outputs.tag }}" data/historical.csv.gz data/latest.csv.gz releases/checksums.sha256 releases/validation-report.md releases/validation-report.json --clobber
             exit 0
           fi
 
-          gh release create "${{ steps.metadata.outputs.tag }}" \
-            data/historical.csv.gz \
-            data/latest.csv.gz \
-            releases/checksums.sha256 \
-            releases/validation-report.md \
-            releases/validation-report.json \
-            --title "${{ steps.metadata.outputs.title }}" \
-            --notes-file releases/release-notes.md
+          gh release create "${{ steps.metadata.outputs.tag }}" data/historical.csv.gz data/latest.csv.gz releases/checksums.sha256 releases/validation-report.md releases/validation-report.json --title "${{ steps.metadata.outputs.title }}" --notes-file releases/release-notes.md

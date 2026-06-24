@@ -14,7 +14,7 @@ from glob import glob
 scheme_code = "120503"
 rows = []
 
-for path in glob("data/by_year/*/*.csv.gz"):
+for path in glob("data/Year/*/*/*.csv.gz"):
     with gzip.open(path, "rt", newline="", encoding="utf-8") as f:
         rows.extend(
             row
@@ -52,7 +52,7 @@ df = pd.concat(
         dtype={"scheme_code": "string", "scheme_name": "string"},
         parse_dates=["date"],
     )
-    for path in glob("data/by_year/*/*.csv.gz")
+    for path in glob("data/Year/*/*/*.csv.gz")
 )
 ```
 
@@ -88,7 +88,7 @@ Query the gzip file directly:
 ```sql
 SELECT date, scheme_code, scheme_name, nav
 FROM read_csv(
-  'data/by_year/*/*.csv.gz',
+  'data/Year/*/*/*.csv.gz',
   compression = 'gzip',
   header = true
 )
@@ -105,7 +105,7 @@ WITH nav_history AS (
     scheme_code,
     scheme_name,
     CAST(nav AS DOUBLE) AS nav
-  FROM read_csv('data/by_year/*/*.csv.gz', compression='gzip', header=true)
+  FROM read_csv('data/Year/*/*/*.csv.gz', compression='gzip', header=true)
   WHERE scheme_code = '120503'
 ),
 ranked AS (
@@ -134,7 +134,7 @@ SELECT
   scheme_code,
   scheme_name,
   CAST(nav AS DOUBLE) AS nav
-FROM read_csv('data/by_year/*/*.csv.gz', compression='gzip', header=true);
+FROM read_csv('data/Year/*/*/*.csv.gz', compression='gzip', header=true);
 
 CREATE INDEX nav_scheme_date ON nav (scheme_code, date);
 ```
@@ -161,7 +161,7 @@ CREATE TABLE IF NOT EXISTS nav (
 )
 """)
 
-for path in glob("data/by_year/*/*.csv.gz"):
+for path in glob("data/Year/*/*/*.csv.gz"):
     with gzip.open(path, "rt", newline="", encoding="utf-8") as f:
         con.executemany(
             """

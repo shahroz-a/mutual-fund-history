@@ -28,7 +28,7 @@ This archive is maintained as an open-source initiative by [Creget](https://creg
 
 The dataset is organized as a historical archive plus a latest snapshot:
 
-- `data/by_year/YYYY/MM.csv.gz`: month-level historical daily NAV records committed to the repository.
+- `data/Year/YYYY/MM/DD.csv.gz`: date-level historical daily NAV records committed to the repository.
 - `historical.csv.gz`: complete monolithic historical daily NAV archive attached to GitHub Releases.
 - `data/latest.csv.gz`: latest available NAV records.
 - GitHub Releases: immutable published archives with checksums and validation reports.
@@ -41,18 +41,18 @@ The dataset is organized as a historical archive plus a latest snapshot:
 | Unique scheme codes | 37,360 |
 | Date range | 2006-04-01 to 2026-06-21 |
 | Latest NAV date | 2026-06-21 |
-| Last validation | 2026-06-23T20:39:54+00:00 |
+| Last validation | 2026-06-24T06:42:07+00:00 |
 | Validation status | passed |
 <!-- DATASET_STATS_END -->
 
 ## Update Frequency
 
-The repository is prepared for daily updates. Generated dataset files are published here, validated, checksummed, and attached to GitHub Releases.
+The repository runs a daily scheduled publish job at 21:00 IST, after Indian market close. Generated dataset files are imported from a private generated-data archive when configured, then validated, checksummed, and attached to GitHub Releases.
 
 Every update should:
 
-1. Publish generated NAV archive files.
-2. Validate `data/by_year/YYYY/MM.csv.gz` and `data/latest.csv.gz`.
+1. Import generated NAV archive files from private automation when configured.
+2. Validate `data/Year/YYYY/MM/DD.csv.gz` and `data/latest.csv.gz`.
 3. Generate validation reports.
 4. Generate SHA-256 checksums.
 5. Create a GitHub Release containing `historical.csv.gz`, `latest.csv.gz`, checksums, and reports.
@@ -88,10 +88,10 @@ curl -L -o checksums.sha256 https://github.com/shahroz-a/mutual-fund-historical-
 shasum -a 256 -c checksums.sha256 --ignore-missing
 ```
 
-Or download month files directly from the repository:
+Or download date files directly from the repository:
 
 ```bash
-curl -L -o 2026-06.csv.gz https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/by_year/2026/06.csv.gz
+curl -L -o 2026-06-21.csv.gz https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/Year/2026/06/21.csv.gz
 ```
 
 ## GitHub Data Access
@@ -100,7 +100,7 @@ This repository does not run a hosted API server. For lightweight API-like acces
 
 ```text
 https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/latest.csv.gz
-https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/by_year/2026/06.csv.gz
+https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/Year/2026/06/21.csv.gz
 https://github.com/shahroz-a/mutual-fund-historical-data/releases/latest/download/historical.csv.gz
 ```
 
@@ -123,7 +123,7 @@ Python standard library:
 import csv
 import gzip
 
-with gzip.open("data/by_year/2026/06.csv.gz", "rt", newline="", encoding="utf-8") as f:
+with gzip.open("data/Year/2026/06/21.csv.gz", "rt", newline="", encoding="utf-8") as f:
     rows = csv.DictReader(f)
     scheme_rows = [row for row in rows if row["scheme_code"] == "120503"]
 
@@ -138,7 +138,7 @@ import pandas as pd
 
 df = pd.concat(
     pd.read_csv(path, parse_dates=["date"])
-    for path in glob("data/by_year/*/*.csv.gz")
+    for path in glob("data/Year/*/*/*.csv.gz")
 )
 scheme = df[df["scheme_code"].astype(str) == "120503"].sort_values("date")
 scheme["one_year_return"] = scheme["nav"].pct_change(periods=252)
@@ -148,7 +148,7 @@ DuckDB:
 
 ```sql
 SELECT date, scheme_code, scheme_name, nav
-FROM read_csv('data/by_year/*/*.csv.gz', compression='gzip', header=true)
+FROM read_csv('data/Year/*/*/*.csv.gz', compression='gzip', header=true)
 WHERE scheme_code = '120503'
 ORDER BY date;
 ```
@@ -174,7 +174,7 @@ CREATE TABLE IF NOT EXISTS nav (
 
 from glob import glob
 
-for path in glob("data/by_year/*/*.csv.gz"):
+for path in glob("data/Year/*/*/*.csv.gz"):
     with gzip.open(path, "rt", newline="", encoding="utf-8") as f:
         con.executemany(
             "INSERT OR REPLACE INTO nav VALUES (:date, :scheme_code, :scheme_name, :nav)",
@@ -213,7 +213,7 @@ No. This repository only publishes compressed CSV archives and validation report
 
 ### What files should I use?
 
-Use the GitHub Release asset `historical.csv.gz` for complete NAV history, `data/by_year/YYYY/MM.csv.gz` for month-specific history, and `data/latest.csv.gz` for the latest available NAV snapshot.
+Use the GitHub Release asset `historical.csv.gz` for complete NAV history, `data/Year/YYYY/MM/DD.csv.gz` for date-specific history, and `data/latest.csv.gz` for the latest available NAV snapshot.
 
 ### How do I verify downloads?
 

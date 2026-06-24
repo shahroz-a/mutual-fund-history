@@ -8,7 +8,7 @@ This directory contains the public mutual fund NAV archive files.
 | --- | --- |
 | `historical.csv.gz` | Complete monolithic historical daily NAV records. Too large for normal Git storage; published as a release asset. |
 | `latest.csv.gz` | Latest available NAV records. |
-| `by_year/YYYY/MM.csv.gz` | Month-level historical daily NAV records committed to the repository. |
+| `Year/YYYY/MM/DD.csv.gz` | Date-level historical daily NAV records committed to the repository. |
 
 All CSV files are gzip-compressed with this required header:
 
@@ -32,7 +32,7 @@ Do not add:
 Run:
 
 ```bash
-python3 scripts/validation.py --input data/latest.csv.gz data/by_year/*/*.csv.gz
+python3 scripts/validation.py --input data/latest.csv.gz data/Year/*/*/*.csv.gz
 ```
 
 The validator checks schema consistency, duplicate keys, missing NAV values, invalid dates, malformed scheme codes, invalid NAV values, and future dates.
