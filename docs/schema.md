@@ -21,9 +21,8 @@ Column order is part of the public contract.
 
 ## CSV Rules
 
-- Files must be UTF-8 encoded.
+- Files must be UTF-8 encoded plain CSV.
 - Files must include a header row.
-- Plain `.csv` files and gzip-compressed `.csv.gz` files must contain the same header and column format.
 - Dates must not be in the future.
 - `scheme_code` must be non-empty and numeric.
 - `nav` must be non-empty, numeric, finite, and greater than zero.

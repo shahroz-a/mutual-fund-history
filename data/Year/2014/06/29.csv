@@ -1,0 +1,855 @@
+date,scheme_code,scheme_name,nav
+2014-06-29,100041,Aditya Birla Sun Life Liquid Fund -Institutional - IDCW,108.023
+2014-06-29,100042,Aditya Birla Sun Life Liquid Fund-Retail (Growth),341.3013
+2014-06-29,100043,Aditya Birla Sun Life Liquid Fund-Institutional (Growth),350.2441
+2014-06-29,100044,Aditya Birla Sun Life Liquid Fund -Retail - IDCW,163.694
+2014-06-29,100046,Aditya Birla Sun Life Liquid Fund -Daily IDCW,100.195
+2014-06-29,100047,Aditya Birla Sun Life Liquid Fund - Growth,210.3203
+2014-06-29,100048,Aditya Birla Sun Life Liquid Fund -Institutional - weekly  IDCW,108.1192
+2014-06-29,100051,Aditya Birla Sun Life Liquid Fund -weekly IDCW,100.2724
+2014-06-29,100190,ING Liquid Fund-Regular Growth Option,26.7715
+2014-06-29,100191,ING Liquid Fund-Regular Weekly Dividend Option,10.8374
+2014-06-29,100192,ING Liquid Fund-Regular Daily Dividend Option,10.7873
+2014-06-29,100196,ING Liquid Fund-Institutional Growth Option,20.3174
+2014-06-29,100197,ING Liquid Fund-Institutional Weekly Dividend Option,10.0669
+2014-06-29,100198,ING Liquid Fund-Institutional Daily Dividend Option,10.0121
+2014-06-29,100199,ING Liquid Fund-Super Institutional Growth Option,19.481
+2014-06-29,100200,ING Liquid Fund-Super Institutional Daily Dividend Option,10.0048
+2014-06-29,100201,ING Liquid Fund-Super Institutional Weekly Dividend Option,10.0245
+2014-06-29,100233,JM Liquid Fund (Regular) - Weekly IDCW,11.0165
+2014-06-29,100234,JM Liquid Fund - Growth Option,35.7682
+2014-06-29,100237,JM High Liquidity Fund-- Institutional Plan - Growth,21.6009
+2014-06-29,100238,JM High Liquidity Fund-Institutional Plan - Daily Dividend,10.0159
+2014-06-29,100244,JM Liquid Fund (Regular) - Quarterly IDCW,20.245
+2014-06-29,100247,JM Liquid Fund (Regular) - Super Institutional Plan - Growth Option,20.5675
+2014-06-29,100357,ICICI Prudential Liquid Fund -Quarterly IDCW,100.4107
+2014-06-29,100359,ICICI Prudential Liquid Institutional Plus Fund - Div - Daily,118.5152
+2014-06-29,100360,ICICI Prudential Liquid Institutional Plus Fund - Div - Weekly,118.7321
+2014-06-29,100537,Franklin India Liquid Fund - Regular Plan - Weekly - IDCW,1244.3238
+2014-06-29,100538,Franklin India Liquid Fund - Regular Plan - Growth,3165.2148
+2014-06-29,100541,Franklin India Liquid Fund - Regular Plan - Daily - IDCW,1512.34
+2014-06-29,100546,Franklin India Liquid Fund - Super Institutional Plan - Growth,1955.6725
+2014-06-29,100547,Franklin India Liquid Fund - Super Institutional Plan - Daily - IDCW,1000.7164
+2014-06-29,100548,Franklin India Liquid Fund - Super Institutional Plan - Weekly - IDCW,1021.1243
+2014-06-29,100618,Sundaram Money Fund Retail Plan - Growth,25.837
+2014-06-29,100619,Sundaram Money Fund Retail Plan - Quarterly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),14.4583
+2014-06-29,100620,Sundaram Money Fund Retail Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.0953
+2014-06-29,100621,Sundaram Money Fund Retail Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),11.1797
+2014-06-29,100622,Sundaram Money Fund Retail Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.7232
+2014-06-29,100623,Sundaram Money Fund Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW),10.4921
+2014-06-29,100641,SBI ULTRA SHORT DURATION FUND - REGULAR PLAN - GROWTH,2899.1937
+2014-06-29,100723,UTI MMF-Discontinued - Regular Plan -Growth,3576.8381
+2014-06-29,100724,UTI MMF- Discontinued - Regular Plan - Flexi Dividend Option,2007.9142
+2014-06-29,100725,UTI MMF- Discontinued - Regular Plan - Periodic Dividend Option,1998.4437
+2014-06-29,100828,Kotak Liquid-Regular (Dividend),1003.5335
+2014-06-29,100829,Kotak Liquid-Regular (Growth),2450.6985
+2014-06-29,100830,Kotak Liquid-Institutional Plan  (Growth),2552.503
+2014-06-29,100833,Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option,1222.81
+2014-06-29,100834,Kotak Liquid Fund Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend,1001.4081
+2014-06-29,100835,Kotak Liquid Fund - Regular Plan - Growth,2659.6734
+2014-06-29,100837,Nippon India Liquid Fund - Retail Option - Growth Plan,3065.3004
+2014-06-29,100838,NIPPON INDIA LIQUID FUND - RETAIL Plan - WEEKLY IDCW OPTION,1034.6071
+2014-06-29,100842,NIPPON INDIA LIQUID FUND - RETAIL Plan - DAILY IDCW OPTION,1524.28
+2014-06-29,100843,NIPPON INDIA LIQUID FUND - RETAIL plan - MONTHLY IDCW OPTION,1330.1826
+2014-06-29,100844,NIPPON INDIA LIQUID FUND - RETAIL Plan - QUARTERLY IDCW OPTION,1218.9067
+2014-06-29,100845,Reliance Liquid Fund-Cash Plan-Growth Plan,2096.643
+2014-06-29,100848,Reliance Liquid Fund-Cash Plan-Weekly Dividend Reinvestment Option,1092.1733
+2014-06-29,100849,Reliance Liquid Fund-Cash Plan-Daily Dividend Reinvestment Option,1114.15
+2014-06-29,100851,Nippon India Liquid Fund -Growth Plan,3194.0044
+2014-06-29,100852,NIPPON INDIA LIQUID FUND - DAILY IDCW OPTION,1528.74
+2014-06-29,100853,NIPPON INDIA LIQUID FUND - WEEKLY IDCW OPTION,1531.0277
+2014-06-29,100855,NIPPON INDIA LIQUID FUND - MONTHLY IDCW OPTION,1588.3118
+2014-06-29,100868,HDFC Liquid Fund - Growth Plan,25.8669
+2014-06-29,100873,HDFC Liquid Fund-PREMIUM- Growth,26.2954
+2014-06-29,100874,HDFC Liquid Fund - IDCW Plan Weekly,10.3248
+2014-06-29,100875,HDFC Liquid Fund - IDCW Daily,10.1982
+2014-06-29,100876,HDFC Liquid Fund - IDCW Monthly,10.3451
+2014-06-29,100877,HDFC Liquid Fund-Premium Plan - Dividend-Daily,12.2598
+2014-06-29,100878,HDFC Liquid Fund-Premium Plan - Dividend-Weekly,10.0
+2014-06-29,100895,Principal Cash Management Fund - Daily Income Distribution CUM Capital Withdrawal,1000.3037
+2014-06-29,100896,Principal Cash Management Fund - Weekly Income Distribution CUM Capital Withdrawal Option,1006.984
+2014-06-29,100897,Principal Cash Management Fund - Monthly Income Distribution CUM Capital Withdrawal Option,1023.9237
+2014-06-29,100898,Principal Cash Management Fund -Growth Option,1273.6367
+2014-06-29,100940,DSP BlackRock Liquidity Fund - Regular Plan - Growth,30.8571
+2014-06-29,100941,DSP BlackRock Liquidity Fund - Regular Plan Weekly Dividend,12.419
+2014-06-29,100943,DSP BlackRock Liquidity Fund - Regular Plan - Daily Dividend,10.017
+2014-06-29,101044,Franklin India Floating Rate Fund - IDCW,10.0085
+2014-06-29,101048,Franklin India Floating Rate Fund - Growth Plan,20.7934
+2014-06-29,101078,JM Liquid Fund (Regular) - Daily IDCW,10.4302
+2014-06-29,101184,LIC MF Liquid Fund-Regular Plan-Daily IDCW,1098.0
+2014-06-29,101185,LIC MF Liquid Fund-Regular Plan-Growth,2375.9698
+2014-06-29,101206,SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH,2242.4552
+2014-06-29,101221,ICICI Prudential Money Market Fund Retail Growth (erstwhile Cash Option),203.8891
+2014-06-29,101362,Canara Robeco Liquid Fund- INSTITUTIONAL-Growth,2341.8903
+2014-06-29,101363,Canara Robeco Liquid Fund- INSTITUTIONAL-Daily Dividend Reinvestment,1005.5
+2014-06-29,101364,Canara Robeco Liquid Fund-Retail-DRI,1007.0
+2014-06-29,101365,Canara Robeco Liquid Fund-Retail-Growth,2289.0933
+2014-06-29,101393,Sahara Liquid Fund-Fixed Pricing - Daily Dividend Option,1038.5715
+2014-06-29,101394,Sahara Liquid Fund-Fixed Pricing - Growth option,2346.837
+2014-06-29,101397,Sahara Liquid Fund-Fixed Pricing -  Weekly Dividend Option,1027.4373
+2014-06-29,101398,Sahara Liquid Fund-Fixed Pricing - Monthly Dividend Option,1043.3721
+2014-06-29,101399,Sahara Liquid Fund-Variable Pricing - Daily Dividend option,1038.6234
+2014-06-29,101400,Sahara Liquid Fund-Variable Pricing - Weekly Dividend Option,1044.5547
+2014-06-29,101401,Sahara Liquid Fund-Variable Pricing- Monthly Dividend Option,1045.4329
+2014-06-29,101402,Sahara Liquid Fund-Variable Pricing - Growth option,2372.3793
+2014-06-29,101407,Baroda BNP Paribas LIQUID FUND-Defunct Plan- IDCW Option,1943.426
+2014-06-29,101408,Baroda BNP Paribas LIQUID FUND- Defunct Plan -Growth Option,2268.353
+2014-06-29,101409,Baroda BNP Paribas LIQUID FUND-Defunct Plan-Daily IDCW Option,1006.06
+2014-06-29,101420,JM Floater Short Term Fund - Daily Dividend Option,10.0883
+2014-06-29,101421,JM Floater Short Term Fund - Growth Option,20.3414
+2014-06-29,101549,JM Liquid Fund (Regular) - Bonus Option - Principal Units,11.4531
+2014-06-29,101714,Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option,1001.5157
+2014-06-29,101716,DWS Insta Cash Plus Fund-DIVIDEND-WEEKLY DIVIDEND,10.3557
+2014-06-29,101717,DWS Insta Cash Plus Fund-DIVIDEND-MONTHLY DIVIDEND,10.3914
+2014-06-29,101718,DWS Insta Cash Plus Fund-DIVIDEND-Daily Dividend,10.301
+2014-06-29,101719,DWS Insta Cash Plus Fund-Growth-GROWTH,21.1468
+2014-06-29,101721,DWS Insta Cash Plus Fund-Institutional Plan-Growth,20.0547
+2014-06-29,101722,DWS Insta Cash Plus Fund-Institutional Plan-Daily Dividend,10.0516
+2014-06-29,101748,ICICI Prudential Liquid Fund - Institutional - Daily - Div,118.5022
+2014-06-29,101750,ICICI Prudential Liquid Fund Retail Growth,306.228
+2014-06-29,101751,ICICI Prudential Liquid Institutional Fund - Growth,314.0746
+2014-06-29,101752,ICICI Prudential Liquid Fund Retail Weekly Dividend,118.9749
+2014-06-29,101753,ICICI Prudential Liquid Fund - Institutional - Weekly - Div,118.6017
+2014-06-29,101754,ICICI Prudential Liquid Fund Retail Daily Dividend,118.5142
+2014-06-29,101755,ICICI Prudential Liquid Fund Retail Monthly Dividend,100.1507
+2014-06-29,101847,Tata Money Market Fund-Regular Plan - Growth Option,2418.7462
+2014-06-29,101858,Tata Liquid Retail Investment Plan - Growth,2933.269
+2014-06-29,101859,Tata Liquid High Investment Plan - Weekly,1147.8788
+2014-06-29,101860,Tata Liquid High Investment Plan - Growth,2143.1527
+2014-06-29,101861,Tata Liquid Fund-Regular Plan  - Weekly Dividend,1001.8416
+2014-06-29,101892,Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option),1005.3498
+2014-06-29,101893,Kotak Money Market Fund - (Growth),2148.9535
+2014-06-29,101894,Kotak Money Market Fund - (Weekly Reinvestment of Income Distribution cum capital withdrawal option),1013.3921
+2014-06-29,101970,Aditya Birla Sun Life Money Manager Fund - RETAIL - WEEKLY IDCW,103.7949
+2014-06-29,101971,Aditya Birla Sun Life Money Manager Fund - Retail Growth,214.9916
+2014-06-29,101972,Aditya Birla Sun Life Money Manager Fund - Retail - Daily IDCW,100.015
+2014-06-29,101973,Aditya Birla Sun Life Money Manager Fund - Daily IDCW,100.02
+2014-06-29,101974,Aditya Birla Sun Life Money Manager Fund - WEEKLY IDCW,100.1242
+2014-06-29,101976,Aditya Birla Sun Life Money Manager Fund - Growth,174.4617
+2014-06-29,101982,Tata Liquid Retail Investment PLan - Daily,1116.8143
+2014-06-29,101983,Tata Liquid Retail Investment Plan - Fortnightly,1145.7971
+2014-06-29,101984,Tata Liquid High Investment Plan - Daily,1114.3379
+2014-06-29,101985,Tata Liquid High Investment Plan - Monthly,1020.3247
+2014-06-29,101986,Tata Money Market Fund- Regular Plan - Daily Reinvestment of IDCW Option,1114.52
+2014-06-29,101987,Tata Liquid Fund Reglar Plan - Monthly Dividend,1000.6985
+2014-06-29,101993,HDFC Money Market Fund - Growth Option,27.376
+2014-06-29,101994,HDFC Money Market Fund - Daily IDCW Option,10.6364
+2014-06-29,101995,HDFC Money Market Fund - Weekly IDCW Option,10.6296
+2014-06-29,101996,HDFC Overnight Fund - Growth Option,20.7549
+2014-06-29,101997,HDFC Overnight Fund - IDCW Option (Daily),10.4266
+2014-06-29,102007,UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option,1138.2216
+2014-06-29,102008,UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option,1152.6435
+2014-06-29,102009,UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth,2066.6936
+2014-06-29,102010,UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment),1019.4457
+2014-06-29,102011,UTI Liquid Fund - Regular Plan - Monthly IDCW,1031.6726
+2014-06-29,102012,UTI-  Liquid Cash Plan - Regular Plan - Growth Option,2147.6879
+2014-06-29,102013,UTI Liquid Fund - Regular Plan - Weekly IDCW,1053.9819
+2014-06-29,102152,Tata Money Market Fund Regular (Bonus / Dividend),1016.0521
+2014-06-29,102153,Tata Money Market Fund Regular (Growth),2056.9663
+2014-06-29,102441,Franklin India Liquid Fund - Institution-Growth,2028.0438
+2014-06-29,102442,Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW,1054.7184
+2014-06-29,102443,Franklin India Liquid Fund - Institutional Plan - Daily - IDCW,1000.673
+2014-06-29,102672,Tata Liquid Fund -Regular Plan - Growth Option,2063.0757
+2014-06-29,102701,Sundaram Money Fund Institutional Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.0953
+2014-06-29,102703,Sundaram Money Fund Institutional Plan - Growth,26.9609
+2014-06-29,103048,Nippon India Money Market Fund-Growth Plan-Growth Option,1974.6619
+2014-06-29,103049,Nippon India Money Market Fund-Growth Plan-Bonus Option,1161.212
+2014-06-29,103050,NIPPON INDIA MONEY MARKET FUND - DAILY IDCW Option,1000.51
+2014-06-29,103051,NIPPON INDIA MONEY MARKET FUND - WEEKLY IDCW Option,1000.8215
+2014-06-29,103052,NIPPON INDIA MONEY MARKET FUND - MONTHLY IDCW Option,1002.5541
+2014-06-29,103140,SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1031.4177
+2014-06-29,103340,ICICI Prudential Liquid Fund - Growth,194.0069
+2014-06-29,103341,ICICI Prudential Liquid Fund -Monthly IDCW,100.0795
+2014-06-29,103342,ICICI Prudential Liquid Fund - Weekly IDCW,100.2995
+2014-06-29,103343,ICICI Prudential Liquid Fund - Daily IDCW,100.0636
+2014-06-29,103344,ICICI Prudential Liquid Fund - Institutional Option - I,186.8795
+2014-06-29,103347,DSP Liquidity Fund - Regular Plan - Growth,1874.9869
+2014-06-29,103348,DSP Liquidity Fund - Regular Plan - IDCW - Weekly,1001.0584
+2014-06-29,103349,DSP Liquidity Fund- Regular Plan - IDCW - Daily,1000.3161
+2014-06-29,103392,Sundaram Money Fund Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.0953
+2014-06-29,103393,Sundaram Money Fund Regular Plan - Quarterly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),14.2359
+2014-06-29,103394,Sundaram Money Fund Regular Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),11.2208
+2014-06-29,103395,Sundaram Money Fund Regular Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.7739
+2014-06-29,103396,Sundaram Money Fund Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW),10.4792
+2014-06-29,103397,Sundaram Money Fund Regular Plan - Growth,27.6474
+2014-06-29,103519,Tata Liquidity Management Fund - Regular Plan  -Weekly Dividend,1006.6676
+2014-06-29,103631,Tata Liquidity Management Fund - Regular Plan - Daily Dividend,1002.6089
+2014-06-29,103632,Tata Liquidity Management Fund - Regular Plan - Growth,1757.9094
+2014-06-29,103633,ICICI Prudential Money Market Fund Option - Growth,181.2445
+2014-06-29,103634,ICICI Prudential Money Market Fund Option - Daily IDCW,100.1295
+2014-06-29,103635,ICICI Prudential Money Market Fund Option - Weekly IDCW,100.2068
+2014-06-29,103636,ICICI Prudential Money Market Fund Option -Fortnightly IDCW,100.2536
+2014-06-29,103637,ICICI Prudential Money Market Fund Option - Monthly IDCW,100.2753
+2014-06-29,103734,Quantum Liquid Fund - Direct Plan Growth Option,18.4605
+2014-06-29,103735,Quantum Liquid Fund - Direct Plan Monthly IDCW,10.0128
+2014-06-29,103736,Quantum Liquid Fund - Direct Plan Daily IDCW,10.0047
+2014-06-29,103884,SBI Ultra Short Duration Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1077.8322
+2014-06-29,104240,Taurus Liquid Fund-Dividend,1001.2175
+2014-06-29,104241,Taurus Liquid Fund-Growth,1693.0175
+2014-06-29,104308,ICICI Prudential Liquid Fund - Half Yearly IDCW,105.7935
+2014-06-29,104483,Religare Invesco Liquid Fund - Institutional - Daily Dividend,1001.25
+2014-06-29,104484,Invesco India Liquid Fund - Daily IDCW (Reinvestment),1001.1262
+2014-06-29,104485,Invesco India Liquid Fund - Weekly IDCW (Reinvestment),1001.9024
+2014-06-29,104486,Invesco India Liquid Fund - Growth,1802.5155
+2014-06-29,104488,Invesco India Liquid Fund - Regular - Growth,1707.1221
+2014-06-29,104489,Invesco India Liquid Fund - Regular - Weekly IDCW (Reinvestment),1001.7541
+2014-06-29,104491,Religare Invesco Liquid Fund - Institutional - Growth,1749.3933
+2014-06-29,104492,Invesco India Liquid Fund - Monthly IDCW (Payout / Reinvestment),1003.4217
+2014-06-29,105080,SBI Ultra Short Duration Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),1675.03
+2014-06-29,105274,SBI Liquid Fund - Institutional - Growth,2079.3654
+2014-06-29,105275,SBI Liquid Fund - Institutional Daily Income Distribution cum Capital Withdrawal Option (IDCW),1003.25
+2014-06-29,105278,SBI Liquid Fund - Institutional Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1060.599
+2014-06-29,105279,SBI Liquid Fund - Institutional Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW),1025.0755
+2014-06-29,105280,SBI Liquid Fund - REGULAR PLAN -Growth,2060.0391
+2014-06-29,105281,SBI Liquid Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),1003.25
+2014-06-29,105282,SBI Liquid Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1061.3085
+2014-06-29,105283,SBI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW),1013.7499
+2014-06-29,105672,DWS INSTA CASH PLUS FUND - Regular Plan BONUS OPTION,11.1637
+2014-06-29,106467,DWS Insta Cash Plus Fund-Daily Dividend,100.304
+2014-06-29,106468,DWS INSTA CASH PLUS FUND - BONUS OPTION,116.2761
+2014-06-29,106470,DWS Insta Cash Plus Fund - Monthly Dividend,104.4067
+2014-06-29,106471,DWS Insta Cash Plus Fund -Growth,170.0832
+2014-06-29,106472,DWS Insta Cash Plus Fund - Weekly Dividend,100.5516
+2014-06-29,106501,Religare Invesco Overnight Fund - Growth,1534.0452
+2014-06-29,106502,Religare Invesco Overnight Fund - Daily Dividend Reinvestment,1002.474
+2014-06-29,106503,PineBridge India Liquid Fund-Retail Plan-DailyDividend Option,1001.0
+2014-06-29,106504,PineBridge India Liquid Fund-Retail Plan-Monthly Dividend Option,1008.1884
+2014-06-29,106508,PineBridge India Liquid Fund- Standard Plan-Growth Option,1639.8171
+2014-06-29,106509,PineBridge India Liquid Fund- Standard Plan-Weekly Dividend Option,1002.2991
+2014-06-29,106510,PineBridge India Liquid Fund-Retail Plan-Weekly Dividend Option,1002.2989
+2014-06-29,106513,PineBridge India Liquid Fund- Standard Plan-Daily Dividend Option,1001.0
+2014-06-29,106514,PineBridge India Liquid Fund-Retail Plan-Growth Option,1601.8199
+2014-06-29,106519,PineBridge India Liquid Fund- Standard Plan-Monthly Dividend Option,1001.8702
+2014-06-29,106520,PineBridge India Liquid Fund- Standard Plan-Quarterly Dividend Option,1001.8761
+2014-06-29,106561,JPMorgan India Liquid Fund - Retail Plan - Growth Option,15.4935
+2014-06-29,106562,JPMorgan India Liquid Fund - Retail Plan - Daily Dividend Option,10.019
+2014-06-29,106842,Kotak Money Market Fund - (Daily Reinvestment of Income Distribution cum capital withdrawal option),1011.62
+2014-06-29,108607,BANDHAN Liquid Fund - Plan A-Dividend (Weekly),1001.4477
+2014-06-29,108629,BANDHAN Liquid Fund - Plan B - Dividend-Weekly,1000.91
+2014-06-29,108690,BANDHAN LIQUID Fund - Regular Plan - Growth,1593.2495
+2014-06-29,108691,BANDHAN LIQUID Fund - Regular Plan - Weekly IDCW,1000.922
+2014-06-29,108692,BANDHAN LIQUID Fund - Regular Plan - Daily IDCW,1000.4594
+2014-06-29,108693,BANDHAN LIQUID Fund - Regular Plan - Monthly IDCW,1000.6175
+2014-06-29,108778,BANDHAN Liquid Fund-Plan A-Growth,2286.543
+2014-06-29,108779,BANDHAN Liquid Fund-Plan A-Dividend (Daily),1058.19
+2014-06-29,108781,BANDHAN Liquid Fund - Plan B (G) (Institutional Plan),2312.9282
+2014-06-29,109177,JPMorgan India Liquid Fund - Retail Plan - Weekly Dividend Option,10.0311
+2014-06-29,109179,JPMorgan India Liquid Fund - Retail Plan - Monthly Dividend Option,10.0332
+2014-06-29,109254,BANK OF INDIA Liquid Fund- Regular Plan- Growth,1508.9841
+2014-06-29,109255,BANK OF INDIA Liquid Fund- Regular Plan- Weekly IDCW,1002.721
+2014-06-29,109347,Canara Robeco Liquid Fund-Retail-Monthly Div Reinvest,1006.3141
+2014-06-29,109349,CANARA ROBECO LIQUID FUND - REGULAR PLAN - DAILY IDCW (Reinvestment),1005.5
+2014-06-29,109350,CANARA ROBECO LIQUID FUND - REGULAR PLAN - WEEKLY IDCW (Payout/Reinvestment),1000.9439
+2014-06-29,109351,CANARA ROBECO LIQUID FUND - REGULAR PLAN - MONTHLY IDCW (Payout/Reinvestment),1000.9439
+2014-06-29,109353,CANARA ROBECO LIQUID FUND - REGULAR PLAN - GROWTH OPTION,1593.678
+2014-06-29,109356,Canara Robeco Liquid Fund-Retail-Weekly Div Reinvest,1006.3142
+2014-06-29,109934,Edelweiss Liquid Fund - Retail Plan - Daily Dividend Option,1000.0
+2014-06-29,109935,Edelweiss Liquid Fund - Daily Dividend Option,1000.0
+2014-06-29,109937,Edelweiss Liquid Fund - Retail Plan - Weekly Dividend Option,1000.1965
+2014-06-29,109939,Edelweiss Liquid Fund - Retail Plan - Monthly Dividend Option,1005.6415
+2014-06-29,109940,Edelweiss Liquid Fund - Retail Plan - Growth Option,1466.7018
+2014-06-29,109942,Edelweiss Liquid Fund - Weekly Dividend Option,1000.2195
+2014-06-29,109944,Edelweiss Liquid Fund - Monthly Dividend Option,1006.3533
+2014-06-29,109946,Edelweiss Liquid Fund - Growth Option,1286.1483
+2014-06-29,110149,JPMorgan India Liquid Fund - Super Institutional Plan - Daily Dividend Option,10.0279
+2014-06-29,110150,JPMorgan India Liquid Fund - Super Institutional Plan - Growth Option,16.9887
+2014-06-29,110151,JPMorgan India Liquid Fund - Super Institutional Plan - Monthly Dividend Option,10.0421
+2014-06-29,110152,JPMorgan India Liquid Fund - Super Institutional Plan - Fortnightly Dividend Option,10.2109
+2014-06-29,110153,JPMorgan India Liquid Fund - Super Institutional Plan - Weekly Dividend Option,10.1921
+2014-06-29,111644,Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW,1139.7941
+2014-06-29,111645,Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW,1139.8673
+2014-06-29,111646,Mirae Asset Liquid Fund - Regular Plan - Growth,1390.2778
+2014-06-29,111647,Mirae Asset Liquid Fund - Regular - Daily IDCW,1053.7202
+2014-06-29,111703,Taurus Liquid Fund - Regular Plan -SI Daily Dividend Option,1000.262
+2014-06-29,111704,Baroda BNP Paribas LIQUID FUND - Regular Plan - GROWTH OPTION,1502.9045
+2014-06-29,111705,Baroda BNP Paribas LIQUID FUND - Regular Plan - WEEKLY IDCW OPTION,1001.5272
+2014-06-29,111706,BARODA LIQUID FUND PLAN A - MONTHLY IDCW OPTION,1001.3268
+2014-06-29,111707,Baroda BNP Paribas LIQUID FUND - Regular Plan - DAILY IDCW OPTION,1001.1191
+2014-06-29,111760,Taurus Liquid Fund Insti Growth,1441.6936
+2014-06-29,111915,Taurus Liquid Fund - Regular Plan - SI Growth Option,1417.434
+2014-06-29,111971,BANK OF INDIA Liquid Fund- Regular Plan- Daily IDCW,1000.7454
+2014-06-29,112014,Aditya Birla Sun Life Liquid Fund- Discipline Advantage Plan,140.8415
+2014-06-29,112076,UTI Money Market Fund - Regular Plan - Daily IDCW (Reinvestment),1003.3854
+2014-06-29,112077,UTI MMF - Regular Plan - Growth Option,1467.5151
+2014-06-29,112119,ICICI Prudential Liquid Fund-Annual IDCW,105.3901
+2014-06-29,112210,Axis Liquid Fund - Regular Plan - Growth Option,1452.4207
+2014-06-29,112211,Axis Liquid Fund - Regular Plan - Daily IDCW,1000.3096
+2014-06-29,112212,Axis Liquid Fund - Regular Plan - Weekly IDCW,1003.4963
+2014-06-29,112213,Axis Liquid Fund - Regular Plan - Monthly IDCW,1001.0752
+2014-06-29,112221,DWS Treasury Fund - Cash Plan - Growth,140.854
+2014-06-29,112222,DWS Treasury Fund - Cash Plan - Institiutional - Growth,142.9326
+2014-06-29,112227,DWS Treasury Fund - Cash Plan - Institiutional - Daily Dividend,100.497
+2014-06-29,112228,DWS Treasury Fund - Cash Plan - Daily Dividend,100.391
+2014-06-29,112340,NIPPON INDIA LIQUID FUND - QUARTERLY IDCW OPTION,1005.5881
+2014-06-29,112341,NIPPON INDIA MONEY MARKET FUND - QUARTERLY IDCW Option,1005.6133
+2014-06-29,112442,L&T Liquid Fund-Regular Cumulative,2513.4189
+2014-06-29,112445,L&T Liquid Fund -Regular Plan - Daily IDCW,1011.6349
+2014-06-29,112456,L&T Liquid Fund-Cum -Institutional Plus,2616.1963
+2014-06-29,112457,L&T Liquid Fund -Regular Plan - Growth,1797.5303
+2014-06-29,112458,L&T Liquid Fund - Regular Plan - Weekly IDCW,1002.257
+2014-06-29,112635,UTI Money Market Fund - Regular Plan - Weekly IDCW,1015.4894
+2014-06-29,112636,Navi Liquid Fund-Regular Plan-Growth Option,14.3913
+2014-06-29,112637,Navi Liquid Fund-Institutional Plan-Dividend Option-Daily,10.0129
+2014-06-29,112640,Navi Liquid Fund-Institutional Plan-Growth,13.6775
+2014-06-29,112641,Navi Liquid Fund-Retail Plan-Dividend Option-Daily,10.0129
+2014-06-29,112642,Navi Liquid Fund-Retail Plan-Dividend Option-Weekly,10.0151
+2014-06-29,112643,Navi Liquid Fund-Retail Plan-Dividend Option-Monthly,10.0162
+2014-06-29,112644,Navi Liquid Fund-Retail Plan-Growth,13.4206
+2014-06-29,112645,Navi Liquid Fund - Regular Plan Daily IDCW,10.0129
+2014-06-29,112646,Navi Liquid Fund - Regular Plan Weekly IDCW,10.0188
+2014-06-29,112647,Navi Liquid Fund - Regular Plan Monthly IDCW,10.0174
+2014-06-29,112712,Axis Liquid Fund - Retail Plan - Daily IDCW,1000.3096
+2014-06-29,112713,Axis Liquid Fund - Retail Plan - Growth Option,1406.7366
+2014-06-29,112714,Axis Liquid Fund - Retail Plan - Monthly IDCW,1000.963
+2014-06-29,112715,Axis Liquid Fund - Retail Plan - Weekly IDCW,1001.5327
+2014-06-29,112964,DWS Treasury Fund - Cash Plan - Weekly Dividend,109.5467
+2014-06-29,112965,DWS Treasury Fund - Cash Plan - Monthly Dividend,107.1124
+2014-06-29,113096,IDBI Liquid Fund-Growth,1404.2689
+2014-06-29,113102,IDBI Liquid Fund-Daily IDCW,1005.1233
+2014-06-29,113103,IDBI Liquid Fund-Weekly IDCW,1006.4659
+2014-06-29,113104,IDBI Liquid Fund- Monthly IDCW,1005.5401
+2014-06-29,113183,DHFL Pramerica Liquid Fund - Growth Option,1397.7245
+2014-06-29,113184,DHFL Pramerica Liquid Fund - Dividend Option - Daily,1000.37
+2014-06-29,113185,DHFL Pramerica Liquid Fund -Dividend Option- Weekly,1001.1847
+2014-06-29,113186,DHFL Pramerica Liquid Fund - Dividend Option - Monthly,1000.7156
+2014-06-29,113187,DHFL Pramerica Liquid Fund - Dividend Option - Fortnightly,1000.7158
+2014-06-29,113248,Taurus Liquid Fund - Regular Plan - SI Weekly Dividend Option,1000.6997
+2014-06-29,113321,SBI Debt Fund Series - 60 Months - 1 - Dividend,13.2517
+2014-06-29,113401,SBI Debt Fund Series - 60 Months - 1 - Growth,13.2516
+2014-06-29,114251,Reliance Liquid Fund-Cash Plan-Monthly Dividend Plan,1002.7172
+2014-06-29,114252,Reliance Liquid Fund-Cash Plan-Quarterly Dividend Plan,1006.4931
+2014-06-29,114297,SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),1009.91
+2014-06-29,114781,SBI Capital Protection Oriented Fund - Series II -,13.2046
+2014-06-29,114966,DWS Treasury Fund - Cash Plan - Bonus,191.7454
+2014-06-29,115328,ICICI Prudential Money Market Fund Dividend,100.1098
+2014-06-29,115398,Union Liquid Fund - Growth Option,1313.5246
+2014-06-29,115399,Union Liquid Fund - Fortnightly IDCW Option,1001.2204
+2014-06-29,115400,Union Liquid Fund - Monthly IDCW Option,1001.2205
+2014-06-29,115401,Union Liquid Fund - Daily IDCW Option,1000.6489
+2014-06-29,115402,Union Liquid Fund - Weekly IDCW Option,1001.6807
+2014-06-29,115486,BANDHAN Liquid Fund-Plan A-Monthly,1000.6206
+2014-06-29,115487,BANDHAN Liquid Fund-Plan A-Periodic Dividend,1102.9012
+2014-06-29,115489,BANDHAN LIQUID Fund - Regular Plan - Periodic IDCW,1255.4745
+2014-06-29,115505,ICICI Prudential Liquid Fund - IDCW Others,103.9301
+2014-06-29,115824,SBI Capital Protection Oriented Fund - Series III - Growth,12.5193
+2014-06-29,115991,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Regular Plan - Growth Option,1274.0396
+2014-06-29,115992,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment),1000.5175
+2014-06-29,115993,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1001.5643
+2014-06-29,116363,DWS Insta Cash Plus Fund - Annual Dividend Option,108.391
+2014-06-29,116368,DWS Insta CashPlus Fund - Quarterly Dividend Option,116.4899
+2014-06-29,116370,DWS Treasury Fund - Cash Plan - Annual Dividend,123.5956
+2014-06-29,116391,DWS Treasury Fund - Cash Plan - Quarterly Dividend,109.3175
+2014-06-29,117751,JPMorgan India Liquid Fund - Super Institutional Plan - Annual Dividend Option,11.7522
+2014-06-29,117752,JPMorgan India Liquid Fund - Super Institutional Plan - Bonus Option,16.9889
+2014-06-29,118055,L&T Cash Fund - Retail Plan - Growth option,1699.392
+2014-06-29,118056,L&T Overnight Fund - Regular Plan - Daily IDCW,1023.3
+2014-06-29,118058,L&T Overnight Fund - Regular Plan - Growth,1061.0067
+2014-06-29,118059,L&T Cash Fund - Institutional Plan - Growth Option,1751.4517
+2014-06-29,118062,L&T Cash Fund - Retail Plan - Monthly Dividend Option,1016.0167
+2014-06-29,118065,L&T Overnight Fund - Regular Plan - Weekly IDCW,1001.3445
+2014-06-29,118066,L&T Overnight Fund  - Regular Plan - Monthly IDCW,1019.1312
+2014-06-29,118220,SBI DEBT FUND SERIES - 60 MONTHS - 2 - DIVIDEND,11.2318
+2014-06-29,118221,SBI DEBT FUND SERIES - 60 MONTHS - 2 - GROWTH,11.2318
+2014-06-29,118304,CANARA ROBECO LIQUID FUND - DIRECT PLAN - IDCW (Payout/Reinvestment),1141.9282
+2014-06-29,118305,CANARA ROBECO LIQUID FUND - DIRECT PLAN - GROWTH OPTION,1595.0099
+2014-06-29,118306,CANARA ROBECO LIQUID FUND - DIRECT PLAN - MONTHLY IDCW (Payout/Reinvestment),1000.9666
+2014-06-29,118307,CANARA ROBECO LIQUID FUND - DIRECT PLAN - DAILY IDCW (Reinvestment),1005.5
+2014-06-29,118308,CANARA ROBECO LIQUID FUND - DIRECT PLAN - WEEKLY IDCW (Payout/Reinvestment),1000.9516
+2014-06-29,118328,Sundaram Money Fund Regular Plan - Bonus,16.9272
+2014-06-29,118345,IDBI Liquid Fund Growth Direct,1406.1887
+2014-06-29,118363,BANDHAN LIQUID Fund -Direct Plan-Periodic IDCW,1095.2536
+2014-06-29,118364,BANDHAN LIQUID Fund -Direct Plan-Growth,1594.1208
+2014-06-29,118365,BANDHAN LIQUID Fund -Direct Plan -Monthly IDCW,1007.5133
+2014-06-29,118366,BANDHAN LIQUID Fund -Direct Plan-Daily IDCW,1000.5365
+2014-06-29,118367,BANDHAN LIQUID Fund -Direct Plan -Weekly IDCW,1005.2964
+2014-06-29,118449,IDBI Liquid Fund- Monthly IDCW Direct,1002.2888
+2014-06-29,118450,IDBI Liquid Fund-Daily IDCW Direct,1001.0209
+2014-06-29,118451,IDBI Liquid Fund-Weekly IDCW Direct,1002.8521
+2014-06-29,118507,Franklin India Floating Rate Fund - Direct - IDCW,10.0095
+2014-06-29,118508,Franklin India Floating Rate Fund - Direct - Growth,20.997
+2014-06-29,118577,Franklin India Liquid Fund - Super Institutional - Direct - Growth,1957.0857
+2014-06-29,118578,Franklin India Liquid Fund - Super Institutional Plan - Direct - Daily - IDCW,1001.8518
+2014-06-29,118579,Franklin India Liquid Fund - Super Institutional Plan - Direct - Weekly - IDCW,1021.3891
+2014-06-29,118609,Reliance Liquid Fund - Cash Plan - Direct Plan Monthly Dividend Plan,1005.5408
+2014-06-29,118610,Reliance Liquid Fund - Cash Plan - Direct Plan - Growth Plan - Growth Option,2110.9393
+2014-06-29,118611,Reliance Liquid Fund - Cash Plan - Direct Plan Weekly Dividend Reinvestment Option,1092.2176
+2014-06-29,118612,Reliance Liquid Fund - Cash Plan - Direct Plan Quarterly Dividend Plan,1012.5353
+2014-06-29,118618,Reliance Liquid Fund - Cash Plan - Direct Plan Daily Dividend Reinvestment Option,1114.15
+2014-06-29,118636,Edelweiss Liquid Fund-Direct Plan-Growth Option,1286.7021
+2014-06-29,118637,Edelweiss Liquid Fund-Direct Plan-Daily Dividend Option,1000.0
+2014-06-29,118695,NIPPON INDIA LIQUID FUND - DIRECT Plan - DAILY IDCW OPTION,1528.74
+2014-06-29,118696,NIPPON INDIA LIQUID FUND - DIRECT Plan - MONTHLY IDCW OPTION,1591.659
+2014-06-29,118698,NIPPON INDIA LIQUID FUND - DIRECT Plan - QUARTERLY IDCW OPTION,1008.5045
+2014-06-29,118700,NIPPON INDIA LIQUID FUND - DIRECT Plan - WEEKLY IDCW OPTION,1531.0315
+2014-06-29,118701,Nippon India Liquid Fund - Direct Plan Growth Plan - Growth Option,3197.4591
+2014-06-29,118715,Nippon India Money Market Fund - Direct Plan Growth Plan - Bonus Option,1162.4303
+2014-06-29,118716,NIPPON INDIA MONEY MARKET FUND - DIRECT Plan - QUARTERLY IDCW Option,1005.3081
+2014-06-29,118717,NIPPON INDIA MONEY MARKET FUND - DIRECT Plan - WEEKLY IDCW Option,1000.8245
+2014-06-29,118718,NIPPON INDIA MONEY MARKET FUND - DIRECT Plan - DAILY IDCW Option,1000.51
+2014-06-29,118719,Nippon India Money Market Fund - Direct Plan Growth Plan - Growth Option,1976.8479
+2014-06-29,118720,NIPPON INDIA MONEY MARKET FUND - DIRECT Plan - MONTHLY IDCW Option,1002.6475
+2014-06-29,118859,Mirae Asset Liquid Fund - Direct Plan - Growth,1393.1484
+2014-06-29,118861,Mirae Asset Liquid Fund - Direct Plan -Daily IDCW,1062.611
+2014-06-29,118862,Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW,1187.5488
+2014-06-29,118891,Taurus Liquid Fund-Direct Plan-SI Daily Dividend Option,1000.262
+2014-06-29,118892,Taurus Liquid Fund-Direct Plan-SI Weekly Dividend Option,1000.7024
+2014-06-29,118893,Taurus Liquid Fund-Direct Plan-SI Growth Option,1418.509
+2014-06-29,118901,HSBC Liquid Fund - Regular Daily IDCW,1000.56
+2014-06-29,118902,HSBC Liquid Fund - Regular Growth,1308.1389
+2014-06-29,118903,HSBC Liquid Fund - Regular Monthly IDCW,1001.0083
+2014-06-29,118904,HSBC Liquid Fund - Regular Weekly IDCW,1111.8054
+2014-06-29,118906,HSBC Liquid Fund - IDCW,1019.3
+2014-06-29,118907,HSBC Liquid Fund - Growth,2025.2007
+2014-06-29,118908,HSBC Liquid Fund - Weekly IDCW,1002.6217
+2014-06-29,118909,HSBC Liquid Fund - Institutional Daily IDCW,1097.6084
+2014-06-29,118910,HSBC Cash Fund - Institutional Plan - Growth,2080.0243
+2014-06-29,118997,DWS Insta Cash Plus Fund - Direct Plan - Annual Dividend,117.1548
+2014-06-29,118998,DWS Insta Cash Plus Fund - Direct Plan - Daily Dividend,100.304
+2014-06-29,119000,DWS Insta Cash Plus Fund - Direct Plan - Growth,170.3548
+2014-06-29,119002,DWS Insta Cash Plus Fund - Direct Plan - Weekly Dividend,100.5522
+2014-06-29,119003,DWS Insta Cash Plus Fund - Direct Plan -  Regular Bonus,116.4642
+2014-06-29,119008,DWS Treasury Fund - Cash Plan - Direct Plan - Daily Dividend,100.391
+2014-06-29,119009,DWS Treasury Fund - Cash Plan - Direct Plan - Growth,141.2152
+2014-06-29,119013,DWS Treasury Fund - Cash Plan - Direct Plan - Weekly Dividend,109.5978
+2014-06-29,119088,HDFC Liquid Fund - IDCW Weekly - Direct Plan,10.3248
+2014-06-29,119089,HDFC Liquid Fund - IDCW Daily - Direct Plan,10.1982
+2014-06-29,119090,HDFC Liquid Fund - IDCW Monthly - Direct Plan,10.3456
+2014-06-29,119091,HDFC Liquid Fund - Growth Option - Direct Plan,25.8912
+2014-06-29,119092,HDFC Money Market Fund - Growth Option - Direct Plan,27.3987
+2014-06-29,119093,HDFC Money Market Fund - Daily IDCW Option - Direct Plan,10.6364
+2014-06-29,119094,HDFC Money Market Fund - Weekly IDCW Option -Direct Plan,10.6297
+2014-06-29,119109,HDFC Overnight Fund - Daily IDCW Option - Direct Plan,10.4266
+2014-06-29,119110,HDFC Overnight Fund - Growth Option - Direct Plan,20.7712
+2014-06-29,119123,DSP Liquidity Fund - Direct Plan - IDCW - Weekly,1001.0642
+2014-06-29,119124,DSP Liquidity Fund - Direct Plan - IDCW - Daily,1000.3161
+2014-06-29,119125,DSP Liquidity Fund - Direct Plan - Growth,1876.3855
+2014-06-29,119135,Groww Liquid Fund ( formerly known as Indiabulls Liquid )Fund - Direct Plan - Growth Option,1275.7913
+2014-06-29,119136,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),1000.4324
+2014-06-29,119161,Navi Liquid Fund - Direct Plan Monthly IDCW - Payout,10.0175
+2014-06-29,119162,Navi Liquid Fund - Direct Plan Weekly IDCW - Payout,10.036
+2014-06-29,119163,Navi Liquid Fund - Direct Plan Daily IDCW - ReInvestment,10.0129
+2014-06-29,119164,Navi Liquid Fund-Direct Plan-Growth Option,14.4013
+2014-06-29,119282,L&T Overnight Fund - Direct Plan- Monthly IDCW,1022.0672
+2014-06-29,119283,L&T Overnight Fund - Direct Plan - Growth,1064.2817
+2014-06-29,119284,L&T Overnight Fund - Direct Plan- Daily IDCW,1091.3392
+2014-06-29,119285,L&T Overnight Fund - Direct Plan- Weekly IDCW,1002.7853
+2014-06-29,119301,Union Liquid Fund - Direct Plan - Daily IDCW Option,1000.6506
+2014-06-29,119302,Union Liquid Fund - Direct Plan - Monthly IDCW Option,1001.2239
+2014-06-29,119303,Union Liquid Fund - Direct Plan - Growth Option,1314.6299
+2014-06-29,119304,Union Liquid Fund - Direct Plan - Weekly IDCW Option,1001.6862
+2014-06-29,119305,Union Liquid Fund - Direct Plan - Fortnightly IDCW Option,1001.2234
+2014-06-29,119355,PineBridge India Liquid Fund- Direct Plan- Daily Dividend Option,1001.0
+2014-06-29,119360,PineBridge India Liquid Fund- Direct Plan- Growth Option,1641.7569
+2014-06-29,119368,BANK OF INDIA Liquid Fund- Direct Plan- Daily IDCW,1002.6483
+2014-06-29,119369,BANK OF INDIA Liquid Fund- Direct Plan- Growth,1511.0993
+2014-06-29,119370,BANK OF INDIA Liquid Fund- Direct Plan- Weekly IDCW,1033.3435
+2014-06-29,119414,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - DAILY IDCW OPTION,1001.1191
+2014-06-29,119415,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - GROWTH OPTION,1504.4421
+2014-06-29,119416,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - WEEKLY IDCW OPTION,1092.7277
+2014-06-29,119421,Tata Money Market Fund- Direct Plan - Daily Reinvestment of IDCW Option,1114.52
+2014-06-29,119422,Tata Liquid Fund- Direct Plan- Weekly Dividend,1001.8541
+2014-06-29,119423,Tata Liquid Fund- Direct Plan- Monthly Dividend,1000.7057
+2014-06-29,119424,Tata Money Market Fund- Direct Plan- Growth Option,2421.7312
+2014-06-29,119442,Tata Liquidity Management Fund- Direct Plan-Weekly Dividend,1006.674
+2014-06-29,119443,Tata Liquidity Management Fund- Direct Plan-Daily Dividend,1002.6089
+2014-06-29,119444,Tata Liquidity Management Fund- Direct Plan-Growth,1759.5111
+2014-06-29,119466,Principal Cash Management Fund -Direct Plan - Income Distribution CUM Capital Withdrawal Option - Monthly,1023.9504
+2014-06-29,119467,Principal Cash Management Fund - Direct Plan - Income Distribution CUM Capital Withdrawal Option - Daily,1000.387
+2014-06-29,119468,Principal Cash Management Fund - Direct Plan - Growth Option,1275.5512
+2014-06-29,119469,Principal Cash Management Fund - Direct Plan - Income Distribution CUM Capital Withdrawal Option - Weekly,1007.7044
+2014-06-29,119511,Aditya Birla Sun Life Money Manager Fund - Growth - Direct Plan,174.5785
+2014-06-29,119512,Aditya Birla Sun Life Money Manager Fund - Direct - weekly IDCW,100.1246
+2014-06-29,119513,Aditya Birla Sun Life Money Manager Fund - Direct - daily IDCW,100.02
+2014-06-29,119568,Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan,210.4787
+2014-06-29,119569,Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW,100.195
+2014-06-29,119570,Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW,100.273
+2014-06-29,119571,Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW,112.3199
+2014-06-29,119686,Sundaram Money Fund Direct Plan - Growth,27.6689
+2014-06-29,119687,Sundaram Money Fund Direct Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW),10.6204
+2014-06-29,119688,Sundaram Money Fund Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.1025
+2014-06-29,119690,Sundaram Money Fund Direct Plan - Bonus,16.9437
+2014-06-29,119691,Sundaram Money Fund Direct Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),11.4573
+2014-06-29,119692,Sundaram Money Fund Direct Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),25.4081
+2014-06-29,119745,Kotak Money Market Fund - (Daily Reinvestment of Income Distribution cum capital withdrawal option) - Direct,1011.62
+2014-06-29,119746,Kotak Money Market Fund - (Growth) - Direct,2150.5397
+2014-06-29,119747,Kotak Money Market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option) - Direct,1010.6977
+2014-06-29,119748,Kotak Money Market Fund - (Weekly Reinvestment of Income Distribution cum capital withdrawal option) - Direct,1015.0625
+2014-06-29,119764,Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,1222.81
+2014-06-29,119765,Kotak Liquid Fund - Weekly  Payout of Income Distribution cum capital withdrawal option - Direct,1003.9686
+2014-06-29,119766,Kotak Liquid Fund - Direct Plan - Growth,2661.6056
+2014-06-29,119784,SBI Ultra Short Duration Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),1675.03
+2014-06-29,119790,L&T Liquid Fund - Direct Plan -Growth,1798.5505
+2014-06-29,119791,L&T Liquid Fund - Direct Plan -Daily IDCW,1012.0499
+2014-06-29,119799,SBI Liquid Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1061.3108
+2014-06-29,119800,SBI Liquid Fund - DIRECT PLAN -Growth,2062.0167
+2014-06-29,119804,SBI Liquid Fund - Direct Paln - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW),1013.7676
+2014-06-29,119805,SBI Liquid Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),1003.25
+2014-06-29,119828,SBI ULTRA SHORT DURATION FUND - DIRECT PLAN - GROWTH,2902.3437
+2014-06-29,119829,SBI Ultra Short Duration Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1077.8351
+2014-06-29,119831,SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),1009.91
+2014-06-29,119832,SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1031.4249
+2014-06-29,119833,SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH,2247.8159
+2014-06-29,119861,Tata Liquid Fund- Direct Plan-Growth Option,2066.7035
+2014-06-29,119862,Tata Liquid Fund- Direct Plan - Daily Reinvestment of IDCW Option,1001.5187
+2014-06-29,119902,JPMorgan India Liquid Fund - Direct Plan - Daily Dividend Option,10.0101
+2014-06-29,119903,JPMorgan India Liquid Fund - Direct Plan - Bonus Option,16.9983
+2014-06-29,119904,JPMorgan India Liquid Fund - Direct Plan - Weekly Dividend Option,10.1447
+2014-06-29,119905,JPMorgan India Liquid Fund - Direct Plan - Growth Option,17.0196
+2014-06-29,119906,JPMorgan India Liquid Fund - Direct Plan - Monthly Dividend Option,10.0423
+2014-06-29,119933,ING Liquid Fund - Super Institutional Plan - Direct Plan- Daily Dividend Option,10.0048
+2014-06-29,119934,ING Liquid Fund - Super Institutional Plan - Direct Plan- Weekly Dividend Option,10.0247
+2014-06-29,119935,ING Liquid Fund - Super Institutional Plan - Direct Plan - Growth Option,19.5446
+2014-06-29,120037,HSBC Liquid Fund - Direct Daily IDCW,1000.56
+2014-06-29,120038,HSBC Liquid Fund -  Growth Direct,1308.4306
+2014-06-29,120039,HSBC Liquid Fund - Direct Monthly IDCW,1000.9584
+2014-06-29,120040,HSBC Liquid Fund - Direct Weekly IDCW,1111.8143
+2014-06-29,120102,DHFL Pramerica Liquid Fund - Direct Plan-Daily Dividend Option,1000.42
+2014-06-29,120104,DHFL Pramerica Liquid Fund - Direct Plan-Growth Option,1399.6888
+2014-06-29,120105,DHFL Pramerica Liquid Fund - Direct Plan-Monthly Dividend Option,1004.0011
+2014-06-29,120106,DHFL Pramerica Liquid Fund - Direct Plan-Weekly Dividend - Option,1001.2366
+2014-06-29,120187,ICICI Prudential Liquid Fund - Direct Plan -  Half Yearly IDCW,106.8485
+2014-06-29,120188,ICICI Prudential Liquid Fund - Direct Plan - Daily IDCW,100.0565
+2014-06-29,120189,ICICI Prudential Liquid Fund - Direct Plan - Monthly IDCW,100.2385
+2014-06-29,120190,ICICI Prudential Liquid Fund - Direct Plan - Weekly IDCW,100.3255
+2014-06-29,120196,ICICI Prudential Liquid Fund - Direct Plan - Quarterly IDCW,101.1592
+2014-06-29,120197,ICICI Prudential Liquid Fund - Direct Plan - Growth,194.146
+2014-06-29,120198,ICICI Prudential Liquid Fund - Direct Plan -  Annual IDCW,110.045
+2014-06-29,120209,ICICI Prudential Money Market Fund Option - Direct Plan -  Daily IDCW,100.1435
+2014-06-29,120210,ICICI Prudential Money Market Fund Option - Direct Plan -  Fortnightly IDCW,100.6398
+2014-06-29,120211,ICICI Prudential Money Market Fund Option - Direct Plan -  Growth,181.3863
+2014-06-29,120212,ICICI Prudential Money Market Fund Option - Direct Plan -  Weekly IDCW,100.5085
+2014-06-29,120213,ICICI Prudential Money Market Fund Option - Direct Plan -  Monthly IDCW,100.423
+2014-06-29,120216,ICICI Prudential Money Market Fund Option - Direct Plan -  IDCW Others,104.022
+2014-06-29,120248,LIC MF Liquid Fund-Direct Plan-Daily IDCW,1098.0
+2014-06-29,120249,LIC MF Liquid Fund-Direct Plan-Growth,2377.813
+2014-06-29,120253,Sahara Liquid Fund-Fixed Pricing -Direct - Daily Dividend Option- Direct,1038.5715
+2014-06-29,120262,Sahara Liquid Fund-Fixed Pricing - Direct -Growth option,2347.5522
+2014-06-29,120265,Sahara Liquid Fund-Fixed Pricing - Direct - Weekly Dividend Option,1027.4373
+2014-06-29,120266,Sahara Liquid Fund-Fixed Pricing -Direct - Monthly Dividend Option,1043.3721
+2014-06-29,120271,Sahara Liquid Fund-Variable Pricing -Direct - Daily Dividend option,1038.6441
+2014-06-29,120272,Sahara Liquid Fund-Variable Pricing -Direct - Weekly Dividend Option,1044.5547
+2014-06-29,120273,Sahara Liquid Fund-Variable Pricing- Direct - Monthly Dividend Option,1050.429
+2014-06-29,120280,Sahara Liquid Fund-Variable Pricing -Direct - Growth option,2373.701
+2014-06-29,120299,UTI MMF - Direct Plan - Growth Option,1469.5868
+2014-06-29,120304,UTI-  Liquid Cash Plan - Direct Plan - Growth Option,2150.4554
+2014-06-29,120388,Axis Liquid Fund - Direct Plan - Daily IDCW,1000.3096
+2014-06-29,120389,Axis Liquid Fund - Direct Plan - Growth Option,1453.8763
+2014-06-29,120390,Axis Liquid Fund - Direct Plan - Weekly IDCW,1003.5066
+2014-06-29,120391,Axis Liquid Fund - Direct Plan - Monthly IDCW,1001.0246
+2014-06-29,120406,JM Liquid Fund (Direct) - Growth Option,35.8188
+2014-06-29,120407,JM Liquid Fund (Direct) - Weekly IDCW,11.0193
+2014-06-29,120408,JM Liquid Fund (Direct) - Quarterly IDCW,20.2929
+2014-06-29,120410,JM Liquid Fund (Direct) - Bonus Option - Bonus Option - Principal units,11.4795
+2014-06-29,120411,JM Liquid Fund (Direct) - Daily IDCW,10.4302
+2014-06-29,120414,JM Floater Short Term Fund (Direct) - Daily Dividend Option,10.0884
+2014-06-29,120415,JM Floater Short Term Fund (Direct) - Growth Option,20.3891
+2014-06-29,120534,Invesco India Liquid Fund - Direct Plan- Daily IDCW (Reinvestment),1000.79
+2014-06-29,120535,Invesco India Liquid Fund - Direct Plan - Weekly IDCW (Reinvestment),1001.9699
+2014-06-29,120536,Invesco India Liquid Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),1003.4255
+2014-06-29,120537,Invesco India Liquid Fund - Direct Plan - Growth,1804.1059
+2014-06-29,120556,Religare Invesco Overnight Fund - Direct Plan - Daily Dividend Reinvestment,1000.01
+2014-06-29,120557,Religare Invesco Overnight Fund - Direct Plan - Growth,1540.0259
+2014-06-29,120558,UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment),1019.4457
+2014-06-29,120772,UTI Money Market Fund - Direct Plan - Daily IDCW (Reinvestment),1003.3854
+2014-06-29,120777,UTI Liquid Fund - Direct Plan - Weekly IDCW,1053.9891
+2014-06-29,120793,UTI Money Market Fund - Direct Plan - Weekly IDCW,1015.5004
+2014-06-29,120794,UTI Liquid Fund - Direct Plan - Monthly IDCW,1031.7108
+2014-06-29,120898,SBI DEBT FUND SERIES - 60 MONTHS - 3 - REGULAR PLAN - GROWTH,11.1149
+2014-06-29,120899,SBI DEBT FUND SERIES - 60 MONTHS - 3 - REGULAR PLAN - DIVIDEND,11.1149
+2014-06-29,120900,SBI DEBT FUND SERIES - 60 MONTHS - 3 - DIRECT PLAN - GROWTH,11.1979
+2014-06-29,120901,SBI DEBT FUND SERIES - 60 MONTHS - 3 - DIRECT PLAN - DIVIDEND,11.1979
+2014-06-29,120908,SBI DEBT FUND SERIES - 36 MONTHS - 2 - DIRECT PLAN - DIVIDEND,11.2707
+2014-06-29,120909,SBI DEBT FUND SERIES - 36 MONTHS - 2 - REGULAR PLAN - DIVIDEND,11.1776
+2014-06-29,120910,SBI DEBT FUND SERIES - 36 MONTHS - 2 - REGULAR PLAN - GROWTH,11.1776
+2014-06-29,120911,SBI DEBT FUND SERIES - 36 MONTHS - 2 - DIRECT PLAN - GROWTH,11.2707
+2014-06-29,122205,DWS Insta Cash Plus Fund - Direct Plan -Monthly Bonus,111.803
+2014-06-29,122206,DWS INSTA CASH PLUS FUND-Monthly Bonus Option,103.3031
+2014-06-29,122209,DWS Treasury Fund - Cash Plan - Monthly Bonus,111.6405
+2014-06-29,122210,DWS Treasury Fund - Cash Plan - Direct Plan - Monthly Bonus,111.7773
+2014-06-29,122235,L&T Liquid Fund - Direct Plan - Weekly IDCW,1001.8673
+2014-06-29,122257,DHFL Pramerica Liquid Fund-Bonus Option,1397.489
+2014-06-29,122258,DHFL Pramerica Liquid Fund-Direct Plan-Bonus Option,1399.3264
+2014-06-29,122314,JM Floater Short Term Fund (Direct) - Bonus Option - Principal Units,20.3884
+2014-06-29,122322,JM Floater Short Term Fund - Bonus Option - Principal Units,20.3414
+2014-06-29,122675,DWS Insta Cash Plus Fund - Direct Plan -  Annual Bonus Option,102.9637
+2014-06-29,122676,DWS INSTA CASH PLUS FUND - Annual Bonus Option,169.8432
+2014-06-29,122787,Religare Invesco Liquid Fund - Direct Plan - Bonus Option,1804.2256
+2014-06-29,122792,Religare Invesco Overnight Fund - Bonus Option,1533.9415
+2014-06-29,122793,Religare Invesco Overnight Fund - Direct Plan - Bonus Option,1539.9139
+2014-06-29,122905,SBI DEBT FUND SERIES - 366 DAYS - 32 - DIRECT PLAN - GROWTH,10.7909
+2014-06-29,122906,SBI DEBT FUND SERIES - 366 DAYS - 32 - REGULAR PLAN - GROWTH,10.7857
+2014-06-29,122907,SBI DEBT FUND SERIES - 366 DAYS - 32 - DIRECT PLAN - DIVIDEND,10.7909
+2014-06-29,122908,SBI DEBT FUND SERIES - 366 DAYS - 32 - REGULAR PLAN - DIVIDEND,10.7857
+2014-06-29,122991,SBI DEBT FUND SERIES - 366 DAYS - 33 - DIRECT PLAN - DIVIDEND,10.8632
+2014-06-29,122992,SBI DEBT FUND SERIES - 366 DAYS - 33 - REGULAR PLAN - GROWTH,10.8581
+2014-06-29,122993,SBI DEBT FUND SERIES - 366 DAYS - 33 - REGULAR PLAN - DIVIDEND,10.8581
+2014-06-29,122994,SBI DEBT FUND SERIES - 366 DAYS - 33 - DIRECT PLAN - GROWTH,10.8632
+2014-06-29,123167,SBI DEBT FUND SERIES - 366 DAYS - 34 - DIRECT PLAN - DIVIDEND,10.8927
+2014-06-29,123168,SBI DEBT FUND SERIES - 366 DAYS - 34 - REGULAR PLAN - GROWTH,10.8788
+2014-06-29,123169,SBI DEBT FUND SERIES - 366 DAYS - 34 - DIRECT PLAN - GROWTH,10.8927
+2014-06-29,123170,SBI DEBT FUND SERIES - 366 DAYS - 34 - REGULAR PLAN - DIVIDEND,10.8788
+2014-06-29,123321,SBI DEBT FUND SERIES - 366 DAYS - 35 - DIRECT PLAN - DIVIDEND,10.882
+2014-06-29,123322,SBI DEBT FUND SERIES - 366 DAYS - 35 - REGULAR PLAN - GROWTH,10.8691
+2014-06-29,123323,SBI DEBT FUND SERIES - 366 DAYS - 35 - REGULAR PLAN - DIVIDEND,10.8691
+2014-06-29,123324,SBI DEBT FUND SERIES - 366 DAYS - 35 - DIRECT PLAN - GROWTH,10.882
+2014-06-29,123494,SBI DEBT FUND SERIES - 366 DAYS - 36 - DIRECT PLAN - GROWTH,10.9037
+2014-06-29,123495,SBI DEBT FUND SERIES - 366 DAYS - 36 - REGULAR PLAN - GROWTH,10.8913
+2014-06-29,123496,SBI DEBT FUND SERIES - 366 DAYS - 36 - REGULAR PLAN - DIVIDEND,10.8913
+2014-06-29,123497,SBI DEBT FUND SERIES - 366 DAYS - 36 - DIRECT PLAN - DIVIDEND,10.9037
+2014-06-29,123647,SBI DEBT FUND SERIES - 36 MONTHS - 4 - DIRECT PLAN - DIVIDEND,11.0243
+2014-06-29,123648,SBI DEBT FUND SERIES - 36 MONTHS - 4 - REGULAR PLAN - DIVIDEND,11.0092
+2014-06-29,123649,SBI DEBT FUND SERIES - 36 MONTHS - 4 - DIRECT PLAN - GROWTH,11.0243
+2014-06-29,123650,SBI DEBT FUND SERIES - 36 MONTHS - 4 - REGULAR PLAN - GROWTH,11.0092
+2014-06-29,123728,SBI DEBT FUND SERIES - 366 DAYS - 37 - DIRECT PLAN - DIVIDEND,10.8923
+2014-06-29,123729,SBI DEBT FUND SERIES - 366 DAYS - 37 - DIRECT PLAN - GROWTH,10.8923
+2014-06-29,123730,SBI DEBT FUND SERIES - 366 DAYS - 37 - REGULAR PLAN - GROWTH,10.8813
+2014-06-29,123731,SBI DEBT FUND SERIES - 366 DAYS - 37 - REGULAR PLAN - DIVIDEND,10.8813
+2014-06-29,123996,SBI DEBT FUND SERIES - 366 DAYS - 38 - DIRECT PLAN - DIVIDEND,10.901
+2014-06-29,123997,SBI DEBT FUND SERIES - 366 DAYS - 38 - DIRECT PLAN - GROWTH,10.901
+2014-06-29,123998,SBI DEBT FUND SERIES - 366 DAYS - 38 - REGULAR PLAN - DIVIDEND,10.8902
+2014-06-29,123999,SBI DEBT FUND SERIES - 366 DAYS - 38 - REGULAR PLAN - GROWTH,10.8902
+2014-06-29,124001,SBI DEBT FUND SERIES - 36 MONTHS - 5 - DIRECT PLAN - GROWTH,10.8776
+2014-06-29,124002,SBI DEBT FUND SERIES - 36 MONTHS - 5 - REGULAR PLAN - GROWTH,10.8642
+2014-06-29,124003,SBI DEBT FUND SERIES - 36 MONTHS - 5 - REGULAR PLAN - DIVIDEND,10.8642
+2014-06-29,124369,SBI DEBT FUND SERIES - 366 DAYS - 39 - DIRECT PLAN - DIVIDEND,10.8245
+2014-06-29,124370,SBI DEBT FUND SERIES - 366 DAYS - 39 - DIRECT PLAN - GROWTH,10.8245
+2014-06-29,124371,SBI DEBT FUND SERIES - 366 DAYS - 39 - REGULAR PLAN - DIVIDEND,10.8098
+2014-06-29,124372,SBI DEBT FUND SERIES - 366 DAYS - 39 - REGULAR PLAN - GROWTH,10.8098
+2014-06-29,124373,SBI DEBT FUND SERIES - 36 MONTHS - 6 - DIRECT PLAN - DIVIDEND,10.8592
+2014-06-29,124374,SBI DEBT FUND SERIES - 36 MONTHS - 6 - DIRECT PLAN - GROWTH,10.8592
+2014-06-29,124375,SBI DEBT FUND SERIES - 36 MONTHS - 6 - REGULAR PLAN - DIVIDEND,10.826
+2014-06-29,124376,SBI DEBT FUND SERIES - 36 MONTHS - 6 - REGULAR PLAN - GROWTH,10.826
+2014-06-29,124525,SBI DEBT FUND SERIES - 366 DAYS - 40 - DIRECT PLAN - GROWTH,10.8032
+2014-06-29,124526,SBI DEBT FUND SERIES - 366 DAYS - 40 - REGULAR PLAN - DIVIDEND,10.7855
+2014-06-29,124527,SBI DEBT FUND SERIES - 366 DAYS - 40 - DIRECT PLAN - DIVIDEND,10.8032
+2014-06-29,124528,SBI DEBT FUND SERIES - 366 DAYS - 40 - REGULAR PLAN - GROWTH,10.7855
+2014-06-29,124726,SBI DEBT FUND SERIES - 366 DAYS - 41 - DIRECT PLAN - DIVIDEND,10.7283
+2014-06-29,124727,SBI DEBT FUND SERIES - 366 DAYS - 41 - REGULAR PLAN - DIVIDEND,10.7119
+2014-06-29,124728,SBI DEBT FUND SERIES - 366 DAYS - 41 - DIRECT PLAN - GROWTH,10.7283
+2014-06-29,124729,SBI DEBT FUND SERIES - 366 DAYS - 41 - REGULAR PLAN - GROWTH,10.7119
+2014-06-29,124938,SBI DEBT FUND SERIES - 366 DAYS - 42 - DIRECT PLAN - DIVIDEND,10.6227
+2014-06-29,124939,SBI DEBT FUND SERIES - 366 DAYS - 42 - REGULAR PLAN - DIVIDEND,10.6075
+2014-06-29,124940,SBI DEBT FUND SERIES - 366 DAYS - 42 - DIRECT PLAN - GROWTH,10.6228
+2014-06-29,124941,SBI DEBT FUND SERIES - 366 DAYS - 42 - REGULAR PLAN - GROWTH,10.6075
+2014-06-29,125005,SBI DEBT FUND SERIES - 18 MONTHS - 12 - DIRECT PLAN - GROWTH,10.6468
+2014-06-29,125006,SBI DEBT FUND SERIES - 18 MONTHS - 12 - REGULAR PLAN - DIVIDEND,10.626
+2014-06-29,125007,SBI DEBT FUND SERIES - 18 MONTHS - 12 - REGULAR PLAN - GROWTH,10.626
+2014-06-29,125008,SBI DEBT FUND SERIES - 18 MONTHS - 12 - DIRECT PLAN - DIVIDEND,10.6468
+2014-06-29,125129,Baroda BNP Paribas Liquid Fund - Plan B (Direct) - Bonus Option,1504.6448
+2014-06-29,125138,SBI DEBT FUND SERIES - 366 DAYS - 43 - DIRECT PLAN - DIVIDEND,10.5948
+2014-06-29,125139,SBI DEBT FUND SERIES - 366 DAYS - 43 - DIRECT PLAN - GROWTH,10.5948
+2014-06-29,125140,SBI DEBT FUND SERIES - 366 DAYS - 43 - REGULAR PLAN - DIVIDEND,10.584
+2014-06-29,125141,SBI DEBT FUND SERIES - 366 DAYS - 43 - REGULAR PLAN - GROWTH,10.584
+2014-06-29,125243,SBI DEBT FUND SERIES - 366 DAYS - 44 - DIRECT PLAN - DIVIDEND,10.5845
+2014-06-29,125244,SBI DEBT FUND SERIES - 366 DAYS - 44 - DIRECT PLAN - GROWTH,10.5845
+2014-06-29,125245,SBI DEBT FUND SERIES - 366 DAYS - 44 - REGULAR PLAN - GROWTH,10.5739
+2014-06-29,125246,SBI DEBT FUND SERIES - 366 DAYS - 44 - REGULAR PLAN - DIVIDEND,10.5739
+2014-06-29,125259,360 ONE LIQUID FUND REGULAR PLAN  GROWTH,1051.6882
+2014-06-29,125337,360 ONE LIQUID FUND REGULAR PLAN  WEEKLY DIVIDEND,1006.1291
+2014-06-29,125338,360 ONE LIQUID FUND REGULAR PLAN  FORTNIGHTLY DIVIDEND,1009.6801
+2014-06-29,125342,360 ONE LIQUID FUND REGULAR PLAN  DAILY DIVIDEND REINVESTMENT,1000.0
+2014-06-29,125345,360 ONE LIQUID FUND DIRECT PLAN  GROWTH,1052.0229
+2014-06-29,125348,360 ONE LIQUID FUND DIRECT PLAN  HALF YEARLY DIVIDEND,1052.0264
+2014-06-29,125406,SBI DEBT FUND SERIES - 366 DAYS - 45 - DIRECT PLAN - DIVIDEND,10.5708
+2014-06-29,125407,SBI DEBT FUND SERIES - 366 DAYS - 45 - REGULAR PLAN - DIVIDEND,10.5609
+2014-06-29,125408,SBI DEBT FUND SERIES - 366 DAYS - 45 - REGULAR PLAN - GROWTH,10.5609
+2014-06-29,125409,SBI DEBT FUND SERIES - 366 DAYS - 45 - DIRECT PLAN - GROWTH,10.5708
+2014-06-29,125461,SBI DEBT FUND SERIES - 18 MONTHS - 13 - DIRECT PLAN - GROWTH,10.6166
+2014-06-29,125462,SBI DEBT FUND SERIES - 18 MONTHS - 13 - REGULAR PLAN - DIVIDEND,10.6024
+2014-06-29,125463,SBI DEBT FUND SERIES - 18 MONTHS - 13 - REGULAR PLAN - GROWTH,10.6024
+2014-06-29,125519,SBI DEBT FUND SERIES - 366 DAYS - 46 - DIRECT PLAN - DIVIDEND,10.551
+2014-06-29,125520,SBI DEBT FUND SERIES - 366 DAYS - 46 - REGULAR PLAN - DIVIDEND,10.5419
+2014-06-29,125521,SBI DEBT FUND SERIES - 366 DAYS - 46 - REGULAR PLAN - GROWTH,10.5419
+2014-06-29,125522,SBI DEBT FUND SERIES - 366 DAYS - 46 - DIRECT PLAN - GROWTH,10.5515
+2014-06-29,125657,SBI DEBT FUND SERIES - 366 DAYS - 47 - DIRECT PLAN - DIVIDEND,10.5512
+2014-06-29,125658,SBI DEBT FUND SERIES - 366 DAYS - 47 - DIRECT PLAN - GROWTH,10.5512
+2014-06-29,125659,SBI DEBT FUND SERIES - 366 DAYS - 47 - REGULAR PLAN - DIVIDEND,10.5375
+2014-06-29,125660,SBI DEBT FUND SERIES - 366 DAYS - 47 - REGULAR PLAN - GROWTH,10.5375
+2014-06-29,125719,SBI DEBT FUND SERIES - 36 MONTHS - 7 - DIRECT PLAN - DIVIDEND,10.5678
+2014-06-29,125720,SBI DEBT FUND SERIES - 36 MONTHS - 7 - REGULAR PLAN - DIVIDEND,10.5573
+2014-06-29,125721,SBI DEBT FUND SERIES - 36 MONTHS - 7 - DIRECT PLAN - GROWTH,10.5678
+2014-06-29,125722,SBI DEBT FUND SERIES - 36 MONTHS - 7 - REGULAR PLAN - GROWTH,10.5573
+2014-06-29,125733,SBI DEBT FUND SERIES - 17 MONTHS - 1- DIRECT PLAN - DIVIDEND,10.5464
+2014-06-29,125734,SBI DEBT FUND SERIES - 17 MONTHS - 1 - DIRECT PLAN - GROWTH,10.5464
+2014-06-29,125735,SBI DEBT FUND SERIES - 17 MONTHS - 1 - REGULAR PLAN - DIVIDEND,10.5329
+2014-06-29,125736,SBI DEBT FUND SERIES - 17 MONTHS - 1 - REGULAR PLAN - GROWTH,10.5329
+2014-06-29,125793,SBI DEBT FUND SERIES - 366 DAYS - 48 - DIRECT PLAN - DIVIDEND,10.5111
+2014-06-29,125794,SBI DEBT FUND SERIES - 366 DAYS - 48 - DIRECT PLAN - GROWTH,10.5111
+2014-06-29,125795,SBI DEBT FUND SERIES - 366 DAYS - 48 - REGULAR PLAN - DIVIDEND,10.5025
+2014-06-29,125796,SBI DEBT FUND SERIES - 366 DAYS - 48 - REGULAR PLAN - GROWTH,10.5025
+2014-06-29,126093,SBI DEBT FUND SERIES - 366 DAYS - 49 - DIRECT PLAN - DIVIDEND,10.4985
+2014-06-29,126094,SBI DEBT FUND SERIES - 366 DAYS - 49 - DIRECT PLAN - GROWTH,10.4985
+2014-06-29,126095,SBI DEBT FUND SERIES - 366 DAYS - 49 - REGULAR PLAN - GROWTH,10.4901
+2014-06-29,126096,SBI DEBT FUND SERIES - 366 DAYS - 49 - REGULAR PLAN - DIVIDEND,10.4901
+2014-06-29,126163,IDBI Liquid Fund Bonus Direct,1054.6399
+2014-06-29,126164,IDBI Liquid Fund Bonus Regular,1053.2033
+2014-06-29,126205,SBI DEBT FUND SERIES - 16 MONTHS - 1 - DIRECT PLAN - GROWTH,10.4796
+2014-06-29,126206,SBI DEBT FUND SERIES - 16 MONTHS - 1 - REGULAR PLAN - DIVIDEND,10.4682
+2014-06-29,126207,SBI DEBT FUND SERIES - 16 MONTHS - 1 - REGULAR PLAN - GROWTH,10.4682
+2014-06-29,126208,SBI DEBT FUND SERIES - 16 MONTHS - 1- DIRECT PLAN - DIVIDEND,10.4796
+2014-06-29,126209,SBI DEBT FUND SERIES - 16 MONTHS - 2 - DIRECT PLAN - GROWTH,10.45
+2014-06-29,126210,SBI DEBT FUND SERIES - 16 MONTHS - 2 - REGULAR PLAN - DIVIDEND,10.4402
+2014-06-29,126211,SBI DEBT FUND SERIES - 16 MONTHS - 2 - REGULAR PLAN - GROWTH,10.4402
+2014-06-29,126212,SBI DEBT FUND SERIES - 16 MONTHS - 2- DIRECT PLAN - DIVIDEND,10.45
+2014-06-29,126463,SBI Dual Advantage Fund Series - I - Regular Plan - Growth,10.8616
+2014-06-29,126464,SBI Dual Advantage Fund Series - I - Regular Plan - Dividend,10.8616
+2014-06-29,126465,SBI Dual Advantage Fund Series - I - Direct Plan - Growth,10.8729
+2014-06-29,126466,SBI Dual Advantage Fund Series - I - Direct Plan - Dividend,10.8729
+2014-06-29,126511,SBI DEBT FUND SERIES - 366 DAYS - 50 - DIRECT PLAN - DIVIDEND,10.434
+2014-06-29,126512,SBI DEBT FUND SERIES - 366 DAYS - 50 - DIRECT PLAN - GROWTH,10.4343
+2014-06-29,126513,SBI DEBT FUND SERIES - 366 DAYS - 50 - REGULAR PLAN - GROWTH,10.427
+2014-06-29,126514,SBI DEBT FUND SERIES - 366 DAYS - 50 - REGULAR PLAN - DIVIDEND,10.427
+2014-06-29,126524,Edelweiss Liquid Fund -Direct Plan- Bonus Option,1286.5756
+2014-06-29,126580,SBI DEBT FUND SERIES A - 1 REGULAR PLAN - GROWTH,10.4179
+2014-06-29,126581,SBI DEBT FUND SERIES A - 1 DIRECT - GROWTH,10.4378
+2014-06-29,126582,SBI DEBT FUND SERIES A - 1 DIRECT PLAN - DIVIDEND,10.4378
+2014-06-29,126583,SBI DEBT FUND SERIES A - 1 REGULAR PLAN DIVIDEND,10.4179
+2014-06-29,126747,SBI DEBT FUND SERIES - 366 DAYS - 51 REGULAR PLAN - DIVIDEND,10.3996
+2014-06-29,126748,SBI DEBT FUND SERIES - 366 DAYS - 51 DIRECT PLAN - GROWTH,10.4065
+2014-06-29,126749,SBI DEBT FUND SERIES - 366 DAYS - 51 REGULAR PLAN - GROWTH,10.3996
+2014-06-29,126750,SBI DEBT FUND SERIES - 366 DAYS - 51 DIRECT PLAN - DIVIDEND,10.4065
+2014-06-29,126912,SBI DEBT FUND SERIES A - 2 DIRECT - GROWTH,10.4079
+2014-06-29,126914,SBI DEBT FUND SERIES A - 2 REGULAR PLAN - GROWTH,10.3921
+2014-06-29,126915,SBI DEBT FUND SERIES A - 2 REGULAR PLAN - DIVIDEND,10.3921
+2014-06-29,127111,SBI DEBT FUND SERIES A - 3 DIRECT - GROWTH,10.3857
+2014-06-29,127112,SBI DEBT FUND SERIES A - 3 DIRECT PLAN - DIVIDEND,10.3863
+2014-06-29,127113,SBI DEBT FUND SERIES A - 3 REGULAR PLAN - DIVIDEND,10.375
+2014-06-29,127114,SBI DEBT FUND SERIES A - 3 REGULAR PLAN - GROWTH,10.375
+2014-06-29,127337,SBI DEBT FUND SERIES A - 4 DIRECT - GROWTH,10.406
+2014-06-29,127338,SBI DEBT FUND SERIES A - 4 REGULAR PLAN - DIVIDEND,10.392
+2014-06-29,127339,SBI DEBT FUND SERIES A - 4 REGULAR PLAN - GROWTH,10.392
+2014-06-29,127340,SBI DEBT FUND SERIES A - 4 DIRECT PLAN - DIVIDEND,10.406
+2014-06-29,127341,SBI DEBT FUND SERIES - 366 DAYS - 52 - REGULAR PLAN - DIVIDEND,10.3848
+2014-06-29,127342,SBI DEBT FUND SERIES - 366 DAYS - 52 - REGULAR PLAN - GROWTH,10.3848
+2014-06-29,127343,SBI DEBT FUND SERIES - 366 DAYS - 52 - DIRECT PLAN - DIVIDEND,10.3887
+2014-06-29,127344,SBI DEBT FUND SERIES - 366 DAYS - 52 - DIRECT PLAN - GROWTH,10.3887
+2014-06-29,127514,SBI DEBT FUND SERIES A - 5 REGULAR PLAN - DIVIDEND,10.3636
+2014-06-29,127515,SBI DEBT FUND SERIES A - 5 REGULAR PLAN - GROWTH,10.3636
+2014-06-29,127516,SBI DEBT FUND SERIES A - 5 DIRECT - GROWTH,10.372
+2014-06-29,127517,SBI DEBT FUND SERIES A - 5 DIRECT PLAN - DIVIDEND,10.3717
+2014-06-29,127810,SBI DEBT FUND SERIES - 366 DAYS - 53 - DIRECT PLAN - DIVIDEND,10.3657
+2014-06-29,127811,SBI DEBT FUND SERIES - 366 DAYS - 53 - DIRECT PLAN - GROWTH,10.3657
+2014-06-29,127812,SBI DEBT FUND SERIES - 366 DAYS - 53 - REGULAR PLAN - DIVIDEND,10.3605
+2014-06-29,127813,SBI DEBT FUND SERIES - 366 DAYS - 53 - REGULAR PLAN - GROWTH,10.3605
+2014-06-29,128157,SBI DEBT FUND SERIES A - 6 REGULAR PLAN - GROWTH,10.3436
+2014-06-29,128158,SBI DEBT FUND SERIES A - 6 DIRECT - GROWTH,10.36
+2014-06-29,128160,SBI DEBT FUND SERIES A - 6 REGULAR PLAN - DIVIDEND,10.3436
+2014-06-29,128161,SBI DEBT FUND SERIES A - 7 DIRECT - GROWTH,10.366
+2014-06-29,128162,SBI DEBT FUND SERIES A - 7 DIRECT PLAN - DIVIDEND,10.366
+2014-06-29,128163,SBI DEBT FUND SERIES A - 7 REGULAR PLAN - DIVIDEND,10.3523
+2014-06-29,128164,SBI DEBT FUND SERIES A - 7 REGULAR PLAN - GROWTH,10.3523
+2014-06-29,128165,SBI DEBT FUND SERIES - 366 DAYS - 54 - DIRECT PLAN - DIVIDEND,10.3138
+2014-06-29,128166,SBI DEBT FUND SERIES - 366 DAYS - 54- DIRECT PLAN - GROWTH,10.3138
+2014-06-29,128167,SBI DEBT FUND SERIES - 366 DAYS - 54 - REGULAR PLAN - DIVIDEND,10.3059
+2014-06-29,128168,SBI DEBT FUND SERIES - 366 DAYS - 54 - REGULAR PLAN - GROWTH,10.3059
+2014-06-29,128321,SBI DEBT FUND SERIES A - 9 DIRECT - GROWTH,10.3148
+2014-06-29,128323,SBI DEBT FUND SERIES A - 9 REGULAR PLAN - GROWTH,10.3066
+2014-06-29,128324,SBI DEBT FUND SERIES A - 9 REGULAR PLAN - DIVIDEND,10.3066
+2014-06-29,128325,SBI DEBT FUND SERIES A - 10 DIRECT - GROWTH,10.3082
+2014-06-29,128326,SBI DEBT FUND SERIES A - 10 DIRECT PLAN - DIVIDEND,10.3082
+2014-06-29,128327,SBI DEBT FUND SERIES A - 10 REGULAR PLAN - DIVIDEND,10.2941
+2014-06-29,128328,SBI DEBT FUND SERIES A - 10 REGULAR PLAN - GROWTH,10.2941
+2014-06-29,128388,SBI DEBT FUND SERIES A - 11 DIRECT PLAN - GROWTH,10.3018
+2014-06-29,128389,SBI DEBT FUND SERIES A - 11 DIRECT PLAN - DIVIDEND,10.3017
+2014-06-29,128390,SBI DEBT FUND SERIES A - 11 REGULAR PLAN - GROWTH,10.2865
+2014-06-29,128391,SBI DEBT FUND SERIES A - 11 REGULAR PLAN - DIVIDEND,10.2865
+2014-06-29,128594,SBI DEBT FUND SERIES A - 12 DIRECT PLAN - GROWTH,10.2833
+2014-06-29,128595,SBI DEBT FUND SERIES A - 12 REGULAR PLAN - DIVIDEND,10.2746
+2014-06-29,128596,SBI DEBT FUND SERIES A - 12 REGULAR PLAN - GROWTH,10.2746
+2014-06-29,128597,SBI DEBT FUND SERIES A - 12 DIRECT PLAN - DIVIDEND,10.2833
+2014-06-29,128671,SBI DEBT FUND SERIES A - 13 REGULAR PLAN - GROWTH,10.2619
+2014-06-29,128673,SBI DEBT FUND SERIES A - 13 REGULAR PLAN - DIVIDEND,10.2619
+2014-06-29,128674,SBI DEBT FUND SERIES A - 13 DIRECT PLAN - GROWTH,10.2704
+2014-06-29,128693,SBI DEBT FUND SERIES A - 14 DIRECT PLAN - GROWTH,10.2467
+2014-06-29,128694,SBI DEBT FUND SERIES A - 14 REGULAR PLAN - DIVIDEND,10.233
+2014-06-29,128695,SBI DEBT FUND SERIES A - 14 REGULAR PLAN - GROWTH,10.233
+2014-06-29,128696,SBI DEBT FUND SERIES A - 14 DIRECT PLAN - DIVIDEND,10.2467
+2014-06-29,128701,SBI DEBT FUND SERIES A - 15 DIRECT PLAN - DIVIDEND,10.2892
+2014-06-29,128702,SBI DEBT FUND SERIES A - 15 DIRECT PLAN - GROWTH,10.2892
+2014-06-29,128703,SBI DEBT FUND SERIES A - 15 REGULAR PLAN - DIVIDEND,10.275
+2014-06-29,128704,SBI DEBT FUND SERIES A - 15 REGULAR PLAN - GROWTH,10.275
+2014-06-29,128931,SBI DEBT FUND SERIES A - 16 DIRECT PLAN - GROWTH,10.2365
+2014-06-29,128932,SBI DEBT FUND SERIES A - 16 REGULAR PLAN - DIVIDEND,10.2351
+2014-06-29,128933,SBI DEBT FUND SERIES A - 16 REGULAR PLAN - GROWTH,10.2351
+2014-06-29,128954,Axis Liquid Fund - Direct plan - Bonus Option,1453.8887
+2014-06-29,129117,SBI DEBT FUND SERIES A - 17 DIRECT PLAN - GROWTH,10.1933
+2014-06-29,129118,SBI DEBT FUND SERIES A - 17 REGULAR PLAN - GROWTH,10.1912
+2014-06-29,129119,SBI DEBT FUND SERIES A - 17 REGULAR PLAN - DIVIDEND,10.1912
+2014-06-29,129120,SBI DEBT FUND SERIES A - 17 DIRECT PLAN - DIVIDEND,10.1933
+2014-06-29,129297,SBI DEBT FUND SERIES A - 18 DIRECT PLAN - DIVIDEND,10.1893
+2014-06-29,129298,SBI DEBT FUND SERIES A - 18 REGULAR PLAN - GROWTH,10.1872
+2014-06-29,129299,SBI DEBT FUND SERIES A - 18 DIRECT PLAN - GROWTH,10.1893
+2014-06-29,129300,SBI DEBT FUND SERIES A - 18 REGULAR PLAN - DIVIDEND,10.1872
+2014-06-29,129363,SBI DEBT FUND SERIES A - 19 DIRECT PLAN - GROWTH,10.178
+2014-06-29,129364,SBI DEBT FUND SERIES A - 19 REGULAR PLAN - DIVIDEND,10.1761
+2014-06-29,129365,SBI DEBT FUND SERIES A - 19 REGULAR PLAN - GROWTH,10.1761
+2014-06-29,129366,SBI DEBT FUND SERIES A - 19 DIRECT PLAN - DIVIDEND,10.178
+2014-06-29,129391,SBI DEBT FUND SERIES A - 20 DIRECT PLAN - DIVIDEND,10.1723
+2014-06-29,129392,SBI DEBT FUND SERIES A - 20 DIRECT PLAN - GROWTH,10.1723
+2014-06-29,129393,SBI DEBT FUND SERIES A - 20 REGULAR PLAN - DIVIDEND,10.1705
+2014-06-29,129394,SBI DEBT FUND SERIES A - 20 REGULAR PLAN - GROWTH,10.1705
+2014-06-29,129421,SBI Dual Advantage Fund Series - II Direct Plan - Growth,10.2049
+2014-06-29,129422,SBI Dual Advantage Fund Series - II Regular Plan - Dividend,10.2034
+2014-06-29,129423,SBI Dual Advantage Fund Series - II Direct Plan - Dividend,10.2049
+2014-06-29,129424,SBI Dual Advantage Fund Series - II Regular Plan - Growth,10.2034
+2014-06-29,129442,SBI DEBT FUND SERIES A - 21 DIRECT PLAN - DIVIDEND,10.1618
+2014-06-29,129443,SBI DEBT FUND SERIES A - 21 DIRECT PLAN - GROWTH,10.1618
+2014-06-29,129444,SBI DEBT FUND SERIES A - 21 REGULAR PLAN - GROWTH,10.16
+2014-06-29,129445,SBI DEBT FUND SERIES A - 21 REGULAR PLAN - DIVIDEND,10.16
+2014-06-29,129658,SBI DEBT FUND SERIES A - 22 DIRECT PLAN - DIVIDEND,10.1384
+2014-06-29,129659,SBI DEBT FUND SERIES A - 22 REGULAR PLAN - DIVIDEND,10.1362
+2014-06-29,129660,SBI DEBT FUND SERIES A - 22 REGULAR PLAN - GROWTH,10.1362
+2014-06-29,129661,SBI DEBT FUND SERIES A - 22 DIRECT PLAN - GROWTH,10.1384
+2014-06-29,129662,SBI DEBT FUND SERIES A - 23 DIRECT PLAN - DIVIDEND,10.1202
+2014-06-29,129663,SBI DEBT FUND SERIES A - 23 DIRECT PLAN - GROWTH,10.1202
+2014-06-29,129664,SBI DEBT FUND SERIES A - 23 REGULAR PLAN - DIVIDEND,10.1157
+2014-06-29,129665,SBI DEBT FUND SERIES A - 23 REGULAR PLAN - GROWTH,10.1157
+2014-06-29,129707,SBI DEBT FUND SERIES A - 24 DIRECT PLAN - DIVIDEND,10.1232
+2014-06-29,129708,SBI DEBT FUND SERIES A - 24 DIRECT PLAN - GROWTH,10.1232
+2014-06-29,129709,SBI DEBT FUND SERIES A - 24 REGULAR PLAN - DIVIDEND,10.1212
+2014-06-29,129710,SBI DEBT FUND SERIES A - 24 REGULAR PLAN - GROWTH,10.1212
+2014-06-29,129845,SBI DEBT FUND SERIES A - 25 DIRECT PLAN - DIVIDEND,10.0993
+2014-06-29,129846,SBI DEBT FUND SERIES A - 25 REGULAR PLAN - DIVIDEND,10.0979
+2014-06-29,129847,SBI DEBT FUND SERIES A - 25 REGULAR PLAN - GROWTH,10.0979
+2014-06-29,129848,SBI DEBT FUND SERIES A - 25 DIRECT PLAN - GROWTH,10.0993
+2014-06-29,129869,SBI DEBT FUND SERIES A - 26 (682 DAYS) DIRECT PLAN - GROWTH,10.0637
+2014-06-29,129870,SBI DEBT FUND SERIES A - 26 (682 DAYS) REGULAR PLAN - DIVIDEND,10.061
+2014-06-29,129871,SBI DEBT FUND SERIES A - 26 (682 DAYS) REGULAR PLAN - GROWTH,10.061
+2014-06-29,129923,L&T Liquid Fund - Direct Plan - Bonus,1798.5573
+2014-06-29,129924,L&T Liquid Fund -Regular Plan - Bonus,1797.5497
+2014-06-29,129971,SBI DEBT FUND SERIES A - 27 (366 DAYS) DIRECT PLAN - DIVIDEND,10.0769
+2014-06-29,129972,SBI DEBT FUND SERIES A - 27 (366 DAYS) DIRECT PLAN - GROWTH,10.0769
+2014-06-29,129973,SBI DEBT FUND SERIES A - 27 (366 DAYS) REGULAR PLAN - DIVIDEND,10.0759
+2014-06-29,129974,SBI DEBT FUND SERIES A - 27 (366 DAYS) REGULAR PLAN - GROWTH,10.0759
+2014-06-29,130013,ICICI Prudential Money Market Fund Option - IDCW Others,100.8286
+2014-06-29,130021,SBI Dual Advantage Fund - Series III - Regular Plan - Growth,10.0199
+2014-06-29,130022,SBI Dual Advantage Fund - Series III - Regular Plan - Dividend,10.0199
+2014-06-29,130023,SBI Dual Advantage Fund - Series III - Direct Plan - Dividend,10.0202
+2014-06-29,130024,SBI Dual Advantage Fund - Series III - Direct Plan - Growth,10.0199
+2014-06-29,130025,SBI DEBT FUND SERIES A - 28 (367 DAYS) - REGULAR PLAN - GROWTH,10.0565
+2014-06-29,130026,SBI DEBT FUND SERIES A - 28 (367 DAYS) - DIRECT PLAN - GROWTH,10.0573
+2014-06-29,130027,SBI DEBT FUND SERIES A - 28 (367 DAYS) - DIRECT PLAN - DIVIDEND,10.0573
+2014-06-29,130028,SBI DEBT FUND SERIES A - 28 (367 DAYS) - REGULAR PLAN - DIVIDEND,10.0565
+2014-06-29,130157,SBI Debt Fund Series A - 29 (91 Days)  Direct - Growth,10.0423
+2014-06-29,130158,SBI Debt Fund Series A - 29 (91 Days)  Regular Plan - Growth,10.0418
+2014-06-29,130159,SBI Debt Fund Series A - 29 (91 Days)  Regular Plan - Dividend,10.0418
+2014-06-29,130160,SBI Debt Fund Series A - 29 (91 Days)  Direct - Dividend,10.0423
+2014-06-29,130231,SBI DEBT FUND SERIES A - 30 (91 DAYS) DIRECT PLAN - GROWTH,10.0265
+2014-06-29,130232,SBI DEBT FUND SERIES A - 30 (91 DAYS) DIRECT PLAN - DIVIDEND,10.0265
+2014-06-29,130233,SBI DEBT FUND SERIES A - 30 (91 DAYS) REGULAR PLAN - DIVIDEND,10.0261
+2014-06-29,130234,SBI DEBT FUND SERIES A - 30 (91 DAYS) REGULAR PLAN - GROWTH,10.0261
+2014-06-29,130235,SBI DEBT FUND SERIES A - 31 (367 DAYS) REGULAR PLAN - DIVIDEND,10.0266
+2014-06-29,130236,SBI DEBT FUND SERIES A - 31 (367 DAYS) DIRECT PLAN - DIVIDEND,10.027
+2014-06-29,130237,SBI DEBT FUND SERIES A - 31 (367 DAYS) REGULAR PLAN - GROWTH,10.0266
+2014-06-29,130238,SBI DEBT FUND SERIES A - 31 (367 DAYS) DIRECT PLAN - GROWTH,10.027
+2014-06-29,130459,BNP PARIBAS LIQUID FUND - REGULAR PLAN - GROWTH OPTION,1914.4784
+2014-06-29,130465,BNP PARIBAS LIQUID FUND - REGULAR PLAN - WEEKLY Income Distribution cum Capital Withdrawal OPTION,1000.8509
+2014-06-29,130471,BNP PARIBAS LIQUID FUND - REGULAR PLAN - MONTHLY DIVIDEND OPTION,1000.4227
+2014-06-29,130472,BNP PARIBAS LIQUID FUND - GROWTH OPTION,2016.2569
+2014-06-29,130473,BNP PARIBAS LIQUID FUND - DAILY Income Distribution cum Capital Withdrawal OPTION,1000.49
+2014-06-29,130474,BNP PARIBAS LIQUID FUND - WEEKLY Income Distribution cum Capital Withdrawal OPTION,1000.9343
+2014-06-29,130476,BNP PARIBAS LIQUID FUND - MONTHLY Income Distribution cum Capital Withdrawal OPTION,1000.4785
+2014-06-29,130479,BNP PARIBAS LIQUID FUND -- DIRECT PLAN - GROWTH OPTION,2019.1051
+2014-06-29,130486,BNP PARIBAS LIQUID FUND - DIRECT PLAN -- DAILY Income Distribution cum Capital Withdrawal OPTION,1000.49
+2014-06-29,130487,BNP PARIBAS LIQUID FUND -- DIRECT PLAN - WEEKLY Income Distribution cum Capital Withdrawal OPTION,1000.9378
+2014-06-29,130489,BNP PARIBAS LIQUID Fund - DIRECT PLAN - MONTHLY Income Distribution cum Capital Withdrawal OPTION,1000.0

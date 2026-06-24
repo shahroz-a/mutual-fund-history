@@ -28,11 +28,8 @@ jobs:
 
       - name: Validate dataset
         run: |
-          mapfile -t ARCHIVE_FILES < <(find data/Year -name '*.csv.gz' | sort)
-          python scripts/validation.py \
-            --input data/latest.csv "${ARCHIVE_FILES[@]}" \
-            --report-json releases/validation-report.json \
-            --report-md releases/validation-report.md
+          mapfile -t ARCHIVE_FILES < <(find data/Year -name '*.csv' | sort)
+          python scripts/validation.py             --input data/latest.csv "${ARCHIVE_FILES[@]}"             --report-json releases/validation-report.json             --report-md releases/validation-report.md
 
       - name: Upload validation reports
         uses: actions/upload-artifact@v7

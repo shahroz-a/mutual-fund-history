@@ -1,13 +1,12 @@
-# Releases
+# Releases Directory
 
-This directory stores generated release metadata such as validation reports and checksums.
+This directory stores generated validation reports, release notes, and checksum metadata.
 
-Published dataset archives should be attached to GitHub Releases:
+GitHub Releases publish:
 
-- `historical.csv.gz`
-- `latest.csv.gz`
+- `latest.csv`
 - `checksums.sha256`
 - `validation-report.md`
 - `validation-report.json`
 
-Release assets should be generated only from files already present in `data/`.
+The complete historical archive is stored directly in the repository under `data/Year/YYYY/MM/DD.csv`.

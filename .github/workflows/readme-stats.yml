@@ -7,9 +7,7 @@ on:
       - mutual-fund-historical-data
     paths:
       - "data/*.csv"
-      - "data/*.csv.gz"
       - "data/Year/**/*.csv"
-      - "data/Year/**/*.csv.gz"
 
 permissions:
   contents: write
@@ -35,12 +33,8 @@ jobs:
 
       - name: Validate and update README
         run: |
-          mapfile -t ARCHIVE_FILES < <(find data/Year -name '*.csv.gz' | sort)
-          python scripts/validation.py \
-            --input data/latest.csv "${ARCHIVE_FILES[@]}" \
-            --report-json releases/validation-report.json \
-            --report-md releases/validation-report.md \
-            --update-readme README.md
+          mapfile -t ARCHIVE_FILES < <(find data/Year -name '*.csv' | sort)
+          python scripts/validation.py             --input data/latest.csv "${ARCHIVE_FILES[@]}"             --report-json releases/validation-report.json             --report-md releases/validation-report.md             --update-readme README.md
 
       - name: Commit README statistics
         run: |

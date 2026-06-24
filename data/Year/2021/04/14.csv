@@ -1,0 +1,946 @@
+date,scheme_code,scheme_name,nav
+2021-04-14,100041,Aditya Birla Sun Life Liquid Fund -Institutional - IDCW,108.023
+2021-04-14,100042,Aditya Birla Sun Life Liquid Fund-Retail (Growth),535.0366
+2021-04-14,100043,Aditya Birla Sun Life Liquid Fund-Institutional (Growth),549.0583
+2021-04-14,100044,Aditya Birla Sun Life Liquid Fund -Retail - IDCW,163.694
+2021-04-14,100046,Aditya Birla Sun Life Liquid Fund -Daily IDCW,100.195
+2021-04-14,100047,Aditya Birla Sun Life Liquid Fund - Growth,329.7027
+2021-04-14,100048,Aditya Birla Sun Life Liquid Fund -Institutional - weekly  IDCW,108.1142
+2021-04-14,100051,Aditya Birla Sun Life Liquid Fund -weekly IDCW,100.2678
+2021-04-14,100233,JM Liquid Fund (Regular) - Weekly IDCW,11.0045
+2021-04-14,100234,JM Liquid Fund - Growth Option,55.9456
+2021-04-14,100244,JM Liquid Fund (Regular) - Quarterly IDCW,31.6656
+2021-04-14,100247,JM Liquid Fund (Regular) - Super Institutional Plan - Growth Option,32.1702
+2021-04-14,100357,ICICI Prudential Liquid Fund -Quarterly IDCW,100.4909
+2021-04-14,100537,Franklin India Liquid Fund - Regular Plan - Weekly - IDCW,1244.5474
+2021-04-14,100538,Franklin India Liquid Fund - Regular Plan - Growth,4762.9097
+2021-04-14,100541,Franklin India Liquid Fund - Regular Plan - Daily - IDCW,1510.4899
+2021-04-14,100546,Franklin India Liquid Fund - Super Institutional Plan - Growth,3079.5517
+2021-04-14,100547,Franklin India Liquid Fund - Super Institutional Plan - Daily - IDCW,1000.0
+2021-04-14,100548,Franklin India Liquid Fund - Super Institutional Plan - Weekly - IDCW,1022.1866
+2021-04-14,100618,Sundaram Money Fund Retail Plan - Growth,40.3461
+2021-04-14,100619,Sundaram Money Fund Retail Plan - Quarterly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),12.4796
+2021-04-14,100620,Sundaram Money Fund Retail Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.0953
+2021-04-14,100621,Sundaram Money Fund Retail Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),12.0004
+2021-04-14,100622,Sundaram Money Fund Retail Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),11.1383
+2021-04-14,100623,Sundaram Money Fund Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW),10.2884
+2021-04-14,100813,UTI Overnight Fund - Regular Plan - Periodic IDCW,1469.9629
+2021-04-14,100814,UTI - Overnight  Fund - Regular Plan - Growth Option,2796.8588
+2021-04-14,100833,Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option,1222.81
+2021-04-14,100834,Kotak Liquid Fund Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend,1000.3301
+2021-04-14,100835,Kotak Liquid Fund - Regular Plan - Growth,4145.7521
+2021-04-14,100837,Nippon India Liquid Fund - Retail Option - Growth Plan,4543.1966
+2021-04-14,100838,NIPPON INDIA LIQUID FUND - RETAIL Plan - WEEKLY IDCW OPTION,1034.5078
+2021-04-14,100842,NIPPON INDIA LIQUID FUND - RETAIL Plan - DAILY IDCW OPTION,1524.28
+2021-04-14,100843,NIPPON INDIA LIQUID FUND - RETAIL plan - MONTHLY IDCW OPTION,1328.3588
+2021-04-14,100844,NIPPON INDIA LIQUID FUND - RETAIL Plan - QUARTERLY IDCW OPTION,1215.9985
+2021-04-14,100851,Nippon India Liquid Fund -Growth Plan,5003.3372
+2021-04-14,100852,NIPPON INDIA LIQUID FUND - DAILY IDCW OPTION,1528.74
+2021-04-14,100853,NIPPON INDIA LIQUID FUND - WEEKLY IDCW OPTION,1530.9325
+2021-04-14,100855,NIPPON INDIA LIQUID FUND - MONTHLY IDCW OPTION,1586.6341
+2021-04-14,100868,HDFC Liquid Fund - Growth Plan,4022.2587
+2021-04-14,100874,HDFC Liquid Fund - IDCW Plan Weekly,1031.2065
+2021-04-14,100875,HDFC Liquid Fund - IDCW Daily,1019.82
+2021-04-14,100876,HDFC Liquid Fund - IDCW Monthly,1027.5964
+2021-04-14,100895,Principal Cash Management Fund - Daily Income Distribution CUM Capital Withdrawal,1000.8893
+2021-04-14,100896,Principal Cash Management Fund - Weekly Income Distribution CUM Capital Withdrawal Option,1006.4653
+2021-04-14,100897,Principal Cash Management Fund - Monthly Income Distribution CUM Capital Withdrawal Option,1025.2473
+2021-04-14,100898,Principal Cash Management Fund -Growth Option,1808.6694
+2021-04-14,101078,JM Liquid Fund (Regular) - Daily IDCW,10.4302
+2021-04-14,101184,LIC MF Liquid Fund-Regular Plan-Daily IDCW,1000.0019
+2021-04-14,101185,LIC MF Liquid Fund-Regular Plan-Growth,3707.2713
+2021-04-14,101206,SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH,3323.1787
+2021-04-14,101407,Baroda BNP Paribas LIQUID FUND-Defunct Plan- IDCW Option,2967.264
+2021-04-14,101408,Baroda BNP Paribas LIQUID FUND- Defunct Plan -Growth Option,3463.3329
+2021-04-14,101409,Baroda BNP Paribas LIQUID FUND-Defunct Plan-Daily IDCW Option,1006.0602
+2021-04-14,101549,JM Liquid Fund (Regular) - Bonus Option - Principal Units,17.9139
+2021-04-14,101714,Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option,1001.5157
+2021-04-14,101996,HDFC Overnight Fund - Growth Option,3043.7701
+2021-04-14,101997,HDFC Overnight Fund - IDCW Option (Daily),1042.66
+2021-04-14,102007,UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option,1132.3464
+2021-04-14,102008,UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option,1133.2086
+2021-04-14,102009,UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth,3103.8844
+2021-04-14,102010,UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment),1047.0468
+2021-04-14,102011,UTI Liquid Fund - Regular Plan - Monthly IDCW,1028.3431
+2021-04-14,102012,UTI-  Liquid Cash Plan - Regular Plan - Growth Option,3357.2019
+2021-04-14,102013,UTI Liquid Fund - Regular Plan - Weekly IDCW,1053.4467
+2021-04-14,102442,Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW,1054.9533
+2021-04-14,102443,Franklin India Liquid Fund - Institutional Plan - Daily - IDCW,1000.0
+2021-04-14,102672,Tata Liquid Fund -Regular Plan - Growth Option,3228.7075
+2021-04-14,102701,Sundaram Money Fund Institutional Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.0953
+2021-04-14,103140,SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1062.8114
+2021-04-14,103225,quant Liquid Fund - Growth Option - Regular Plan,32.4979
+2021-04-14,103226,quant Liquid Fund-Daily IDCW Option - Regular Plan,13.4564
+2021-04-14,103227,quant Liquid Fund - Weekly IDCW Option - Regular Plan,13.7265
+2021-04-14,103228,quant Liquid Fund - Monthly IDCW Option - Regular Plan,15.2264
+2021-04-14,103340,ICICI Prudential Liquid Fund - Growth,303.3961
+2021-04-14,103341,ICICI Prudential Liquid Fund -Monthly IDCW,100.2029
+2021-04-14,103342,ICICI Prudential Liquid Fund - Weekly IDCW,100.1746
+2021-04-14,103343,ICICI Prudential Liquid Fund - Daily IDCW,100.1482
+2021-04-14,103347,DSP Liquidity Fund - Regular Plan - Growth,2923.2233
+2021-04-14,103348,DSP Liquidity Fund - Regular Plan - IDCW - Weekly,1001.3785
+2021-04-14,103349,DSP Liquidity Fund- Regular Plan - IDCW - Daily,1000.9329
+2021-04-14,103392,Sundaram Money Fund Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.0953
+2021-04-14,103393,Sundaram Money Fund Regular Plan - Quarterly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),39.5452
+2021-04-14,103394,Sundaram Money Fund Regular Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),12.0453
+2021-04-14,103395,Sundaram Money Fund Regular Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),11.1539
+2021-04-14,103396,Sundaram Money Fund Regular Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW),10.6445
+2021-04-14,103397,Sundaram Money Fund Regular Plan - Growth,43.1715
+2021-04-14,103734,Quantum Liquid Fund - Direct Plan Growth Option,27.8179
+2021-04-14,103735,Quantum Liquid Fund - Direct Plan Monthly IDCW,10.0251
+2021-04-14,103736,Quantum Liquid Fund - Direct Plan Daily IDCW,10.006
+2021-04-14,103885,Aditya Birla Sun Life Liquid Fund -Regular - IDCW,137.9566
+2021-04-14,104308,ICICI Prudential Liquid Fund - Half Yearly IDCW,103.6401
+2021-04-14,104484,Invesco India Liquid Fund - Daily IDCW (Reinvestment),1002.7594
+2021-04-14,104485,Invesco India Liquid Fund - Weekly IDCW (Reinvestment),1003.3703
+2021-04-14,104486,Invesco India Liquid Fund - Growth,2813.5569
+2021-04-14,104488,Invesco India Liquid Fund - Regular - Growth,2547.6905
+2021-04-14,104489,Invesco India Liquid Fund - Regular - Weekly IDCW (Reinvestment),1001.9736
+2021-04-14,104492,Invesco India Liquid Fund - Monthly IDCW (Payout / Reinvestment),1004.2605
+2021-04-14,105274,SBI Liquid Fund - Institutional - Growth,3237.2263
+2021-04-14,105275,SBI Liquid Fund - Institutional Daily Income Distribution cum Capital Withdrawal Option (IDCW),1040.0015
+2021-04-14,105279,SBI Liquid Fund - Institutional Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW),1064.1865
+2021-04-14,105280,SBI Liquid Fund - REGULAR PLAN -Growth,3206.9352
+2021-04-14,105281,SBI Liquid Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),1039.9963
+2021-04-14,105282,SBI Liquid Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1100.7446
+2021-04-14,105283,SBI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW),1052.4545
+2021-04-14,108690,BANDHAN LIQUID Fund - Regular Plan - Growth,2476.4283
+2021-04-14,108691,BANDHAN LIQUID Fund - Regular Plan - Weekly IDCW,1001.5125
+2021-04-14,108692,BANDHAN LIQUID Fund - Regular Plan - Daily IDCW,1001.0846
+2021-04-14,108693,BANDHAN LIQUID Fund - Regular Plan - Monthly IDCW,1002.0138
+2021-04-14,109254,BANK OF INDIA Liquid Fund- Regular Plan- Growth,2351.7134
+2021-04-14,109255,BANK OF INDIA Liquid Fund- Regular Plan- Weekly IDCW,1001.4784
+2021-04-14,109349,CANARA ROBECO LIQUID FUND - REGULAR PLAN - DAILY IDCW (Reinvestment),1005.5
+2021-04-14,109350,CANARA ROBECO LIQUID FUND - REGULAR PLAN - WEEKLY IDCW (Payout/Reinvestment),1000.0247
+2021-04-14,109351,CANARA ROBECO LIQUID FUND - REGULAR PLAN - MONTHLY IDCW (Payout/Reinvestment),1001.2529
+2021-04-14,109353,CANARA ROBECO LIQUID FUND - REGULAR PLAN - GROWTH OPTION,2462.2214
+2021-04-14,111644,Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW,1153.2144
+2021-04-14,111645,Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW,1154.517
+2021-04-14,111646,Mirae Asset Liquid Fund - Regular Plan - Growth,2146.4427
+2021-04-14,111647,Mirae Asset Liquid Fund - Regular - Daily IDCW,1066.4347
+2021-04-14,111704,Baroda BNP Paribas LIQUID FUND - Regular Plan - GROWTH OPTION,2353.6135
+2021-04-14,111705,Baroda BNP Paribas LIQUID FUND - Regular Plan - WEEKLY IDCW OPTION,1000.2185
+2021-04-14,111707,Baroda BNP Paribas LIQUID FUND - Regular Plan - DAILY IDCW OPTION,1001.1996
+2021-04-14,111971,BANK OF INDIA Liquid Fund- Regular Plan- Daily IDCW,1002.1069
+2021-04-14,112014,Aditya Birla Sun Life Liquid Fund- Discipline Advantage Plan,222.0173
+2021-04-14,112119,ICICI Prudential Liquid Fund-Annual IDCW,101.7621
+2021-04-14,112210,Axis Liquid Fund - Regular Plan - Growth Option,2275.4781
+2021-04-14,112211,Axis Liquid Fund - Regular Plan - Daily IDCW,1001.3998
+2021-04-14,112212,Axis Liquid Fund - Regular Plan - Weekly IDCW,1002.2617
+2021-04-14,112213,Axis Liquid Fund - Regular Plan - Monthly IDCW,1003.0726
+2021-04-14,112340,NIPPON INDIA LIQUID FUND - QUARTERLY IDCW OPTION,1004.5875
+2021-04-14,112445,L&T Liquid Fund -Regular Plan - Daily IDCW,1011.7794
+2021-04-14,112457,L&T Liquid Fund -Regular Plan - Growth,2809.5664
+2021-04-14,112458,L&T Liquid Fund - Regular Plan - Weekly IDCW,1002.8733
+2021-04-14,112636,Navi Liquid Fund-Regular Plan-Growth Option,2235.7784
+2021-04-14,112645,Navi Liquid Fund - Regular Plan Daily IDCW,1001.2902
+2021-04-14,112646,Navi Liquid Fund - Regular Plan Weekly IDCW,1000.6351
+2021-04-14,112647,Navi Liquid Fund - Regular Plan Monthly IDCW,1002.9584
+2021-04-14,112712,Axis Liquid Fund - Retail Plan - Daily IDCW,1000.9559
+2021-04-14,112713,Axis Liquid Fund - Retail Plan - Growth Option,2127.9567
+2021-04-14,112714,Axis Liquid Fund - Retail Plan - Monthly IDCW,1002.2355
+2021-04-14,112715,Axis Liquid Fund - Retail Plan - Weekly IDCW,1000.8256
+2021-04-14,113096,IDBI Liquid Fund-Growth,2199.0786
+2021-04-14,113102,IDBI Liquid Fund-Daily IDCW,1005.2683
+2021-04-14,113103,IDBI Liquid Fund-Weekly IDCW,1023.2767
+2021-04-14,113104,IDBI Liquid Fund- Monthly IDCW,1005.5661
+2021-04-14,114297,SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),1040.812
+2021-04-14,115398,Union Liquid Fund - Growth Option,1968.5804
+2021-04-14,115399,Union Liquid Fund - Fortnightly IDCW Option,1000.7692
+2021-04-14,115400,Union Liquid Fund - Monthly IDCW Option,1002.3972
+2021-04-14,115401,Union Liquid Fund - Daily IDCW Option,1000.7927
+2021-04-14,115402,Union Liquid Fund - Weekly IDCW Option,1001.0531
+2021-04-14,115489,BANDHAN LIQUID Fund - Regular Plan - Periodic IDCW,1069.1661
+2021-04-14,115505,ICICI Prudential Liquid Fund - IDCW Others,146.8243
+2021-04-14,115991,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Regular Plan - Growth Option,1992.2531
+2021-04-14,115992,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment),1001.1451
+2021-04-14,115993,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1001.7565
+2021-04-14,115994,Groww Liquid Fund (formerly known as Indiabulls Liquid) Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1000.6479
+2021-04-14,115995,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1001.5528
+2021-04-14,118056,L&T Overnight Fund - Regular Plan - Daily IDCW,1023.3
+2021-04-14,118058,L&T Overnight Fund - Regular Plan - Growth,1530.9092
+2021-04-14,118065,L&T Overnight Fund - Regular Plan - Weekly IDCW,1000.1968
+2021-04-14,118066,L&T Overnight Fund  - Regular Plan - Monthly IDCW,1006.5245
+2021-04-14,118304,CANARA ROBECO LIQUID FUND - DIRECT PLAN - IDCW (Payout/Reinvestment),1768.1468
+2021-04-14,118305,CANARA ROBECO LIQUID FUND - DIRECT PLAN - GROWTH OPTION,2469.9344
+2021-04-14,118306,CANARA ROBECO LIQUID FUND - DIRECT PLAN - MONTHLY IDCW (Payout/Reinvestment),1001.2553
+2021-04-14,118307,CANARA ROBECO LIQUID FUND - DIRECT PLAN - DAILY IDCW (Reinvestment),1005.5
+2021-04-14,118308,CANARA ROBECO LIQUID FUND - DIRECT PLAN - WEEKLY IDCW (Payout/Reinvestment),1000.0247
+2021-04-14,118328,Sundaram Money Fund Regular Plan - Bonus,15.432
+2021-04-14,118345,IDBI Liquid Fund Growth Direct,2216.1467
+2021-04-14,118363,BANDHAN LIQUID Fund -Direct Plan-Periodic IDCW,1002.773
+2021-04-14,118364,BANDHAN LIQUID Fund -Direct Plan-Growth,2489.001
+2021-04-14,118365,BANDHAN LIQUID Fund -Direct Plan -Monthly IDCW,1008.7663
+2021-04-14,118366,BANDHAN LIQUID Fund -Direct Plan-Daily IDCW,1001.6663
+2021-04-14,118367,BANDHAN LIQUID Fund -Direct Plan -Weekly IDCW,1007.3941
+2021-04-14,118449,IDBI Liquid Fund- Monthly IDCW Direct,1004.0252
+2021-04-14,118450,IDBI Liquid Fund-Daily IDCW Direct,1002.3548
+2021-04-14,118451,IDBI Liquid Fund-Weekly IDCW Direct,1004.0081
+2021-04-14,118577,Franklin India Liquid Fund - Super Institutional - Direct - Growth,3095.5553
+2021-04-14,118578,Franklin India Liquid Fund - Super Institutional Plan - Direct - Daily - IDCW,1002.2204
+2021-04-14,118579,Franklin India Liquid Fund - Super Institutional Plan - Direct - Weekly - IDCW,1021.6572
+2021-04-14,118695,NIPPON INDIA LIQUID FUND - DIRECT Plan - DAILY IDCW OPTION,1528.74
+2021-04-14,118696,NIPPON INDIA LIQUID FUND - DIRECT Plan - MONTHLY IDCW OPTION,1590.0909
+2021-04-14,118698,NIPPON INDIA LIQUID FUND - DIRECT Plan - QUARTERLY IDCW OPTION,1006.461
+2021-04-14,118700,NIPPON INDIA LIQUID FUND - DIRECT Plan - WEEKLY IDCW OPTION,1530.9607
+2021-04-14,118701,Nippon India Liquid Fund - Direct Plan Growth Plan - Growth Option,5038.8024
+2021-04-14,118859,Mirae Asset Liquid Fund - Direct Plan - Growth,2174.1707
+2021-04-14,118860,Mirae Asset Liquid Fund - Direct Plan -Monthly IDCW,1136.8932
+2021-04-14,118861,Mirae Asset Liquid Fund - Direct Plan -Daily IDCW,1075.8332
+2021-04-14,118862,Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW,1216.9313
+2021-04-14,118901,HSBC Liquid Fund - Regular Daily IDCW,1001.0316
+2021-04-14,118902,HSBC Liquid Fund - Regular Growth,2040.8199
+2021-04-14,118903,HSBC Liquid Fund - Regular Monthly IDCW,1003.3284
+2021-04-14,118904,HSBC Liquid Fund - Regular Weekly IDCW,1108.1216
+2021-04-14,118906,HSBC Liquid Fund - IDCW,1019.3
+2021-04-14,118907,HSBC Liquid Fund - Growth,2981.8504
+2021-04-14,118908,HSBC Liquid Fund - Weekly IDCW,1000.6564
+2021-04-14,118909,HSBC Liquid Fund - Institutional Daily IDCW,1507.0616
+2021-04-14,119088,HDFC Liquid Fund - IDCW Weekly - Direct Plan,1031.2122
+2021-04-14,119089,HDFC Liquid Fund - IDCW Daily - Direct Plan,1019.82
+2021-04-14,119090,HDFC Liquid Fund - IDCW Monthly - Direct Plan,1027.6374
+2021-04-14,119091,HDFC Liquid Fund - Growth Option - Direct Plan,4050.2751
+2021-04-14,119109,HDFC Overnight Fund - Daily IDCW Option - Direct Plan,1042.66
+2021-04-14,119110,HDFC Overnight Fund - Growth Option - Direct Plan,3061.6614
+2021-04-14,119123,DSP Liquidity Fund - Direct Plan - IDCW - Weekly,1001.3933
+2021-04-14,119124,DSP Liquidity Fund - Direct Plan - IDCW - Daily,1000.9329
+2021-04-14,119125,DSP Liquidity Fund - Direct Plan - Growth,2944.8489
+2021-04-14,119135,Groww Liquid Fund ( formerly known as Indiabulls Liquid )Fund - Direct Plan - Growth Option,2008.4908
+2021-04-14,119136,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),1001.06
+2021-04-14,119137,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1000.6919
+2021-04-14,119138,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1000.7194
+2021-04-14,119139,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1030.0894
+2021-04-14,119161,Navi Liquid Fund - Direct Plan Monthly IDCW - Payout,1002.9863
+2021-04-14,119162,Navi Liquid Fund - Direct Plan Weekly IDCW - Payout,1000.6002
+2021-04-14,119163,Navi Liquid Fund - Direct Plan Daily IDCW - ReInvestment,1001.29
+2021-04-14,119164,Navi Liquid Fund-Direct Plan-Growth Option,2251.3383
+2021-04-14,119282,L&T Overnight Fund - Direct Plan- Monthly IDCW,1061.3316
+2021-04-14,119283,L&T Overnight Fund - Direct Plan - Growth,1607.5646
+2021-04-14,119284,L&T Overnight Fund - Direct Plan- Daily IDCW,1023.3
+2021-04-14,119285,L&T Overnight Fund - Direct Plan- Weekly IDCW,1001.5963
+2021-04-14,119301,Union Liquid Fund - Direct Plan - Daily IDCW Option,1000.7927
+2021-04-14,119302,Union Liquid Fund - Direct Plan - Monthly IDCW Option,1002.4432
+2021-04-14,119303,Union Liquid Fund - Direct Plan - Growth Option,1984.5733
+2021-04-14,119304,Union Liquid Fund - Direct Plan - Weekly IDCW Option,1000.8425
+2021-04-14,119305,Union Liquid Fund - Direct Plan - Fortnightly IDCW Option,1000.7647
+2021-04-14,119368,BANK OF INDIA Liquid Fund- Direct Plan- Daily IDCW,1002.6483
+2021-04-14,119369,BANK OF INDIA Liquid Fund- Direct Plan- Growth,2370.0606
+2021-04-14,119370,BANK OF INDIA Liquid Fund- Direct Plan- Weekly IDCW,1061.7326
+2021-04-14,119414,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - DAILY IDCW OPTION,1002.0849
+2021-04-14,119415,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - GROWTH OPTION,2372.3714
+2021-04-14,119416,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - WEEKLY IDCW OPTION,1218.6506
+2021-04-14,119466,Principal Cash Management Fund -Direct Plan - Income Distribution CUM Capital Withdrawal Option - Monthly,1025.3336
+2021-04-14,119467,Principal Cash Management Fund - Direct Plan - Income Distribution CUM Capital Withdrawal Option - Daily,1000.6367
+2021-04-14,119468,Principal Cash Management Fund - Direct Plan - Growth Option,1819.5595
+2021-04-14,119469,Principal Cash Management Fund - Direct Plan - Income Distribution CUM Capital Withdrawal Option - Weekly,1006.9217
+2021-04-14,119568,Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan,331.9437
+2021-04-14,119569,Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW,100.195
+2021-04-14,119570,Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW,100.2694
+2021-04-14,119571,Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW,180.2196
+2021-04-14,119686,Sundaram Money Fund Direct Plan - Growth,43.4501
+2021-04-14,119687,Sundaram Money Fund Direct Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW),10.788
+2021-04-14,119688,Sundaram Money Fund Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.1025
+2021-04-14,119689,Sundaram Money Fund Direct Plan - Quarterly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),39.7559
+2021-04-14,119690,Sundaram Money Fund Direct Plan - Bonus,15.5495
+2021-04-14,119691,Sundaram Money Fund Direct Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),12.07
+2021-04-14,119692,Sundaram Money Fund Direct Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),26.3679
+2021-04-14,119764,Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,1222.81
+2021-04-14,119765,Kotak Liquid Fund - Weekly  Payout of Income Distribution cum capital withdrawal option - Direct,1005.298
+2021-04-14,119766,Kotak Liquid Fund - Direct Plan - Growth,4164.2139
+2021-04-14,119790,L&T Liquid Fund - Direct Plan -Growth,2822.3377
+2021-04-14,119791,L&T Liquid Fund - Direct Plan -Daily IDCW,1014.3496
+2021-04-14,119799,SBI Liquid Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1101.6609
+2021-04-14,119800,SBI Liquid Fund - DIRECT PLAN -Growth,3225.5799
+2021-04-14,119804,SBI Liquid Fund - Direct Paln - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW),1053.3209
+2021-04-14,119805,SBI Liquid Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),1040.8628
+2021-04-14,119831,SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),1041.5682
+2021-04-14,119832,SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1063.5965
+2021-04-14,119833,SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH,3355.7116
+2021-04-14,119861,Tata Liquid Fund- Direct Plan-Growth Option,3251.7398
+2021-04-14,119862,Tata Liquid Fund- Direct Plan - Daily Reinvestment of IDCW Option,1001.5187
+2021-04-14,120037,HSBC Liquid Fund - Direct Daily IDCW,1000.9401
+2021-04-14,120038,HSBC Liquid Fund -  Growth Direct,2051.3032
+2021-04-14,120039,HSBC Liquid Fund - Direct Monthly IDCW,1039.7653
+2021-04-14,120040,HSBC Liquid Fund - Direct Weekly IDCW,1154.119
+2021-04-14,120187,ICICI Prudential Liquid Fund - Direct Plan -  Half Yearly IDCW,104.6658
+2021-04-14,120188,ICICI Prudential Liquid Fund - Direct Plan - Daily IDCW,100.1082
+2021-04-14,120189,ICICI Prudential Liquid Fund - Direct Plan - Monthly IDCW,100.3117
+2021-04-14,120190,ICICI Prudential Liquid Fund - Direct Plan - Weekly IDCW,100.2003
+2021-04-14,120191,ICICI Prudential Liquid Fund - Direct Plan -  IDCW Others,147.3231
+2021-04-14,120196,ICICI Prudential Liquid Fund - Direct Plan - Quarterly IDCW,101.2447
+2021-04-14,120197,ICICI Prudential Liquid Fund - Direct Plan - Growth,305.1053
+2021-04-14,120198,ICICI Prudential Liquid Fund - Direct Plan -  Annual IDCW,101.8615
+2021-04-14,120248,LIC MF Liquid Fund-Direct Plan-Daily IDCW,1011.4276
+2021-04-14,120249,LIC MF Liquid Fund-Direct Plan-Growth,3741.5219
+2021-04-14,120304,UTI-  Liquid Cash Plan - Direct Plan - Growth Option,3374.6713
+2021-04-14,120388,Axis Liquid Fund - Direct Plan - Daily IDCW,1000.956
+2021-04-14,120389,Axis Liquid Fund - Direct Plan - Growth Option,2287.6168
+2021-04-14,120390,Axis Liquid Fund - Direct Plan - Weekly IDCW,1002.2657
+2021-04-14,120391,Axis Liquid Fund - Direct Plan - Monthly IDCW,1002.52
+2021-04-14,120406,JM Liquid Fund (Direct) - Growth Option,56.3145
+2021-04-14,120407,JM Liquid Fund (Direct) - Weekly IDCW,11.007
+2021-04-14,120408,JM Liquid Fund (Direct) - Quarterly IDCW,31.972
+2021-04-14,120410,JM Liquid Fund (Direct) - Bonus Option - Bonus Option - Principal units,18.1178
+2021-04-14,120411,JM Liquid Fund (Direct) - Daily IDCW,10.4302
+2021-04-14,120534,Invesco India Liquid Fund - Direct Plan- Daily IDCW (Reinvestment),1000.9596
+2021-04-14,120535,Invesco India Liquid Fund - Direct Plan - Weekly IDCW (Reinvestment),1000.6764
+2021-04-14,120536,Invesco India Liquid Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),1053.6687
+2021-04-14,120537,Invesco India Liquid Fund - Direct Plan - Growth,2829.4775
+2021-04-14,120558,UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment),1019.4457
+2021-04-14,120777,UTI Liquid Fund - Direct Plan - Weekly IDCW,1055.7079
+2021-04-14,120785,UTI - Overnight Fund - Direct Plan - Growth Option,2820.9178
+2021-04-14,120786,UTI Overnight Fund - Direct Plan - Periodic IDCW,1509.5613
+2021-04-14,120794,UTI Liquid Fund - Direct Plan - Monthly IDCW,1025.9895
+2021-04-14,120836,quant Liquid Fund-Daily IDCW Option - Direct Plan,13.7246
+2021-04-14,120837,quant Liquid Fund - Growth Option - Direct Plan,32.9776
+2021-04-14,120838,quant Liquid Fund - Monthly IDCW Option - Direct Plan,15.5305
+2021-04-14,120839,quant Liquid Fund - Weekly IDCW Option - Direct Plan,14.3013
+2021-04-14,122235,L&T Liquid Fund - Direct Plan - Weekly IDCW,1001.1061
+2021-04-14,122786,Invesco India Liquid Fund - Bonus Option,2815.1074
+2021-04-14,124265,UTI Overnight Fund - Regular Plan - Daily IDCW,1370.8617
+2021-04-14,124266,UTI Overnight Fund - Direct Plan - Daily IDCW,1371.6621
+2021-04-14,125259,360 ONE LIQUID FUND REGULAR PLAN  GROWTH,1585.8933
+2021-04-14,125337,360 ONE LIQUID FUND REGULAR PLAN  WEEKLY DIVIDEND,1005.0
+2021-04-14,125342,360 ONE LIQUID FUND REGULAR PLAN  DAILY DIVIDEND REINVESTMENT,1000.0701
+2021-04-14,125343,360 ONE LIQUID FUND DIRECT PLAN  WEEKLY DIVIDEND,1005.0
+2021-04-14,125345,360 ONE LIQUID FUND DIRECT PLAN  GROWTH,1591.7951
+2021-04-14,125349,360 ONE LIQUID FUND DIRECT PLAN  DAILY DIVIDEND REINVESTMENT,1000.0427
+2021-04-14,126163,IDBI Liquid Fund Bonus Direct,1660.2121
+2021-04-14,130459,BNP PARIBAS LIQUID FUND - REGULAR PLAN - GROWTH OPTION,2972.7093
+2021-04-14,130465,BNP PARIBAS LIQUID FUND - REGULAR PLAN - WEEKLY Income Distribution cum Capital Withdrawal OPTION,1000.7092
+2021-04-14,130472,BNP PARIBAS LIQUID FUND - GROWTH OPTION,3145.0887
+2021-04-14,130473,BNP PARIBAS LIQUID FUND - DAILY Income Distribution cum Capital Withdrawal OPTION,1000.49
+2021-04-14,130474,BNP PARIBAS LIQUID FUND - WEEKLY Income Distribution cum Capital Withdrawal OPTION,1000.7152
+2021-04-14,130476,BNP PARIBAS LIQUID FUND - MONTHLY Income Distribution cum Capital Withdrawal OPTION,1002.5591
+2021-04-14,130479,BNP PARIBAS LIQUID FUND -- DIRECT PLAN - GROWTH OPTION,3170.8076
+2021-04-14,130486,BNP PARIBAS LIQUID FUND - DIRECT PLAN -- DAILY Income Distribution cum Capital Withdrawal OPTION,1001.3201
+2021-04-14,130487,BNP PARIBAS LIQUID FUND -- DIRECT PLAN - WEEKLY Income Distribution cum Capital Withdrawal OPTION,1000.7319
+2021-04-14,130489,BNP PARIBAS LIQUID Fund - DIRECT PLAN - MONTHLY Income Distribution cum Capital Withdrawal OPTION,1002.6333
+2021-04-14,133973,UTI Liquid Fund - Regular Plan - Annual IDCW,1480.3279
+2021-04-14,134427,UTI Liquid Fund - Direct Plan - Annual IDCW,1484.1383
+2021-04-14,135506,SBI EQUITY OPPORTUNITIES FUND - SERIES IV - DIRECT PLAN - GROWTH,20.8834
+2021-04-14,135507,SBI EQUITY OPPORTUNITIES FUND -  SERIES IV - REGULAR PLAN - GROWTH,19.7432
+2021-04-14,135508,SBI Equity Opportunities Fund-Series IV - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),16.7519
+2021-04-14,135509,SBI Equity Opportunities Fund-Series IV - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),17.749
+2021-04-14,135721,UTI Liquid Fund - Regular Plan - Quarterly IDCW,1397.7648
+2021-04-14,138285,PGIM India Liquid Fund - Daily Dividend,100.304
+2021-04-14,138286,PGIM India Liquid Fund - Bonus Option,182.2513
+2021-04-14,138287,PGIM India Liquid Fund - Monthly Dividend,108.5382
+2021-04-14,138288,PGIM India Liquid Fund - Growth,266.5886
+2021-04-14,138289,PGIM India Liquid Fund - Weekly Dividend,100.5515
+2021-04-14,138297,PGIM India Liquid Fund - Direct Plan - Daily Dividend,104.232
+2021-04-14,138298,PGIM India Liquid Fund - Direct Plan - Monthly Dividend,107.7845
+2021-04-14,138299,PGIM India Liquid Fund - Direct Plan - Growth,268.4113
+2021-04-14,138301,PGIM India Liquid Fund - Direct Plan - Weekly Dividend,100.5528
+2021-04-14,139235,Canara Robeco Liquid Fund -Unclaimed Redemption and Dividend Plan -Direct Growth Option,1344.025
+2021-04-14,139237,HSBC Cash Fund - Unclaimed Dividend Below 3 years,1329.3081
+2021-04-14,139238,HSBC Cash Fund - Unclaimed Dividend Above 3 years,1000.0
+2021-04-14,139239,HSBC Cash Fund - Unclaimed Redemption Above 3 years,1000.0
+2021-04-14,139240,HSBC Cash Fund - Unclaimed Redemption Below 3 years,1329.3081
+2021-04-14,139257,JM Liquid Fund Unclaimed Redemption (Direct) Growth Plan,56.3167
+2021-04-14,139258,JM Liquid Fund Unclaimed Dividend (Direct) Growth Plan,56.3167
+2021-04-14,139259,JM Liquid Fund Unclaimed Redemption IEF (Direct) Growth Plan,41.4437
+2021-04-14,139260,JM Liquid Fund Unclaimed Dividend IEF (Direct) Growth Plan,41.4437
+2021-04-14,139386,Navi Liquid Fund-Unclaimed Redemption and Dividend Plan less than 3 years,2240.152
+2021-04-14,139387,Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years,1340.8637
+2021-04-14,139388,Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years,1000.0
+2021-04-14,139389,Invesco India Liquid Fund - Unclaimed Dividend Plan - Below 3 Years,1340.9589
+2021-04-14,139390,Invesco India Liquid Fund - Unclaimed Dividend Plan - Above 3 Years,1000.0
+2021-04-14,139431,ICICI Prudential Liquid Fund - Unclaimed Redemption Investor Education,100.0
+2021-04-14,139432,ICICI Prudential Liquid Fund - Unclaimed IDCW Investor Education,100.0
+2021-04-14,139433,ICICI Prudential Liquid Fund - Unclaimed Redemption,134.4111
+2021-04-14,139434,ICICI Prudential Liquid Fund - Unclaimed IDCW,134.4111
+2021-04-14,139534,Mahindra Manulife Liquid Fund - Regular Plan - Daily IDCW,1000.8404
+2021-04-14,139535,Mahindra Manulife Liquid Fund - Direct Plan - Daily IDCW,1000.843
+2021-04-14,139536,Mahindra Manulife Liquid Fund - Direct Plan - Weekly IDCW,1003.6053
+2021-04-14,139537,Mahindra Manulife Liquid Fund - Regular Plan - Growth,1330.8617
+2021-04-14,139538,Mahindra Manulife Liquid Fund - Direct Plan -Growth,1338.8751
+2021-04-14,139539,Mahindra Manulife Liquid Fund - Unclaimed Redemption / IDCW Upto three years,1193.3253
+2021-04-14,139541,Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW,1010.0072
+2021-04-14,139560,BNP PARIBAS LIQUID FUND SPECIAL UNCLAIMED RED 36A-- GROWTH OPTION,1266.0297
+2021-04-14,139561,BNP PARIBAS LIQUID FUND SPECIAL UNCLAIMED DIV 36B -- GROWTH OPTION,1339.5443
+2021-04-14,139562,BNP PARIBAS LIQUID FUND SPECIAL UNCLAIMED DIV 36A -- GROWTH OPTION,1267.4947
+2021-04-14,139563,BNP PARIBAS LIQUID FUND SPECIAL UNCLAIMED RED 36B -- GROWTH OPTION,1338.0297
+2021-04-14,139582,BANDHAN LIQUID Fund - Unclaimed IDCW Less than 3 years,1.3258
+2021-04-14,139583,BANDHAN LIQUID Fund - Unclaimed IDCW More than 3 years,1.0
+2021-04-14,139584,BANDHAN LIQUID Fund - Unclaimed Redemption Less than 3 years,1.3258
+2021-04-14,139585,BANDHAN LIQUID Fund - Unclaimed Redemption More than 3 years,1.0
+2021-04-14,139602,PGIM India Insta Cash Fund - Unlcaimed Redemption Plan - Below 3 years,130.6963
+2021-04-14,139603,PGIM India Insta Cash Fund - Unclaimed Dividend Plan - Below 3 years,130.8007
+2021-04-14,139604,PGIM India Insta Cash Fund - Unclaimed Redemption Plan - Above 3 years,100.0
+2021-04-14,139605,PGIM India Insta Cash Fund - Unclamied Dividend Plan - Above 3 years,100.0
+2021-04-14,139838,UTI Liquid Fund - Regular Plan - Fortnightly IDCW,1154.2074
+2021-04-14,139889,Franklin India Liquid Fund - Unclaimed Redemption Plan - Growth,13.0672
+2021-04-14,139890,Franklin India Liquid Fund - Unclaimed IDCW Plan - Growth,13.0672
+2021-04-14,139891,Franklin India Liquid Fund - Unclaimed Redemption Investor Education Plan - Growth,10.0
+2021-04-14,139892,Franklin India Liquid Fund - Unclaimed IDCW Investor Education Plan - Growth,10.0
+2021-04-14,140003,Sundaram Money Fund Unclaimed Amount Plan - Unclaimed Redemption Less Than Three Years,12.9221
+2021-04-14,140004,Sundaram Money Fund Unclaimed Amount Plan - Unclaimed Redemption More Than Three Years,10.0
+2021-04-14,140005,Sundaram Money Fund Unclaimed Amount Plan - Unclaimed Dividend More Than Three Years,10.0
+2021-04-14,140006,Sundaram Money Fund Unclaimed Amount Plan - Unclaimed Dividend Less Than Three Years,12.912
+2021-04-14,140024,UTI Liquid Fund - Direct Plan - Quarterly IDCW,1401.6662
+2021-04-14,140086,Nippon India ETF Nifty 1D Rate Liquid BeES - DAILY IDCW Option,1000.0
+2021-04-14,140176,Edelweiss Liquid Fund - Retail Plan - Growth Option,2388.7281
+2021-04-14,140177,Edelweiss Liquid Fund - Retail Plan Daily - IDCW Option,1003.1709
+2021-04-14,140178,Edelweiss Liquid Fund - Retail Plan - Weekly Dividend Option,1230.4305
+2021-04-14,140180,Edelweiss Liquid Fund - Retail Plan Monthly - IDCW Option,1245.6397
+2021-04-14,140181,Edelweiss Liquid Fund - Regular Plan Daily - IDCW Option,1003.3974
+2021-04-14,140182,Edelweiss Liquid Fund - Regular Plan - Growth Option,2626.6262
+2021-04-14,140183,Edelweiss Liquid Fund - Regular Plan Monthly - IDCW Option,1005.8546
+2021-04-14,140184,Edelweiss Liquid Fund - Regular Plan Fortnightly - IDCW Option,2152.6803
+2021-04-14,140185,Edelweiss Liquid Fund - Regular Plan Weekly - IDCW Option,1018.0859
+2021-04-14,140188,Edelweiss Liquid Fund - Regular Plan Annual - IDCW Option,1817.4051
+2021-04-14,140189,Edelweiss Liquid Fund - Regular Plan - Bonus Option,1530.0455
+2021-04-14,140190,Edelweiss Liquid Fund - Regular Plan - IDCW Option,2626.6292
+2021-04-14,140192,Edelweiss Liquid Fund - Direct Plan Annual - IDCW Option,2657.1134
+2021-04-14,140193,Edelweiss Liquid Fund - Direct Plan daily - IDCW Option,1002.9603
+2021-04-14,140194,Edelweiss Liquid Fund - Direct Plan - Bonus Option,1545.87
+2021-04-14,140195,Edelweiss Liquid Fund - Direct Plan weekly - IDCW Option,2171.7171
+2021-04-14,140196,Edelweiss Liquid Fund - Direct Plan - Growth Option,2657.1212
+2021-04-14,140197,Edelweiss Liquid Fund - Direct Plan Monthly - IDCW Option,1006.2208
+2021-04-14,140198,Edelweiss Liquid Fund - Direct Plan - IDCW Option,2657.1344
+2021-04-14,140199,Edelweiss Liquid Fund - Direct Plan Fortnightly - IDCW Option,2170.7201
+2021-04-14,140437,Navi Liquid Fund-Unclaimed Redemption and Dividend Plan greater than 3 years,1000.0
+2021-04-14,140504,UTI Liquid Fund - Direct Plan - Half-Yearly IDCW,1159.3059
+2021-04-14,140517,UTI Liquid Fund - Regular Plan - Flexi IDCW,1220.0545
+2021-04-14,140913,UTI Liquid Fund - Direct Plan - Fortnightly IDCW,1155.0298
+2021-04-14,141065,Quantum Liquid Fund - Regular Plan Daily IDCW,10.001
+2021-04-14,141066,Quantum Liquid Fund - Regular Plan Growth Option,27.7402
+2021-04-14,141067,Quantum Liquid Fund - Regular Plan Monthly IDCW,10.0217
+2021-04-14,141159,Edelweiss Liquid Fund - Unclaimed Dividend Plan- Above 3 years,1000.0
+2021-04-14,141160,Edelweiss Liquid Fund - Unclaimed Redemption Plan- Upto 3 years,1270.6315
+2021-04-14,141161,Edelweiss Liquid Fund - Unclaimed Dividend Plan- Upto 3 years,1270.6217
+2021-04-14,141162,Edelweiss Liquid Fund - Unclaimed Redemption Plan- Above 3 years,1000.0
+2021-04-14,141768,UTI Liquid Fund - Direct Plan - Flexi IDCW,1222.403
+2021-04-14,141887,BANK OF INDIA Liquid Fund  Unclaimed Dividend greater than  3 years,1000.0
+2021-04-14,141888,BANK OF INDIA Liquid Fund  Unclaimed Redemption greater than  3 years,1000.0
+2021-04-14,141889,BANK OF INDIA Liquid Fund  Unclaimed Dividend Upto 3 years,1204.7394
+2021-04-14,141890,BANK OF INDIA Liquid Fund  Unclaimed Redemption Upto 3 years,1204.6141
+2021-04-14,142256,SBI Dual Advantage Fund - Series XXVI - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.1421
+2021-04-14,142257,SBI DUAL ADVANTAGE FUND - SERIES XXVI - REGULAR PLAN - GROWTH,11.9274
+2021-04-14,142258,SBI Dual Advantage Fund - Series XXVI - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.9276
+2021-04-14,142259,SBI DUAL ADVANTAGE FUND - SERIES XXVI - DIRECT PLAN - GROWTH,12.142
+2021-04-14,142342,Union Liquid Fund - Unclaimed Amounts Plan - Redemption Upto 3 years,1146.0286
+2021-04-14,142343,Union Liquid Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years,1000.0
+2021-04-14,142344,Union Liquid Fund - Unclaimed Amounts Plan - IDCW Upto 3 years,1146.308
+2021-04-14,142345,Union Liquid Fund - Unclaimed Amounts Plan - IDCW Beyond 3 years,1000.0
+2021-04-14,142550,SBI DEBT FUND SERIES C - 10 (1150 DAYS) - DIRECT PLAN - GROWTH,12.6087
+2021-04-14,142551,SBI Debt Fund Series - C - 10 (1150 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.6086
+2021-04-14,142552,SBI Debt Fund Series - C - 10 (1150 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.4691
+2021-04-14,142553,SBI DEBT FUND SERIES C - 10 (1150 DAYS) - REGULAR PLAN - GROWTH,12.4691
+2021-04-14,142589,DSP NIFTY 1D Rate Liquid ETF,1000.0
+2021-04-14,142957,SBI Debt Fund Series - C - 14 (1122 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.1452
+2021-04-14,142958,SBI DEBT FUND SERIES C - 14 (1122 DAYS) - REGULAR PLAN - GROWTH,12.1313
+2021-04-14,142959,SBI DEBT FUND SERIES C - 14 (1122 DAYS) - DIRECT PLAN - GROWTH,12.2638
+2021-04-14,142960,SBI Debt Fund Series - C - 14 (1122 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.2636
+2021-04-14,143260,Parag Parikh Liquid Fund- Regular Plan- Growth,1150.8854
+2021-04-14,143261,Parag Parikh Liquid Fund- Regular Plan- Monthly IDCW,1004.2148
+2021-04-14,143262,Parag Parikh Liquid Fund- Direct Plan- Monthly IDCW,1004.2564
+2021-04-14,143263,Parag Parikh Liquid Fund- Direct Plan- Daily Reinvestment of IDCW,1000.5404
+2021-04-14,143264,Parag Parikh Liquid Fund- Regular Plan- Daily Reinvestment of IDCW,1000.5404
+2021-04-14,143265,Parag Parikh Liquid Fund- Direct Plan- Weekly Reinvestment of IDCW,1001.1713
+2021-04-14,143266,Parag Parikh Liquid Fund- Regular Plan- Weekly Reinvestment of IDCW,1001.166
+2021-04-14,143269,Parag Parikh Liquid Fund- Direct Plan- Growth,1154.3865
+2021-04-14,143362,SBI DUAL ADVANTAGE FUND - SERIES XXVIII - REGULAR PLAN - GROWTH,12.3591
+2021-04-14,143363,SBI DUAL ADVANTAGE FUND - SERIES XXVIII - DIRECT PLAN - GROWTH,12.5924
+2021-04-14,143364,SBI Dual Advantage Fund - Series XXVIII - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.5582
+2021-04-14,143365,SBI Dual Advantage Fund - Series XXVIII - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.3596
+2021-04-14,143489,SBI DEBT FUND SERIES C -16 (1100 DAYS) - DIRECT PLAN - GROWTH,12.5861
+2021-04-14,143490,SBI Debt Fund Series - C - 16 (1100 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.477
+2021-04-14,143491,SBI DEBT FUND SERIES C -16 (1100 DAYS) - REGULAR PLAN - GROWTH,12.477
+2021-04-14,143492,SBI Debt Fund Series - C - 16 (1100 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.5862
+2021-04-14,143773,SBI DEBT FUND SERIES C - 18 (1100 DAYS) - REGULAR PLAN - GROWTH,12.4562
+2021-04-14,143774,SBI Debt Fund Series - C - 18 (1100 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.4562
+2021-04-14,143775,SBI DEBT FUND SERIES C - 18 (1100 DAYS) - DIRECT PLAN - GROWTH,12.5604
+2021-04-14,143776,SBI Debt Fund Series - C - 18 (1100 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.562
+2021-04-14,144035,SBI Debt Fund Series C - 19 (1100 Days) - Regular Plan - Growth,12.3952
+2021-04-14,144036,SBI Debt Fund Series - C - 19 (1100 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.395
+2021-04-14,144037,SBI Debt Fund Series C - 19 (1100 Days) - Direct Plan - Growth,12.5155
+2021-04-14,144038,SBI Debt Fund Series - C - 19 (1100 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.5155
+2021-04-14,144111,SBI Dual Advantage Fund - Series XXIX - Regular Plan - Growth,12.2702
+2021-04-14,144112,SBI Dual Advantage Fund - Series XXIX - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.4511
+2021-04-14,144113,SBI Dual Advantage Fund - Series XXIX - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.2712
+2021-04-14,144114,SBI Dual Advantage Fund - Series XXIX - Direct Plan - Growth,12.4527
+2021-04-14,144347,SBI Debt Fund Series C - 20 - (1100 Days) - Regular Plan - Growth,12.3744
+2021-04-14,144348,SBI Debt Fund Series - C - 20 (1100 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.3742
+2021-04-14,144349,SBI Debt Fund Series C - 20 - (1100 Days) - Direct Plan - Growth,12.4864
+2021-04-14,144350,SBI Debt Fund Series - C - 20 (1100 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.4864
+2021-04-14,144365,SBI Debt Fund Series C - 21 (1100 Days) - Regular Plan - Growth,12.1747
+2021-04-14,144366,SBI Debt Fund Series C - 21 (1100 Days) - Direct Plan - Growth,12.2917
+2021-04-14,144367,SBI Debt Fund Series - C - 21 (1100 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.1747
+2021-04-14,144368,SBI Debt Fund Series - C - 21 (1100 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.2918
+2021-04-14,144475,UTI Liquid Fund - Regular Plan - Half-Yearly IDCW,1030.6231
+2021-04-14,144492,SBI Debt Fund Series C - 22 (1100 Days) - Regular Plan - Growth,12.3876
+2021-04-14,144493,SBI Debt Fund Series - C - 22 (1100 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.3877
+2021-04-14,144494,SBI Debt Fund Series C - 22 (1100 Days) - Direct Plan - Growth,12.4899
+2021-04-14,144495,SBI Debt Fund Series - C - 22 (1100 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.4899
+2021-04-14,144840,SBI Debt Fund Series C - 23 - (1100 Days) - Regular Plan - Growth,12.3626
+2021-04-14,144841,SBI Debt Fund Series - C - 23 (1100 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.3625
+2021-04-14,144842,SBI Debt Fund Series C - 23 - (1100 Days) - Direct Plan - Growth,12.4744
+2021-04-14,144843,SBI Debt Fund Series - C - 23 (1100 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.4744
+2021-04-14,144917,SBI Debt Fund Series - C - 24 (1100 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.4277
+2021-04-14,144918,SBI Debt Fund Series C - 24 - (1100 Days) - Direct Plan - Growth,12.5288
+2021-04-14,144919,SBI Debt Fund Series C - 24 - (1100 Days) - Regular Plan - Growth,12.4269
+2021-04-14,144920,SBI Debt Fund Series - C - 24 (1100 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.5288
+2021-04-14,144947,ICICI Prudential BSE Liquid Rate ETF - IDCW,1000.0
+2021-04-14,144990,SBI Debt Fund Series C - 25 - (1100 Days) - Regular Plan - Growth,12.4213
+2021-04-14,144991,SBI Debt Fund Series - C - 25 (1100 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.4222
+2021-04-14,144992,SBI Debt Fund Series C - 25 - (1100 Days) - Direct Plan - Growth,12.6064
+2021-04-14,144993,SBI Debt Fund Series - C - 25 (1100 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.6064
+2021-04-14,145159,SBI Dual Advantage Fund - Series XXX - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.5488
+2021-04-14,145160,SBI Dual Advantage Fund - Series XXX - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.7142
+2021-04-14,145161,SBI Dual Advantage Fund Series XXX - Direct Plan - Growth,12.7142
+2021-04-14,145162,SBI Dual Advantage Fund Series XXX - Regular Plan - Growth,12.5488
+2021-04-14,145229,SBI Debt Fund Series C - 26 - (1125 Days) - Direct Plan - Growth,12.5918
+2021-04-14,145230,SBI Debt Fund Series - C - 26 (1125 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.5891
+2021-04-14,145231,SBI Debt Fund Series - C - 26 (1125 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.5226
+2021-04-14,145232,SBI Debt Fund Series C - 26 - (1125 Days) - Regular Plan - Growth,12.4797
+2021-04-14,145371,SBI Debt Fund Series C - 27 - (391 Days) - Regular Plan - Growth,12.5862
+2021-04-14,145372,SBI Debt Fund Series C - 27 - (391 Days) - Direct Plan - Growth,12.6754
+2021-04-14,145373,SBI Debt Fund Series - C - 27 (391 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.6754
+2021-04-14,145374,SBI Debt Fund Series - C - 27 (391 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.5862
+2021-04-14,145481,ADITYA BIRLA SUNLIFE OVERNIGHT FUND-REGULAR PLAN-GROWTH,1110.8877
+2021-04-14,145482,ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Regular - Weekly Reinvestment of IDCW option,1000.4264
+2021-04-14,145483,ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular - Daily Reinvestment of IDCW,1000.02
+2021-04-14,145485,ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular- Monthly Payout of IDCW option,1001.6275
+2021-04-14,145486,ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH,1114.2856
+2021-04-14,145487,ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Direct - Daily Reinvestment of IDCW,1000.02
+2021-04-14,145488,ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Monthly Payout of IDCW,1001.6797
+2021-04-14,145489,ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Weekly Reinvestment of IDCW,1000.4252
+2021-04-14,145497,SBI Debt Fund Series - C - 28 (386 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.5335
+2021-04-14,145498,SBI Debt Fund Series - C - 28 (386 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.4368
+2021-04-14,145499,SBI Debt Fund Series C - 28 - (386 Days) - Direct Plan - Growth,12.5298
+2021-04-14,145500,SBI Debt Fund Series C - 28 - (386 Days) - Regular Plan - Growth,12.4369
+2021-04-14,145535,ICICI Prudential Overnight Fund - Growth,110.8451
+2021-04-14,145536,ICICI Prudential Overnight Fund - Direct Plan - Growth,111.1132
+2021-04-14,145537,ICICI Prudential Overnight Fund - Direct Plan - Daily IDCW,100.0005
+2021-04-14,145538,ICICI Prudential Overnight Fund - Weekly IDCW,100.0166
+2021-04-14,145539,ICICI Prudential Overnight Fund - Direct Plan - Weekly IDCW,100.0172
+2021-04-14,145540,ICICI Prudential Overnight Fund - Fortnightly IDCW,100.1248
+2021-04-14,145541,ICICI Prudential Overnight Fund - Direct Plan - Fortnightly IDCW,100.129
+2021-04-14,145542,ICICI Prudential Overnight Fund - Direct Plan - Monthly IDCW,100.1188
+2021-04-14,145543,ICICI Prudential Overnight Fund - Quarterly IDCW,100.5001
+2021-04-14,145544,ICICI Prudential Overnight Fund - Direct Plan - Quarterly IDCW,100.7045
+2021-04-14,145545,ICICI Prudential Overnight Fund - Direct Plan - Half Yearly IDCW,101.2605
+2021-04-14,145546,ICICI Prudential Overnight Fund - Annual IDCW,101.2184
+2021-04-14,145547,ICICI Prudential Overnight Fund - Daily IDCW,100.0005
+2021-04-14,145548,ICICI Prudential Overnight Fund - Monthly IDCW,100.115
+2021-04-14,145549,ICICI Prudential Overnight Fund - Half Yearly IDCW,101.2178
+2021-04-14,145550,ICICI Prudential Overnight Fund - Direct Plan - Annual IDCW,101.2605
+2021-04-14,145644,SBI Debt Fund Series - C - 30 (385 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.4285
+2021-04-14,145645,SBI Debt Fund Series - C - 30 (385 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.5069
+2021-04-14,145646,SBI Debt Fund Series C - 30 - (385 Days) - Regular Plan - Growth,12.4285
+2021-04-14,145647,SBI Debt Fund Series C - 30 - (385 Days) - Direct Plan - Growth,12.5069
+2021-04-14,145743,SBI Debt Fund Series - C - 32 (380 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.3479
+2021-04-14,145744,SBI Debt Fund Series - C - 32 (380 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.4312
+2021-04-14,145745,SBI Debt Fund Series C - 32 - (380 Days) - Regular Plan - Growth,12.3479
+2021-04-14,145746,SBI Debt Fund Series C - 32 - (380 Days) - Direct Plan - Growth,12.4312
+2021-04-14,145810,Nippon India Overnight Fund - Direct Plan - Growth Option,110.6041
+2021-04-14,145811,Nippon India Overnight Fund - Regular Plan - Growth Option,110.355
+2021-04-14,145812,NIPPON INDIA OVERNIGHT FUND - DIRECT Plan - DAILY IDCW Option,100.005
+2021-04-14,145823,NIPPON INDIA OVERNIGHT FUND - DIRECT Plan - WEEKLY IDCW Option,100.0468
+2021-04-14,145824,NIPPON INDIA OVERNIGHT FUND - DIRECT Plan - MONTHLY IDCW Option,100.2919
+2021-04-14,145825,NIPPON INDIA OVERNIGHT FUND - DIRECT Plan - QUARTERLY IDCW Option,100.4376
+2021-04-14,145826,NIPPON INDIA OVERNIGHT FUND - WEEKLY IDCW Option,100.0457
+2021-04-14,145827,NIPPON INDIA OVERNIGHT FUND - MONTHLY IDCW Option,100.2781
+2021-04-14,145830,NIPPON INDIA OVERNIGHT FUND - DAILY IDCW Option,100.005
+2021-04-14,145833,NIPPON INDIA OVERNIGHT FUND - QUARTERLY IDCW Option,100.4275
+2021-04-14,145834,Motilal Oswal Liquid Fund - Direct Growth,11.0492
+2021-04-14,145855,SBI Debt Fund Series C - 33 (1216 Days) - Direct Plan - Growth,12.3877
+2021-04-14,145856,SBI Debt Fund Series C - 33 (1216 Days) - Regular Plan - Growth,12.3062
+2021-04-14,145857,SBI Debt Fund Series - C - 33 (1216 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.3062
+2021-04-14,145858,SBI Debt Fund Series - C - 33 (1216 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.3877
+2021-04-14,145946,Motilal Oswal Liquid Fund - Regular Growth,11.0107
+2021-04-14,145947,SBI DEBT FUND SERIES C - 34 (1211 DAYS) - DIRECT PLAN - GROWTH,12.3308
+2021-04-14,145948,SBI Debt Fund Series - C - 34 (1211 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.3308
+2021-04-14,145949,SBI DEBT FUND SERIES C - 34 (1211 DAYS) - REGULAR PLAN - GROWTH,12.2466
+2021-04-14,145950,SBI Debt Fund Series - C - 34 (1211 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.2466
+2021-04-14,145963,WhiteOak Capital Liquid Fund- Regular plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1000.9394
+2021-04-14,145964,WhiteOak Capital Liquid Fund- Regular plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1001.312
+2021-04-14,145965,WhiteOak Capital Liquid Fund- Regular plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1002.759
+2021-04-14,145966,WhiteOak Capital Liquid Fund- Direct plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1000.7402
+2021-04-14,145967,WhiteOak Capital Liquid Fund- Direct plan-Monthly  Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1003.3923
+2021-04-14,145968,WhiteOak Capital Liquid Fund- Regular plan-Growth Option,1111.3635
+2021-04-14,145969,WhiteOak Capital Liquid Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1000.9402
+2021-04-14,145970,WhiteOak Capital Liquid Fund- Direct plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1001.3001
+2021-04-14,145971,WhiteOak Capital Liquid Fund- Direct plan-Growth Option,1113.3408
+2021-04-14,145972,WhiteOak Capital Liquid Fund- Regular plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1003.8444
+2021-04-14,145987,SBI Debt Fund Series C - 35 (376 Days) - Direct Plan - Growth,12.3095
+2021-04-14,145988,SBI Debt Fund Series - C - 35 (376 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.3095
+2021-04-14,145989,SBI Debt Fund Series C - 35 (376 Days) - Regular Plan - Growth,12.2403
+2021-04-14,145990,SBI Debt Fund Series - C - 35 (376 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.2402
+2021-04-14,146061,DSP Overnight Fund - Regular Plan - Growth,1101.3315
+2021-04-14,146062,DSP Overnight Fund - Direct Plan - Growth,1103.5345
+2021-04-14,146063,DSP Overnight Fund - Regular Plan - IDCW - Weekly,1000.4854
+2021-04-14,146064,DSP Overnight Fund - Direct Plan - IDCW - Weekly,1000.4951
+2021-04-14,146065,DSP Overnight Fund - Direct Plan - IDCW - Daily,1000.0
+2021-04-14,146066,DSP Overnight Fund - Regular Plan - IDCW - Daily,1000.0
+2021-04-14,146137,Kotak Overnight Fund-Regular Plan- Weekly  Payout of Income Distribution cum capital withdrawal option,1066.9354
+2021-04-14,146138,Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option,1004.7568
+2021-04-14,146140,Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option,1003.6055
+2021-04-14,146141,Kotak Overnight Fund -Direct Plan-Growth Option,1099.2084
+2021-04-14,146142,Kotak Overnight Fund -Regular plan-Growth Option,1097.4113
+2021-04-14,146173,SBI Debt Fund Series C - 38 (389 Days) - Regular Plan - Growth,12.1369
+2021-04-14,146174,SBI Debt Fund Series C - 38 (389 Days) - Direct Plan - Growth,12.2044
+2021-04-14,146175,SBI Debt Fund Series - C - 38 (389 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.2063
+2021-04-14,146176,SBI Debt Fund Series - C - 38 (389 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.1369
+2021-04-14,146183,BANDHAN Overnight Fund - Direct Plan - Monthly IDCW,1001.5986
+2021-04-14,146184,BANDHAN Overnight Fund - Direct Plan - Periodic IDCW,1002.4727
+2021-04-14,146185,BANDHAN Overnight Fund - Regular Plan - Monthly IDCW,1001.5456
+2021-04-14,146187,BANDHAN Overnight Fund - Regular Plan - Growth,1096.1263
+2021-04-14,146188,BANDHAN Overnight Fund - Regular Plan - Daily IDCW,1000.0001
+2021-04-14,146189,BANDHAN Overnight Fund - Regular Plan - Weekly IDCW,1001.3343
+2021-04-14,146190,BANDHAN Overnight Fund - Direct Plan - Daily IDCW,1000.0001
+2021-04-14,146191,BANDHAN Overnight Fund - Direct Plan - Growth,1099.1552
+2021-04-14,146192,BANDHAN Overnight Fund - Direct Plan - Weekly IDCW,1000.4224
+2021-04-14,146218,Motilal Oswal Liquid Fund Direct - IDCW  Quarterly Payout/Reinvestment,10.0192
+2021-04-14,146220,Motilal Oswal Liquid Fund Regular - IDCW Monthly Payout/Reinvestment,10.045
+2021-04-14,146222,Motilal Oswal Liquid Fund Regular - IDCW Quarterly Payout/Reinvestment,10.0185
+2021-04-14,146223,Motilal Oswal Liquid Fund Direct - IDCW Monthly Payout/Reinvestment,10.0459
+2021-04-14,146224,Motilal Oswal Liquid Fund Regular - IDCW Weekly Reinvestment,10.0178
+2021-04-14,146226,Motilal Oswal Liquid Fund Direct - IDCW Fortnightly Reinvestment,10.0093
+2021-04-14,146227,Motilal Oswal Liquid Fund Regular - IDCW Daily Reinvestment,10.0055
+2021-04-14,146228,Motilal Oswal Liquid Fund Direct - IDCW Reinvestment,10.0077
+2021-04-14,146229,Motilal Oswal Liquid Fund Direct - IDCW Weekly Reinvestment,10.0108
+2021-04-14,146230,Motilal Oswal Liquid Fund Regular - IDCW Fortnightly Reinvestment,10.009
+2021-04-14,146286,SBI Debt Fund Series - C - 40 (1177 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.2383
+2021-04-14,146287,SBI Debt Fund Series - C - 40 (1177 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.1712
+2021-04-14,146288,SBI Debt Fund Series C - 40 - (1177 Days) - Regular Plan - Growth,12.1711
+2021-04-14,146289,SBI Debt Fund Series C - 40- (1177 Days) - Direct Plan - Growth,12.2383
+2021-04-14,146312,SBI Debt Fund Series C - 41 (1178 Days) - Direct Plan - Growth,12.2479
+2021-04-14,146313,SBI Debt Fund Series - C - 41 (1178 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.2478
+2021-04-14,146314,SBI Debt Fund Series C - 41 (1178 Days) - Regular Plan - Growth,12.1811
+2021-04-14,146315,SBI Debt Fund Series - C - 41 (1178 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.1812
+2021-04-14,146366,SBI Debt Fund Series - C - 43 (384 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.1539
+2021-04-14,146367,SBI Debt Fund Series C - 43 (384 Days) - Direct Plan - Growth,12.2197
+2021-04-14,146368,SBI Debt Fund Series - C - 43 (384 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.2197
+2021-04-14,146369,SBI Debt Fund Series C - 43 (384 Days) - Regular Plan - Growth,12.1539
+2021-04-14,146493,SBI Debt Fund Series C - 44 (378 Days) - Regular Plan - Growth,12.1458
+2021-04-14,146494,SBI Debt Fund Series - C - 44 (378 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.211
+2021-04-14,146495,SBI Debt Fund Series C - 44 (378 Days) - Direct Plan - Growth,12.211
+2021-04-14,146496,SBI Debt Fund Series - C - 44 (378 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.1458
+2021-04-14,146546,SBI Capital Protection Oriented Fund - Series A (Plan 1) - Regular Plan - Growth,11.9345
+2021-04-14,146547,SBI Capital Protection Oriented Fund - Series A (Plan 1) - Direct Plan - Growth,12.061
+2021-04-14,146590,SBI Debt Fund Series C - 46 (376 Days) - Regular Plan - Growth,12.0267
+2021-04-14,146591,SBI Debt Fund Series - C - 46 (376 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.0901
+2021-04-14,146592,SBI Debt Fund Series C - 46 (376 Days) - Direct Plan- Growth,12.0902
+2021-04-14,146593,SBI Debt Fund Series - C - 46 (376 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.0267
+2021-04-14,146655,SBI Debt Fund Series C - 48 (385 Days) - Regular Plan - Growth,12.0269
+2021-04-14,146656,SBI Debt Fund Series C - 48 (385 Days) - Direct Plan - Growth,12.0898
+2021-04-14,146657,SBI Debt Fund Series C - 48 (385 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.0269
+2021-04-14,146658,SBI Debt Fund Series C - 48 (385 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.0898
+2021-04-14,146675,Axis Overnight Fund - Direct Plan - Growth Option,1089.1989
+2021-04-14,146676,Axis Overnight Fund - Direct Plan - Weekly IDCW,1000.8708
+2021-04-14,146677,Axis Overnight Fund - Direct Plan - Monthly IDCW,1002.5568
+2021-04-14,146678,Axis Overnight Fund - Regular Plan - Growth Option,1087.8613
+2021-04-14,146679,Axis Overnight Fund - Direct Plan - Daily IDCW,1000.5073
+2021-04-14,146680,Axis Overnight Fund - Regular Plan - Weekly IDCW,1000.8405
+2021-04-14,146681,Axis Overnight Fund - Regular Plan - Monthly IDCW,1002.5171
+2021-04-14,146682,Axis Overnight Fund - Regular Plan - Daily IDCW,1000.5032
+2021-04-14,146704,SBI Capital Protection Oriented Fund - Series A (Plan 2) - Direct Plan - Growth,11.9999
+2021-04-14,146705,SBI Capital Protection Oriented Fund - Series A (Plan 2) - Regular Plan - Growth,11.851
+2021-04-14,146765,SBI Debt Fund Series C - 49 (390 Days) - Direct Plan - Growth,12.0302
+2021-04-14,146766,SBI Debt Fund Series - C - 49 (390 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.0302
+2021-04-14,146767,SBI Debt Fund Series - C - 49 (390 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.9638
+2021-04-14,146768,SBI Debt Fund Series C - 49 (390 Days) - Regular Plan - Growth,11.9681
+2021-04-14,146877,SBI Debt Fund Series C - 50 (383 Days) - Regular Plan - Growth,11.9142
+2021-04-14,146878,SBI Debt Fund Series C - 50 (383 Days) - Direct Plan - Growth,11.9756
+2021-04-14,146879,SBI Debt Fund Series - C - 50 (383 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.9756
+2021-04-14,146880,SBI Debt Fund Series - C - 50 (383 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.9145
+2021-04-14,146953,Sundaram Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),1000.03
+2021-04-14,146954,Sundaram Overnight Fund Regular Plan - Weekly Payout of Income Distribution cum Capital Withdrawal (IDCW),1047.6394
+2021-04-14,146955,Sundaram Overnight Fund Direct Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),1048.7464
+2021-04-14,146956,Sundaram Overnight Fund Direct Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),1063.9992
+2021-04-14,146957,Sundaram Overnight Fund Direct Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),1043.5478
+2021-04-14,146958,Sundaram Overnight Fund Regular Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),1065.0
+2021-04-14,146959,Sundaram Overnight Fund Regular Plan - Growth,1093.357
+2021-04-14,146960,Sundaram Overnight Fund Regular Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW),1039.8132
+2021-04-14,146961,Sundaram Overnight Fund Regular Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),1039.8132
+2021-04-14,146962,Sundaram Overnight Fund Direct Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW),1043.5478
+2021-04-14,146963,Sundaram Overnight Fund Direct Plan - Growth,1095.6835
+2021-04-14,146964,Sundaram Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),1000.03
+2021-04-14,146973,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.4026
+2021-04-14,146974,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Growth,12.4662
+2021-04-14,146975,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.465
+2021-04-14,146976,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Growth,12.4025
+2021-04-14,146977,Tata Overnight Fund-Regular Plan-Growth,1084.8271
+2021-04-14,146978,TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,1000.0
+2021-04-14,146979,TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,1000.0
+2021-04-14,146980,Tata Overnight Fund-Direct Plan-Growth,1087.2079
+2021-04-14,146997,Union Overnight Fund - Regular Plan - Growth Option,1082.8221
+2021-04-14,146998,Union Overnight Fund - Regular Plan - Daily IDCW Option,1000.7574
+2021-04-14,147000,Union Overnight Fund - Regular Plan - Monthly IDCW Option,1002.2976
+2021-04-14,147002,Union Overnight Fund - Direct Plan - Daily IDCW Option,1000.763
+2021-04-14,147003,Union Overnight Fund - Direct Plan - Growth Option,1085.0197
+2021-04-14,147006,Union Overnight Fund - Direct Plan - Monthly IDCW Option,1002.3496
+2021-04-14,147103,SBI Fixed Maturity Plan (FMP) - Series 2 (1178 Days) - Regular Plan - Growth,11.9469
+2021-04-14,147104,SBI Fixed Maturity Plan (FMP) - Series 2 (1178 Days) - Direct Plan - Growth,12.0067
+2021-04-14,147105,SBI Fixed Maturity Plan (FMP) - Series 2 (1178 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.0067
+2021-04-14,147106,SBI Fixed Maturity Plan (FMP) - Series 2 (1178 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.9469
+2021-04-14,147122,BNP Paribas Overnight Fund - Regular Plan-Weekly Income Distribution cum Capital Withdrawal Option,1000.4827
+2021-04-14,147123,BNP Paribas Overnight Fund - Regular Plan-Daily Income Distribution cum Capital Withdrawal Option,1000.0
+2021-04-14,147124,BNP Paribas Overnight Fund - Regular Plan-Growth Option,1082.1591
+2021-04-14,147125,BNP Paribas Overnight Fund - Direct Plan-Growth Option,1084.5385
+2021-04-14,147126,BNP Paribas Overnight Fund - Direct Plan-Weekly Income Distribution cum Capital Withdrawal Option,1000.5022
+2021-04-14,147127,BNP Paribas Overnight Fund - Direct Plan-Daily Income Distribution cum Capital Withdrawal Option,1000.0
+2021-04-14,147133,SBI Fixed Maturity Plan (FMP) - Series 3 (1179 Days) - Regular Plan - Growth,11.9647
+2021-04-14,147134,SBI Fixed Maturity Plan (FMP) - Series 3 (1179 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.9646
+2021-04-14,147135,SBI Fixed Maturity Plan (FMP) - Series 3 (1179 Days) - Direct Plan - Growth,12.0239
+2021-04-14,147136,SBI Fixed Maturity Plan (FMP) - Series 3 (1179 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.0239
+2021-04-14,147153,ITI Liquid Fund - Regular Plan - Growth Option,1078.868
+2021-04-14,147154,ITI Liquid Fund - Regular Plan - Daily IDCW Option,1001.0
+2021-04-14,147155,ITI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum capital withdrawal option Option,1017.6886
+2021-04-14,147156,ITI Liquid Fund - Regular Plan - Monthly IDCW Option,1002.5319
+2021-04-14,147157,ITI Liquid Fund - Direct Plan - Growth Option,1081.2168
+2021-04-14,147158,ITI Liquid Fund - Direct Plan - Daily IDCW Option,1001.3233
+2021-04-14,147159,ITI Liquid Fund - Direct Plan - Weekly IDCW Option,1001.0822
+2021-04-14,147160,ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option,1001.0929
+2021-04-14,147161,ITI Liquid Fund - Direct Plan - Annually IDCW Option,1081.3565
+2021-04-14,147162,ITI Liquid Fund - Regular Plan - Annually IDCW Option,1080.9258
+2021-04-14,147163,ITI Liquid Fund - Direct Plan - Monthly IDCW Option,1002.5619
+2021-04-14,147164,ITI Liquid Fund - Regular Plan - Weekly IDCW Option,1001.0785
+2021-04-14,147193,Baroda BNP Paribas Overnight Fund - Regular Plan - Growth,1081.0583
+2021-04-14,147194,Baroda BNP Paribas Overnight Fund - Regular Plan - Daily IDCW,1000.0
+2021-04-14,147195,Baroda BNP Paribas Overnight Fund - Direct Plan - Weekly IDCW,1000.238
+2021-04-14,147196,Baroda BNP Paribas Overnight Fund - Direct Plan - Growth,1082.2385
+2021-04-14,147197,Baroda BNP Paribas Overnight Fund - Direct Plan - Daily IDCW,1000.0
+2021-04-14,147198,Baroda BNP Paribas Overnight Fund - Regular Plan - Weekly IDCW,1000.1983
+2021-04-14,147211,Franklin India Overnight Fund - Direct Weekly Dividend Plan - Weekly - IDCW,1000.2488
+2021-04-14,147212,Franklin India Overnight Fund - Direct Daily Dividend Plan - Daily - IDCW,1000.0
+2021-04-14,147213,Franklin India Overnight fund- Growth,1075.5874
+2021-04-14,147214,Franklin India Overnight Fund- Growth - Direct,1076.7926
+2021-04-14,147215,Franklin India Overnight Fund - Daily Dividend Plan - Daily - IDCW,1000.0
+2021-04-14,147216,Franklin India Overnight Fund - Weekly Dividend Plan - Weekly - IDCW,1000.247
+2021-04-14,147240,SBI Capital Protection Oriented Fund - Series A (Plan 3) - Regular Plan - Growth,11.8773
+2021-04-14,147242,SBI Capital Protection Oriented Fund - Series A (Plan 3) - Direct Plan - Growth,12.0108
+2021-04-14,147247,SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Regular Plan - Growth,12.1506
+2021-04-14,147248,SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Direct Plan - Growth,12.209
+2021-04-14,147249,SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.2089
+2021-04-14,147250,SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.1512
+2021-04-14,147287,HSBC Overnight Fund - Direct Growth,1077.4038
+2021-04-14,147288,HSBC Overnight Fund - Regular Weekly IDCW,1000.6323
+2021-04-14,147289,HSBC Overnight Fund - Regular Daily IDCW,1000.0
+2021-04-14,147290,HSBC Overnight Fund - Regular Growth,1074.3269
+2021-04-14,147291,HSBC Overnight Fund - Direct Daily IDCW,1000.0
+2021-04-14,147296,HSBC Overnight Fund - Direct Weekly IDCW,1000.6646
+2021-04-14,147301,HSBC Overnight Fund - Regular Monthly IDCW,1001.6514
+2021-04-14,147317,SBI Fixed Maturity Plan (FMP) - Series 7 (1175 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.8648
+2021-04-14,147318,SBI Fixed Maturity Plan (FMP) - Series 7 (1175 Days) - Direct Plan - Growth,11.9211
+2021-04-14,147319,SBI Fixed Maturity Plan (FMP) - Series 7 (1175 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.9211
+2021-04-14,147320,SBI Fixed Maturity Plan (FMP) - Series 7 (1175 Days) - Regular Plan - Growth,11.8648
+2021-04-14,147331,SBI Fixed Maturity Plan (FMP) - Series 8 (1178 Days) - Regular Plan - Growth,11.756
+2021-04-14,147332,SBI Fixed Maturity Plan (FMP) - Series 8 (1178 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.7561
+2021-04-14,147333,SBI Fixed Maturity Plan (FMP) - Series 8 (1178 Days) - Direct Plan - Growth,11.8109
+2021-04-14,147334,SBI Fixed Maturity Plan (FMP) - Series 8 (1178 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.8109
+2021-04-14,147359,SBI Capital Protection Oriented Fund - Series A (Plan 4) - Direct Plan - Growth,11.9402
+2021-04-14,147360,SBI Capital Protection Oriented Fund - Series A (Plan 4) - Regular Plan - Growth,11.8157
+2021-04-14,147421,SBI Fixed Maturity Plan (FMP) - Series 9 (1178 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.7298
+2021-04-14,147422,SBI Fixed Maturity Plan (FMP) - Series 9 (1178 Days) - Direct Plan - Growth,11.7829
+2021-04-14,147423,SBI Fixed Maturity Plan (FMP) - Series 9 (1178 Days) - Regular Plan - Growth,11.7293
+2021-04-14,147424,SBI Fixed Maturity Plan (FMP) - Series 9 (1178 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.7828
+2021-04-14,147441,Motilal Oswal Liquid Fund - Unclaimed Dividend- Upto 3 years,10.7328
+2021-04-14,147444,Motilal Oswal Liquid Fund - Unclaimed Redemption - Upto 3 years,10.5351
+2021-04-14,147450,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Growth Option,1068.4763
+2021-04-14,147451,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1001.1904
+2021-04-14,147452,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1001.4159
+2021-04-14,147453,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1001.6495
+2021-04-14,147454,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Growth Option,1066.5761
+2021-04-14,147455,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),1000.9478
+2021-04-14,147456,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1001.0296
+2021-04-14,147457,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1001.072
+2021-04-14,147458,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),1000.9888
+2021-04-14,147459,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1001.5829
+2021-04-14,147464,SBI Fixed Maturity Plan (FMP) - Series 10 (1178 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.7812
+2021-04-14,147465,SBI Fixed Maturity Plan (FMP) - Series 10 (1178 Days) - Regular Plan - Growth,11.7287
+2021-04-14,147466,SBI Fixed Maturity Plan (FMP) - Series 10 (1178 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.7287
+2021-04-14,147467,SBI Fixed Maturity Plan (FMP) - Series 10 (1178 Days) - Direct Plan - Growth,11.7812
+2021-04-14,147484,SBI Fixed Maturity Plan (FMP) - Series 11 (1178 Days) - Regular Plan - Growth,11.681
+2021-04-14,147485,SBI Fixed Maturity Plan (FMP) - Series 11 (1178 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.681
+2021-04-14,147486,SBI Fixed Maturity Plan (FMP) - Series 11 (1178 Days) - Direct Plan - Growth,11.7327
+2021-04-14,147487,SBI Fixed Maturity Plan (FMP) - Series 11 (1178 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.7327
+2021-04-14,147508,SBI Fixed Maturity Plan (FMP) - Series 12 (1179 Days) - Regular Plan - Growth,11.6214
+2021-04-14,147509,SBI Fixed Maturity Plan (FMP) - Series 12 (1179 Days) - Direct Plan - Growth,11.6724
+2021-04-14,147510,SBI Fixed Maturity Plan (FMP) - Series 12 (1179 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.6724
+2021-04-14,147511,SBI Fixed Maturity Plan (FMP) - Series 12 (1179 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.6215
+2021-04-14,147512,LIC MF Overnight Fund-Regular Plan-IDCW,1065.7626
+2021-04-14,147513,LIC MF Overnight Fund-Direct Plan-IDCW,1067.5767
+2021-04-14,147514,LIC MF Overnight Fund-Direct Plan-Weekly IDCW,1001.2806
+2021-04-14,147515,LIC MF Overnight Fund-Direct Plan-Growth,1067.825
+2021-04-14,147516,LIC MF Overnight Fund-Direct Plan-Daily IDCW,1000.38
+2021-04-14,147517,LIC MF Overnight Fund-Regular Plan-Daily IDCW,1001.1378
+2021-04-14,147519,LIC MF Overnight Fund-Regular Plan-Growth,1065.4048
+2021-04-14,147520,SBI Fixed Maturity Plan (FMP) - Series 13 (1108 Days) - Direct Plan - Growth,11.6531
+2021-04-14,147521,SBI Fixed Maturity Plan (FMP) - Series 13 (1108 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.6531
+2021-04-14,147522,SBI Fixed Maturity Plan (FMP) - Series 13 (1108 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.6028
+2021-04-14,147523,SBI Fixed Maturity Plan (FMP) - Series 13 (1108 Days) - Regular Plan - Growth,11.6028
+2021-04-14,147531,CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - GROWTH OPTION,1067.0157
+2021-04-14,147532,CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - DAILY IDCW (Reinvestment),1001.0012
+2021-04-14,147533,CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - DAILY IDCW (Reinvestment),1001.0
+2021-04-14,147534,CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - GROWTH OPTION,1066.4959
+2021-04-14,147550,Edelweiss Overnight Fund - Direct Plan - Fortnightly - IDCW Option,1049.2758
+2021-04-14,147551,Edelweiss Overnight Fund - Direct Plan - Annual - IDCW Option,1069.0965
+2021-04-14,147552,Edelweiss Overnight Fund - Regular Plan - Daily - IDCW Option,1008.1128
+2021-04-14,147553,Edelweiss Overnight Fund - Regular Plan - Weekly - IDCW Option,1015.2339
+2021-04-14,147554,Edelweiss Overnight Fund - Direct Plan - Monthly - IDCW Option,1059.2324
+2021-04-14,147555,Edelweiss Overnight Fund - Regular Plan - Monthly - IDCW Option,1005.0635
+2021-04-14,147557,Edelweiss Overnight Fund - Direct Plan - Daily - IDCW Option,1000.0
+2021-04-14,147558,Edelweiss Overnight Fund - Direct Plan - Weekly - IDCW Option,1064.9548
+2021-04-14,147559,SBI Fixed Maturity Plan (FMP) - Series 14 (384 Days) - Regular Plan - Growth,11.5596
+2021-04-14,147560,SBI Fixed Maturity Plan (FMP) - Series 14 (384 Days) - Direct Plan - Growth,11.6091
+2021-04-14,147561,SBI Fixed Maturity Plan (FMP) - Series 14 (384 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.6091
+2021-04-14,147562,SBI Fixed Maturity Plan (FMP) - Series 14 (384 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.5596
+2021-04-14,147563,Mahindra Manulife Overnight Fund - Direct Plan - Daily IDCW,1000.0
+2021-04-14,147564,Mahindra Manulife Overnight Fund - Direct Plan -Growth,1066.1476
+2021-04-14,147565,Mahindra Manulife Overnight Fund - Regular Plan - Growth,1064.281
+2021-04-14,147566,Mahindra Manulife Overnight Fund - Regular Plan - Daily IDCW,1000.1908
+2021-04-14,147569,Edelweiss Overnight Fund - Regular Plan - Growth,1067.6706
+2021-04-14,147570,Edelweiss Overnight Fund - Direct Plan - Growth,1068.9021
+2021-04-14,147580,SBI Fixed Maturity Plan (FMP) - Series 15 (1123 Days) - Regular Plan - Growth,11.5449
+2021-04-14,147581,SBI Fixed Maturity Plan (FMP) - Series 15 (1123 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.5449
+2021-04-14,147582,SBI Fixed Maturity Plan (FMP) - Series 15 (1123 Days) - Direct Plan - Growth,11.5938
+2021-04-14,147583,SBI Fixed Maturity Plan (FMP) - Series 15 (1123 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.5938
+2021-04-14,147590,WhiteOak Capital Overnight Fund- Regular plan-Growth Option,1059.2722
+2021-04-14,147591,WhiteOak Capital Overnight Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1000.377
+2021-04-14,147593,WhiteOak Capital Overnight Fund- Direct plan-Growth Option,1060.3226
+2021-04-14,147595,WhiteOak Capital Overnight Fund- Direct plan-Fortnightly  Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1002.0096
+2021-04-14,147597,WhiteOak Capital Overnight Fund- Direct plan-Monthly  Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1003.4441
+2021-04-14,147598,WhiteOak Capital Overnight Fund- Regular plan-Weekly  Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1001.1123
+2021-04-14,147599,WhiteOak Capital Overnight Fund- Direct plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1000.3725
+2021-04-14,147600,PGIM India Overnight Fund - Regular Plan- Growth Option,1061.4474
+2021-04-14,147605,PGIM India Overnight Fund - Direct Plan - Daily Dividend Option,1000.0
+2021-04-14,147606,PGIM India Overnight Fund - Direct Plan - Growth Option,1063.2736
+2021-04-14,147607,PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option,1000.6537
+2021-04-14,147608,PGIM India Overnight Fund - Direct Plan - Weekly Dividend Option,1000.357
+2021-04-14,147609,PGIM India Overnight Fund - Regular Plan - Daily Dividend Option,1000.0
+2021-04-14,147610,SBI Fixed Maturity Plan (FMP) - Series 16 (1116 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.5019
+2021-04-14,147611,SBI Fixed Maturity Plan (FMP) - Series 16 (1116 Days) - Regular Plan - Growth,11.5019
+2021-04-14,147612,SBI Fixed Maturity Plan (FMP) - Series 16 (1116 Days) - Direct Plan - Growth,11.5495
+2021-04-14,147613,SBI Fixed Maturity Plan (FMP) - Series 16 (1116 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.5495
+2021-04-14,147627,SBI Fixed Maturity Plan (FMP) - Series 17 (1116 Days) - Direct Plan - Growth,11.5022
+2021-04-14,147628,SBI Fixed Maturity Plan (FMP) - Series 17 (1116 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.5022
+2021-04-14,147629,SBI Fixed Maturity Plan (FMP) - Series 17 (1116 Days) - Regular Plan - Growth,11.4553
+2021-04-14,147630,SBI Fixed Maturity Plan (FMP) - Series 17 (1116 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.4553
+2021-04-14,147631,SBI Capital Protection Oriented Fund - Series A (Plan 5) - Direct Plan - Growth,11.7564
+2021-04-14,147632,SBI Capital Protection Oriented Fund - Series A (Plan 5) - Regular Plan - Growth,11.6321
+2021-04-14,147639,SBI Fixed Maturity Plan (FMP) - Series 18 (1108 Days) - Regular Plan - Growth,11.427
+2021-04-14,147640,SBI Fixed Maturity Plan (FMP) - Series 18 (1108 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.427
+2021-04-14,147641,SBI Fixed Maturity Plan (FMP) - Series 18 (1108 Days) - Direct Plan - Growth,11.4722
+2021-04-14,147642,SBI Fixed Maturity Plan (FMP) - Series 18 (1108 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.4722
+2021-04-14,147643,SBI Capital Protection Oriented Fund - Series A (Plan 6) - Regular Plan - Growth,11.4695
+2021-04-14,147644,SBI Capital Protection Oriented Fund - Series A (Plan 6) - Direct Plan - Growth,11.5946
+2021-04-14,147669,SBI Fixed Maturity Plan (FMP) - Series 19 (1115 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.4142
+2021-04-14,147670,SBI Fixed Maturity Plan (FMP) - Series 19 (1115 Days) - Regular Plan - Growth,11.371
+2021-04-14,147671,SBI Fixed Maturity Plan (FMP) - Series 19 (1115 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.371
+2021-04-14,147672,SBI Fixed Maturity Plan (FMP) - Series 19 (1115 Days) - Direct  Plan - Growth,11.4142
+2021-04-14,147707,ITI Overnight Fund - Direct Plan - Annual IDCW Option,1044.1933
+2021-04-14,147708,ITI Overnight Fund - Direct Plan - Daily IDCW Option,1001.0038
+2021-04-14,147709,ITI Overnight Fund - Regular Plan - Daily IDCW Option,1001.0
+2021-04-14,147711,ITI Overnight Fund - Direct Plan - Weekly IDCW option,1001.0916
+2021-04-14,147712,ITI Overnight Fund - Regular Plan - Weekly IDCW Option,1001.0922
+2021-04-14,147713,ITI Overnight Fund - Direct Plan - Growth Option,1051.7516
+2021-04-14,147714,ITI Overnight Fund - Regular Plan - Growth Option,1050.2046
+2021-04-14,147716,ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option,1001.0851
+2021-04-14,147717,ITI Overnight Fund - Direct Plan - Monthly IDCW Option,1002.5762
+2021-04-14,147718,ITI Overnight Fund - Regular Plan - Monthly IDCW Option,1002.5203
+2021-04-14,147719,SBI Fixed Maturity Plan (FMP) - Series 20(1109 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.3569
+2021-04-14,147720,SBI Fixed Maturity Plan (FMP) - Series 20 (1109 Days) - Direct Plan - Growth,11.3995
+2021-04-14,147721,SBI Fixed Maturity Plan (FMP) - Series 20 (1109 Days) - Regular Plan - Growth,11.3569
+2021-04-14,147722,SBI Fixed Maturity Plan (FMP) - Series 20(1109 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.3995
+2021-04-14,147736,Mirae Asset Overnight Fund Direct Plan Growth,1055.5469
+2021-04-14,147737,Mirae Asset Overnight Fund Direct Daily IDCW,1000.0004
+2021-04-14,147738,Mirae Asset Overnight Fund Direct Monthly IDCW,1001.8305
+2021-04-14,147739,Mirae Asset Overnight Fund Regular Plan Growth,1053.9472
+2021-04-14,147740,Mirae Asset Overnight Fund Direct Weekly IDCW,1000.5854
+2021-04-14,147741,Mirae Asset Overnight Fund Regular Weekly IDCW,1000.5653
+2021-04-14,147742,Mirae Asset Overnight Fund Regular Monthly IDCW,1001.7739
+2021-04-14,147743,Mirae Asset Overnight Fund Regular Daily  IDCW,1000.0
+2021-04-14,147744,SBI Fixed Maturity Plan (FMP) - Series 21 (1109 Days) - Direct Plan - Growth,11.3549
+2021-04-14,147745,SBI Fixed Maturity Plan (FMP) - Series 21 (1109 Days) - Regular Plan - Growth,11.3131
+2021-04-14,147746,SBI Fixed Maturity Plan (FMP) - Series 21 (1109 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.3519
+2021-04-14,147747,SBI Fixed Maturity Plan (FMP) - Series 21 (1109 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.3131
+2021-04-14,147752,SBI Fixed Maturity Plan (FMP) - Series 22 (1106 Days) - Regular Plan - Growth,11.2593
+2021-04-14,147753,SBI Fixed Maturity Plan (FMP) - Series 22 (1106 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.2593
+2021-04-14,147754,SBI Fixed Maturity Plan (FMP) - Series 22 (1106 Days) - Direct Plan - Growth,11.3
+2021-04-14,147755,SBI Fixed Maturity Plan (FMP) - Series 22 (1106 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.3
+2021-04-14,147762,SBI Fixed Maturity Plan (FMP) - Series 23 (1106 Days) - Regular Plan - Growth,11.241
+2021-04-14,147763,SBI Fixed Maturity Plan (FMP) - Series 23 (1106 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.241
+2021-04-14,147764,SBI Fixed Maturity Plan (FMP) - Series 23 (1106 Days) - Direct Plan - Growth,11.2809
+2021-04-14,147765,SBI Fixed Maturity Plan (FMP) - Series 23 (1106 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.2809
+2021-04-14,147774,SBI Fixed Maturity Plan (FMP) - Series 24 (1107) - Regular Plan - Growth,11.2291
+2021-04-14,147775,SBI Fixed Maturity Plan (FMP) - Series 24 (1107 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.2291
+2021-04-14,147776,SBI Fixed Maturity Plan (FMP) - Series 24 (1107 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.2685
+2021-04-14,147777,SBI Fixed Maturity Plan (FMP) - Series 24 (1107) - Direct Plan - Growth,11.2684
+2021-04-14,147782,SBI Fixed Maturity Plan (FMP) - Series 25 (1120 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.1837
+2021-04-14,147783,SBI Fixed Maturity Plan (FMP) - Series 25 (1120 Days) - Direct Plan - Growth,11.2225
+2021-04-14,147784,SBI Fixed Maturity Plan (FMP) - Series 25 (1120 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.2224
+2021-04-14,147785,SBI Fixed Maturity Plan (FMP) - Series 25 (1120 Days) - Regular Plan - Growth,11.1837
+2021-04-14,147790,SBI Fixed Maturity Plan (FMP) - Series 26 (1112 Days) - Regular Plan - Growth,11.2091
+2021-04-14,147791,SBI Fixed Maturity Plan (FMP) - Series 26 (1112 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.2091
+2021-04-14,147792,SBI Fixed Maturity Plan (FMP) - Series 26 (1112 Days) - Direct Plan - Growth,11.2473
+2021-04-14,147793,SBI Fixed Maturity Plan (FMP) - Series 26 (1112 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.2473
+2021-04-14,147834,JM Overnight Fund (Regular) - Weekly IDCW,1000.0814
+2021-04-14,147835,JM Overnight Fund (Direct) - Weekly IDCW,1000.0854
+2021-04-14,147836,JM Overnight Fund (Regular) - Growth,1046.2124
+2021-04-14,147837,JM Overnight Fund - (Direct) - Growth,1047.2014
+2021-04-14,147838,JM Overnight Fund (Direct) - Daily IDCW,1000.0
+2021-04-14,147839,JM Overnight Fund (Regular) - Daily IDCW,1000.0
+2021-04-14,147870,SBI Fixed Maturity Plan (FMP) - Series 27 (1203 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.1922
+2021-04-14,147871,SBI Fixed Maturity Plan (FMP) - Series 27 (1203 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.2276
+2021-04-14,147872,SBI Fixed Maturity Plan (FMP) - Series 27 (1203 Days) - Regular Plan - Growth,11.1922
+2021-04-14,147873,SBI Fixed Maturity Plan (FMP) - Series 27 (1203 Days) - Direct Plan - Growth,11.2276
+2021-04-14,147878,Invesco India Overnight Fund - Regular Plan - Growth,1040.8806
+2021-04-14,147879,Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),1001.2441
+2021-04-14,147880,Invesco India Overnight Fund - Regular Plan - Daily IDCW (Reinvestment),1000.0005
+2021-04-14,147881,Invesco India Overnight Fund - Regular Plan - Weekly IDCW (Reinvestment),1000.169
+2021-04-14,147883,Invesco India Overnight Fund - Direct Plan - Growth,1041.675
+2021-04-14,147884,Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment),1000.0
+2021-04-14,147885,Invesco India Overnight Fund - Direct Plan - Weekly IDCW (Reinvestment),1000.1697
+2021-04-14,147886,Invesco India Overnight Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),1001.2718
+2021-04-14,147936,BANK OF INDIA Overnight Fund Regular Plan Growth,1040.9216
+2021-04-14,147937,Indiabulls Liquid Fund - Direct Plan- Growth -Unclaimed Redemption < 3 Yrs,2008.8694
+2021-04-14,147938,Indiabulls Liquid Fund- Direct Plan-Growth- Unclaimed Dividend < 3 Yrs,1999.0226
+2021-04-14,147939,Indiabulls Liquid Fund - Direct Plan- Growth- Unclaimed Redemption> 3Yrs,2008.4692
+2021-04-14,147940,Indiabulls Liquid Fund-Direct Plan- Growth- Unclaimed Dividend > 3 Yrs,2008.8627
+2021-04-14,147941,SBI Capital Protection Oriented Fund - Series A (Plan 7) - Regular Plan - Growth,11.0567
+2021-04-14,147942,SBI Capital Protection Oriented Fund - Series A (Plan 7) - Direct Plan - Growth,11.1534
+2021-04-14,147948,BANK OF INDIA Overnight Fund Direct Plan- Monthly IDCW,1003.6527
+2021-04-14,147950,BANK OF INDIA Overnight Fund Direct Plan- Weekly IDCW,1000.1741
+2021-04-14,147951,BANK OF INDIA Overnight Fund Direct Plan Growth,1042.1163
+2021-04-14,147952,BANK OF INDIA Overnight Fund Direct Plan- Daily IDCW,1000.0
+2021-04-14,148055,SBI Fixed Maturity Plan (FMP) - Series 28 (1163 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),10.9998
+2021-04-14,148056,SBI Fixed Maturity Plan (FMP) - Series 28 (1163 Days) - Direct Plan - Growth,11.0316
+2021-04-14,148057,SBI Fixed Maturity Plan (FMP) - Series 28 (1163 Days) - Regular Plan - Growth,10.9998
+2021-04-14,148058,SBI Fixed Maturity Plan (FMP) - Series 28 (1163 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.0316
+2021-04-14,148171,SBI Capital Protection Oriented Fund - Series A (Plan 8) - Regular Plan - Growth,11.3113
+2021-04-14,148172,SBI Capital Protection Oriented Fund - Series A (Plan 8) - Direct Plan - Growth,11.4004
+2021-04-14,148192,SBI Fixed Maturity Plan (FMP) - Series 31 (1160 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.0808
+2021-04-14,148193,SBI Fixed Maturity Plan (FMP) - Series 31 (1160 Days) - Direct Plan - Growth,11.1108
+2021-04-14,148194,SBI Fixed Maturity Plan (FMP) - Series 31 (1160 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),11.1108
+2021-04-14,148195,SBI Fixed Maturity Plan (FMP) - Series 31 (1160 Days) - Regular Plan - Growth,11.0808
+2021-04-14,148367,SBI Fixed Maturity Plan (FMP) - Series 32 (1140 Days) - Regular Plan - Growth,10.7362
+2021-04-14,148368,SBI Fixed Maturity Plan (FMP) - Series 32 (1140 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),10.7629
+2021-04-14,148369,SBI Fixed Maturity Plan (FMP) - Series 32 (1140 Days) - Direct Plan - Growth,10.7629
+2021-04-14,148370,SBI Fixed Maturity Plan (FMP) - Series 32 (1140 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),10.7362
+2021-04-14,148383,SBI Fixed Maturity Plan (FMP) - Series 33 (1128 Days) - Regular Plan - Growth,10.5894
+2021-04-14,148384,SBI Fixed Maturity Plan (FMP) - Series 33 (1128 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),10.5894
+2021-04-14,148385,SBI Fixed Maturity Plan (FMP) - Series 33 (1128 Days) - Direct Plan - Growth,10.6149
+2021-04-14,148386,SBI Fixed Maturity Plan (FMP) - Series 33 (1128 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),10.6152
+2021-04-14,148387,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Growth,10.5605
+2021-04-14,148388,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),10.5605
+2021-04-14,148389,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Growth,10.5356
+2021-04-14,148390,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),10.5356
+2021-04-14,148413,JM Liquid Fund - Unclaimed Brokerage I.E.F. (Direct) - Growth Plan,41.4437
+2021-04-14,148414,JM Liquid Fund - Unclaimed Application Refund Amount I.E.F. (Direct) - Growth Plan,41.4437
+2021-04-14,148415,JM Liquid Fund - Withheld Brokerage I.E.F. (Direct) - Growth Plan,41.4437
+2021-04-14,148510,quant Liquid Fund-Unclaimed Dividend-Growth Option,10.28
+2021-04-14,148511,quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option,10.28
+2021-04-14,148512,quant Liquid Fund-Unclaimed Redemption Plan-Growth Option,10.281
+2021-04-14,148513,quant Liquid Fund-Unclaimed Dividend Investor Education Plan-Growth Option,10.28
+2021-04-14,148825,SBI Fixed Maturity Plan (FMP) - Series 41 (1498 Days) - Regular Plan - Growth,10.0244
+2021-04-14,148826,SBI Fixed Maturity Plan (FMP) - Series 41 (1498 Days) Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),10.0244
+2021-04-14,148827,SBI Fixed Maturity Plan (FMP) - Series 41 (1498 Days) - Direct Plan - Growth,10.0255
+2021-04-14,148828,SBI Fixed Maturity Plan (FMP) - Series 41 (1498 Days) Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),10.0255
+2021-04-14,148845,SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),10.0286
+2021-04-14,148846,SBI Fixed Maturity Plan (FMP) Series 42 (1857 Days) - Direct Plan - Growth,10.0294
+2021-04-14,148847,SBI Fixed Maturity Plan (FMP) Series 42 (1857 Days) - Regular Plan - Growth,10.0286
+2021-04-14,148848,SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),10.0294

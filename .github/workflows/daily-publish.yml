@@ -49,16 +49,10 @@ jobs:
 
           python scripts/import_dataset_archive.py "${archive}" --data-dir data
 
-      - name: Materialize browser-visible CSV files
-        run: python scripts/materialize_visible_csv.py --data-dir data --year latest
-
       - name: Validate dataset and update README
         run: |
-          mapfile -t ARCHIVE_FILES < <(find data/Year -name '*.csv.gz' | sort)
+          mapfile -t ARCHIVE_FILES < <(find data/Year -name '*.csv' | sort)
           python scripts/validation.py --input data/latest.csv "${ARCHIVE_FILES[@]}" --report-json releases/validation-report.json --report-md releases/validation-report.md --update-readme README.md
-
-      - name: Build monolithic release archive
-        run: python scripts/build_release_archive.py
 
       - name: Generate checksums and notes
         id: metadata
@@ -70,11 +64,10 @@ jobs:
           {
             echo "Daily mutual fund NAV archive for ${RELEASE_DATE}."
             echo ""
-            echo "This release contains generated public dataset files from the repository data directory."
+            echo "This release contains generated public CSV dataset files from the repository data directory."
             echo ""
             echo "Assets:"
-            echo "- historical.csv.gz"
-            echo "- latest.csv.gz"
+            echo "- latest.csv"
             echo "- checksums.sha256"
             echo "- validation-report.md"
             echo "- validation-report.json"
@@ -99,8 +92,8 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           if gh release view "${{ steps.metadata.outputs.tag }}" >/dev/null 2>&1; then
-            gh release upload "${{ steps.metadata.outputs.tag }}" data/historical.csv.gz data/latest.csv.gz releases/checksums.sha256 releases/validation-report.md releases/validation-report.json --clobber
+            gh release upload "${{ steps.metadata.outputs.tag }}" data/latest.csv releases/checksums.sha256 releases/validation-report.md releases/validation-report.json --clobber
             exit 0
           fi
 
-          gh release create "${{ steps.metadata.outputs.tag }}" data/historical.csv.gz data/latest.csv.gz releases/checksums.sha256 releases/validation-report.md releases/validation-report.json --title "${{ steps.metadata.outputs.title }}" --notes-file releases/release-notes.md
+          gh release create "${{ steps.metadata.outputs.tag }}" data/latest.csv releases/checksums.sha256 releases/validation-report.md releases/validation-report.json --title "${{ steps.metadata.outputs.title }}" --notes-file releases/release-notes.md

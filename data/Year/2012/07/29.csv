@@ -1,0 +1,494 @@
+date,scheme_code,scheme_name,nav
+2012-07-29,100041,Aditya Birla Sun Life Liquid Fund -Institutional - IDCW,108.023
+2012-07-29,100042,Aditya Birla Sun Life Liquid Fund-Retail (Growth),290.5294
+2012-07-29,100043,Aditya Birla Sun Life Liquid Fund-Institutional (Growth),296.8296
+2012-07-29,100044,Aditya Birla Sun Life Liquid Fund -Retail - IDCW,163.694
+2012-07-29,100046,Aditya Birla Sun Life Liquid Fund -Daily IDCW,100.195
+2012-07-29,100047,Aditya Birla Sun Life Liquid Fund - Growth,177.3874
+2012-07-29,100048,Aditya Birla Sun Life Liquid Fund -Institutional - weekly  IDCW,108.1185
+2012-07-29,100051,Aditya Birla Sun Life Liquid Fund -weekly IDCW,100.2732
+2012-07-29,100190,ING Liquid Fund-Regular Growth Option,22.9916
+2012-07-29,100191,ING Liquid Fund-Regular Weekly Dividend Option,10.8383
+2012-07-29,100192,ING Liquid Fund-Regular Daily Dividend Option,10.7873
+2012-07-29,100196,ING Liquid Fund-Institutional Growth Option,17.2821
+2012-07-29,100197,ING Liquid Fund-Institutional Weekly Dividend Option,10.0678
+2012-07-29,100198,ING Liquid Fund-Institutional Daily Dividend Option,10.0121
+2012-07-29,100199,ING Liquid Fund-Super Institutional Growth Option,16.5073
+2012-07-29,100200,ING Liquid Fund-Super Institutional Daily Dividend Option,10.0048
+2012-07-29,100201,ING Liquid Fund-Super Institutional Weekly Dividend Option,10.0
+2012-07-29,100233,JM Liquid Fund (Regular) - Weekly IDCW,11.001
+2012-07-29,100234,JM Liquid Fund - Growth Option,30.1978
+2012-07-29,100237,JM High Liquidity Fund-- Institutional Plan - Growth,18.2394
+2012-07-29,100238,JM High Liquidity Fund-Institutional Plan - Daily Dividend,10.0159
+2012-07-29,100241,JM High Liquidity Fund-- Institutional Plan - Dividend,10.7536
+2012-07-29,100244,JM Liquid Fund (Regular) - Quarterly IDCW,17.0922
+2012-07-29,100245,JM High Liquidity Fund-Super Institutional Plan- Daily Dividend,10.0165
+2012-07-29,100246,JM High Liquidity Fund-Super Institutional Plan- Weekly  Dividend,10.148
+2012-07-29,100247,JM Liquid Fund (Regular) - Super Institutional Plan - Growth Option,17.3611
+2012-07-29,100357,ICICI Prudential Liquid Fund -Quarterly IDCW,100.8942
+2012-07-29,100359,ICICI Prudential Liquid Institutional Plus Fund - Div - Daily,118.515
+2012-07-29,100360,ICICI Prudential Liquid Institutional Plus Fund - Div - Weekly,118.7513
+2012-07-29,100361,ICICI Prudential Liquid Fund-Dividend-Institutional Plus - Monthly,100.4062
+2012-07-29,100362,ICICI Prudential Liquid Institutional Plus Fund - Growth,272.1639
+2012-07-29,100537,Franklin India Liquid Fund - Regular Plan - Weekly - IDCW,1244.3238
+2012-07-29,100538,Franklin India Liquid Fund - Regular Plan - Growth,2696.6167
+2012-07-29,100541,Franklin India Liquid Fund - Regular Plan - Daily - IDCW,1512.34
+2012-07-29,100546,Franklin India Liquid Fund - Super Institutional Plan - Growth,1648.4991
+2012-07-29,100547,Franklin India Liquid Fund - Super Institutional Plan - Daily - IDCW,1000.673
+2012-07-29,100548,Franklin India Liquid Fund - Super Institutional Plan - Weekly - IDCW,1021.1243
+2012-07-29,100618,Sundaram Money Fund Retail Plan - Growth,21.9782
+2012-07-29,100619,Sundaram Money Fund Retail Plan - Quarterly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),12.2991
+2012-07-29,100620,Sundaram Money Fund Retail Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.0953
+2012-07-29,100621,Sundaram Money Fund Retail Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.8724
+2012-07-29,100622,Sundaram Money Fund Retail Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.5466
+2012-07-29,100623,Sundaram Money Fund Retail Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW),10.3822
+2012-07-29,100641,SBI ULTRA SHORT DURATION FUND - REGULAR PLAN - GROWTH,2451.2798
+2012-07-29,100723,UTI MMF-Discontinued - Regular Plan -Growth,3057.4566
+2012-07-29,100724,UTI MMF- Discontinued - Regular Plan - Flexi Dividend Option,1980.1096
+2012-07-29,100725,UTI MMF- Discontinued - Regular Plan - Periodic Dividend Option,1970.9945
+2012-07-29,100828,Kotak Liquid-Regular (Dividend),10.0359
+2012-07-29,100829,Kotak Liquid-Regular (Growth),21.0742
+2012-07-29,100830,Kotak Liquid-Institutional Plan  (Growth),21.6856
+2012-07-29,100831,Kotak Liquid Fund -Institutional Plan - (Daily Dividend),12.2281
+2012-07-29,100832,Kotak Liquid-Institutional Plan (Weekly Dividend),10.1052
+2012-07-29,100833,Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option,12.2281
+2012-07-29,100834,Kotak Liquid Fund Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend,10.0152
+2012-07-29,100835,Kotak Liquid Fund - Regular Plan - Growth,22.4684
+2012-07-29,100837,Nippon India Liquid Fund - Retail Option - Growth Plan,26.2957
+2012-07-29,100838,NIPPON INDIA LIQUID FUND - RETAIL Plan - WEEKLY IDCW OPTION,10.3465
+2012-07-29,100842,NIPPON INDIA LIQUID FUND - RETAIL Plan - DAILY IDCW OPTION,15.2428
+2012-07-29,100843,NIPPON INDIA LIQUID FUND - RETAIL plan - MONTHLY IDCW OPTION,13.3226
+2012-07-29,100844,NIPPON INDIA LIQUID FUND - RETAIL Plan - QUARTERLY IDCW OPTION,12.2727
+2012-07-29,100845,Reliance Liquid Fund-Cash Plan-Growth Plan,17.9133
+2012-07-29,100848,Reliance Liquid Fund-Cash Plan-Weekly Dividend Reinvestment Option,10.9222
+2012-07-29,100849,Reliance Liquid Fund-Cash Plan-Daily Dividend Reinvestment Option,11.1415
+2012-07-29,100851,Nippon India Liquid Fund -Growth Plan,26.9751
+2012-07-29,100852,NIPPON INDIA LIQUID FUND - DAILY IDCW OPTION,15.2874
+2012-07-29,100853,NIPPON INDIA LIQUID FUND - WEEKLY IDCW OPTION,15.3105
+2012-07-29,100855,NIPPON INDIA LIQUID FUND - MONTHLY IDCW OPTION,21.7679
+2012-07-29,100868,HDFC Liquid Fund - Growth Plan,21.8482
+2012-07-29,100872,HDFC Liquid Fund-PREMIUM PLUS- Growth,22.2304
+2012-07-29,100873,HDFC Liquid Fund-PREMIUM- Growth,22.1855
+2012-07-29,100874,HDFC Liquid Fund - IDCW Plan Weekly,10.3254
+2012-07-29,100875,HDFC Liquid Fund - IDCW Daily,10.1982
+2012-07-29,100876,HDFC Liquid Fund - IDCW Monthly,10.3501
+2012-07-29,100877,HDFC Liquid Fund-Premium Plan - Dividend-Daily,12.2598
+2012-07-29,100878,HDFC Liquid Fund-Premium Plan - Dividend-Weekly,10.115
+2012-07-29,100895,Principal Cash Management Fund - Daily Income Distribution CUM Capital Withdrawal,1000.07
+2012-07-29,100896,Principal Cash Management Fund - Weekly Income Distribution CUM Capital Withdrawal Option,1006.7644
+2012-07-29,100897,Principal Cash Management Fund - Monthly Income Distribution CUM Capital Withdrawal Option,1016.365
+2012-07-29,100898,Principal Cash Management Fund -Growth Option,1722.7762
+2012-07-29,100940,DSP BlackRock Liquidity Fund - Regular Plan - Growth,26.2071
+2012-07-29,100941,DSP BlackRock Liquidity Fund - Regular Plan Weekly Dividend,12.4194
+2012-07-29,100943,DSP BlackRock Liquidity Fund - Regular Plan - Daily Dividend,10.01
+2012-07-29,101044,Franklin India Floating Rate Fund - IDCW,10.0031
+2012-07-29,101048,Franklin India Floating Rate Fund - Growth Plan,18.2775
+2012-07-29,101078,JM Liquid Fund (Regular) - Daily IDCW,10.4302
+2012-07-29,101184,LIC MF Liquid Fund-Regular Plan-Daily IDCW,10.9801
+2012-07-29,101185,LIC MF Liquid Fund-Regular Plan-Growth,20.1239
+2012-07-29,101206,SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH,1906.142
+2012-07-29,101221,ICICI Prudential Money Market Fund Retail Growth (erstwhile Cash Option),175.3934
+2012-07-29,101361,Canara Robeco Liquid Fund- INSTITUTIONAL-Weekly dividend,1000.9828
+2012-07-29,101362,Canara Robeco Liquid Fund- INSTITUTIONAL-Growth,1998.7129
+2012-07-29,101363,Canara Robeco Liquid Fund- INSTITUTIONAL-Daily Dividend Reinvestment,1005.5
+2012-07-29,101364,Canara Robeco Liquid Fund-Retail-DRI,1007.0
+2012-07-29,101365,Canara Robeco Liquid Fund-Retail-Growth,1976.2581
+2012-07-29,101393,Sahara Liquid Fund-Fixed Pricing - Daily Dividend Option,1028.5609
+2012-07-29,101394,Sahara Liquid Fund-Fixed Pricing - Growth option,2007.5484
+2012-07-29,101397,Sahara Liquid Fund-Fixed Pricing -  Weekly Dividend Option,1027.4373
+2012-07-29,101398,Sahara Liquid Fund-Fixed Pricing - Monthly Dividend Option,1027.5029
+2012-07-29,101399,Sahara Liquid Fund-Variable Pricing - Daily Dividend option,1028.578
+2012-07-29,101400,Sahara Liquid Fund-Variable Pricing - Weekly Dividend Option,1030.022
+2012-07-29,101401,Sahara Liquid Fund-Variable Pricing- Monthly Dividend Option,1031.8622
+2012-07-29,101402,Sahara Liquid Fund-Variable Pricing - Growth option,2024.192
+2012-07-29,101407,Baroda BNP Paribas LIQUID FUND-Defunct Plan- IDCW Option,1647.9957
+2012-07-29,101408,Baroda BNP Paribas LIQUID FUND- Defunct Plan -Growth Option,1923.5431
+2012-07-29,101409,Baroda BNP Paribas LIQUID FUND-Defunct Plan-Daily IDCW Option,1006.06
+2012-07-29,101420,JM Floater Short Term Fund - Daily Dividend Option,10.0883
+2012-07-29,101421,JM Floater Short Term Fund - Growth Option,17.5004
+2012-07-29,101549,JM Liquid Fund (Regular) - Bonus Option - Principal Units,15.858
+2012-07-29,101691,HSBC Cash Fund - Inst. - Growth,17.6717
+2012-07-29,101692,HSBC Cash Fund - Inst. - Dividend - Daily,10.4401
+2012-07-29,101693,HSBC Cash Fund - Inst. - Dividend - Weekly,10.9201
+2012-07-29,101694,HSBC Cash Fund - Inst. - Dividend - Monthly,10.5263
+2012-07-29,101696,HSBC Liquid Fund - Growth closed plan,17.4218
+2012-07-29,101697,HSBC Cash Fund - Regular - Dividend - Daily,10.193
+2012-07-29,101698,HSBC Cash Fund - Regular - Dividend - Weekly,10.0213
+2012-07-29,101699,HSBC Liquid Fund Closed,11.0523
+2012-07-29,101700,HSBC Cash Fund - Dividend - Daily,10.0056
+2012-07-29,101701,HSBC Cash Fund - Dividend - Weekly,10.9534
+2012-07-29,101714,Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option,10.0152
+2012-07-29,101716,DWS Insta Cash Plus Fund-DIVIDEND-WEEKLY DIVIDEND,10.3568
+2012-07-29,101717,DWS Insta Cash Plus Fund-DIVIDEND-MONTHLY DIVIDEND,10.4234
+2012-07-29,101718,DWS Insta Cash Plus Fund-DIVIDEND-Daily Dividend,10.301
+2012-07-29,101719,DWS Insta Cash Plus Fund-Growth-GROWTH,18.3296
+2012-07-29,101720,DWS Insta Cash Plus Fund-Institutional Plan-Dividend,10.4817
+2012-07-29,101721,DWS Insta Cash Plus Fund-Institutional Plan-Growth,17.3738
+2012-07-29,101722,DWS Insta Cash Plus Fund-Institutional Plan-Daily Dividend,10.0516
+2012-07-29,101723,DWS Insta Cash Plus Fund-Institutional Plan-Weekly Dividend,10.3893
+2012-07-29,101748,ICICI Prudential Liquid Fund - Institutional - Daily - Div,118.502
+2012-07-29,101749,ICICI Prudential Liquid Fund - Institutional - Monthly - Div,100.7291
+2012-07-29,101750,ICICI Prudential Liquid Fund Retail Growth,263.2194
+2012-07-29,101751,ICICI Prudential Liquid Institutional Fund - Growth,269.4486
+2012-07-29,101752,ICICI Prudential Liquid Fund Retail Weekly Dividend,118.9855
+2012-07-29,101753,ICICI Prudential Liquid Fund - Institutional - Weekly - Div,118.6172
+2012-07-29,101754,ICICI Prudential Liquid Fund Retail Daily Dividend,118.514
+2012-07-29,101755,ICICI Prudential Liquid Fund Retail Monthly Dividend,100.8155
+2012-07-29,101847,Tata Money Market Fund-Regular Plan - Growth Option,2045.0831
+2012-07-29,101858,Tata Liquid Retail Investment Plan - Growth,2509.5341
+2012-07-29,101859,Tata Liquid High Investment Plan - Weekly,1147.8896
+2012-07-29,101860,Tata Liquid High Investment Plan - Growth,1823.146
+2012-07-29,101861,Tata Liquid Fund-Regular Plan  - Weekly Dividend,1001.9391
+2012-07-29,101892,Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option),10.057
+2012-07-29,101893,Kotak Money Market Fund - (Growth),18.1374
+2012-07-29,101894,Kotak Money Market Fund - (Weekly Reinvestment of Income Distribution cum capital withdrawal option),10.1354
+2012-07-29,101970,Aditya Birla Sun Life Money Manager Fund - RETAIL - WEEKLY IDCW,103.7916
+2012-07-29,101971,Aditya Birla Sun Life Money Manager Fund - Retail Growth,182.1592
+2012-07-29,101972,Aditya Birla Sun Life Money Manager Fund - Retail - Daily IDCW,100.015
+2012-07-29,101973,Aditya Birla Sun Life Money Manager Fund - Daily IDCW,100.02
+2012-07-29,101974,Aditya Birla Sun Life Money Manager Fund - WEEKLY IDCW,100.121
+2012-07-29,101976,Aditya Birla Sun Life Money Manager Fund - Growth,147.1155
+2012-07-29,101982,Tata Liquid Retail Investment PLan - Daily,1116.8143
+2012-07-29,101983,Tata Liquid Retail Investment Plan - Fortnightly,1148.3776
+2012-07-29,101984,Tata Liquid High Investment Plan - Daily,1114.3379
+2012-07-29,101985,Tata Liquid High Investment Plan - Monthly,1026.9457
+2012-07-29,101986,Tata Money Market Fund- Regular Plan - Daily Reinvestment of IDCW Option,1114.52
+2012-07-29,101987,Tata Liquid Fund Reglar Plan - Monthly Dividend,1007.6349
+2012-07-29,101993,HDFC Money Market Fund - Growth Option,23.1376
+2012-07-29,101994,HDFC Money Market Fund - Daily IDCW Option,10.6364
+2012-07-29,101995,HDFC Money Market Fund - Weekly IDCW Option,10.63
+2012-07-29,101996,HDFC Overnight Fund - Growth Option,17.8562
+2012-07-29,101997,HDFC Overnight Fund - IDCW Option (Daily),10.4266
+2012-07-29,102007,UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option,1122.914
+2012-07-29,102008,UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option,1118.4803
+2012-07-29,102009,UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth,1768.89
+2012-07-29,102010,UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment),1019.4457
+2012-07-29,102011,UTI Liquid Fund - Regular Plan - Monthly IDCW,1031.9218
+2012-07-29,102012,UTI-  Liquid Cash Plan - Regular Plan - Growth Option,1817.1845
+2012-07-29,102013,UTI Liquid Fund - Regular Plan - Weekly IDCW,1053.011
+2012-07-29,102152,Tata Money Market Fund Regular (Bonus / Dividend),10.161
+2012-07-29,102153,Tata Money Market Fund Regular (Growth),17.5731
+2012-07-29,102441,Franklin India Liquid Fund - Institution-Growth,1719.5361
+2012-07-29,102442,Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW,1054.7186
+2012-07-29,102443,Franklin India Liquid Fund - Institutional Plan - Daily - IDCW,1000.673
+2012-07-29,102672,Tata Liquid Fund -Regular Plan - Growth Option,17.4042
+2012-07-29,102701,Sundaram Money Fund Institutional Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.0953
+2012-07-29,102703,Sundaram Money Fund Institutional Plan - Growth,22.8186
+2012-07-29,102704,Sundaram Money Fund Institutional Plan - Monthly Income Distribution cum Capital Withdrawal (IDCW),10.4473
+2012-07-29,102706,Sundaram Money Fund Institutional Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.8964
+2012-07-29,103048,Nippon India Money Market Fund-Growth Plan-Growth Option,16.6839
+2012-07-29,103050,NIPPON INDIA MONEY MARKET FUND - DAILY IDCW Option,10.0051
+2012-07-29,103051,NIPPON INDIA MONEY MARKET FUND - WEEKLY IDCW Option,10.0085
+2012-07-29,103140,SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1031.4348
+2012-07-29,103340,ICICI Prudential Liquid Fund - Growth,163.7926
+2012-07-29,103342,ICICI Prudential Liquid Fund - Weekly IDCW,100.3101
+2012-07-29,103343,ICICI Prudential Liquid Fund - Daily IDCW,100.0226
+2012-07-29,103344,ICICI Prudential Liquid Fund - Institutional Option - I,159.6697
+2012-07-29,103347,DSP Liquidity Fund - Regular Plan - Growth,1585.3579
+2012-07-29,103348,DSP Liquidity Fund - Regular Plan - IDCW - Weekly,1000.9414
+2012-07-29,103349,DSP Liquidity Fund- Regular Plan - IDCW - Daily,1000.3161
+2012-07-29,103392,Sundaram Money Fund Regular Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.0953
+2012-07-29,103394,Sundaram Money Fund Regular Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),10.9025
+2012-07-29,103397,Sundaram Money Fund Regular Plan - Growth,23.3493
+2012-07-29,103519,Tata Liquidity Management Fund - Regular Plan  -Weekly Dividend,1006.7563
+2012-07-29,103631,Tata Liquidity Management Fund - Regular Plan - Daily Dividend,1002.6089
+2012-07-29,103632,Tata Liquidity Management Fund - Regular Plan - Growth,1494.6983
+2012-07-29,103633,ICICI Prudential Money Market Fund Option - Growth,153.204
+2012-07-29,103634,ICICI Prudential Money Market Fund Option - Daily IDCW,100.0115
+2012-07-29,103635,ICICI Prudential Money Market Fund Option - Weekly IDCW,100.2173
+2012-07-29,103636,ICICI Prudential Money Market Fund Option -Fortnightly IDCW,100.5369
+2012-07-29,103637,ICICI Prudential Money Market Fund Option - Monthly IDCW,101.0178
+2012-07-29,103734,Quantum Liquid Fund - Direct Plan Growth Option,15.7162
+2012-07-29,103735,Quantum Liquid Fund - Direct Plan Monthly IDCW,10.0154
+2012-07-29,103736,Quantum Liquid Fund - Direct Plan Daily IDCW,10.0051
+2012-07-29,103884,SBI Ultra Short Duration Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1077.8477
+2012-07-29,104240,Taurus Liquid Fund-Dividend,1001.2175
+2012-07-29,104241,Taurus Liquid Fund-Growth,1448.9789
+2012-07-29,104308,ICICI Prudential Liquid Fund - Half Yearly IDCW,103.1082
+2012-07-29,104483,Religare Invesco Liquid Fund - Institutional - Daily Dividend,1000.225
+2012-07-29,104484,Invesco India Liquid Fund - Daily IDCW (Reinvestment),1000.7849
+2012-07-29,104485,Invesco India Liquid Fund - Weekly IDCW (Reinvestment),1001.5309
+2012-07-29,104486,Invesco India Liquid Fund - Growth,1522.4695
+2012-07-29,104488,Invesco India Liquid Fund - Regular - Growth,1477.912
+2012-07-29,104489,Invesco India Liquid Fund - Regular - Weekly IDCW (Reinvestment),1001.7217
+2012-07-29,104491,Religare Invesco Liquid Fund - Institutional - Growth,1506.4488
+2012-07-29,104493,Fidelity Cash Fund - Retail Plan - Growth option,14.6281
+2012-07-29,104494,Fidelity Cash Fund - Super Institutional Plan - Daily Dividend Option,10.233
+2012-07-29,104495,Fidelity Cash Fund - Retail Plan - Daily Dividend option,10.0025
+2012-07-29,104496,Fidelity Cash Fund - Super Institutional Plan - Growth Option,15.0761
+2012-07-29,104497,Fidelity Cash Fund - Institutional Plan - Growth Option,14.961
+2012-07-29,104498,Fidelity Cash Fund - Institutional Plan - Daily Dividend Option,10.0025
+2012-07-29,104546,Fidelity Cash Fund - Institutional Plan - Weekly Dividend Option,10.1706
+2012-07-29,104547,Fidelity Cash Fund - Retail Plan - Monthly Dividend Option,10.012
+2012-07-29,104548,Fidelity Cash Fund - Institutional Plan - Monthly Dividend Option,10.0
+2012-07-29,104549,Fidelity Cash Fund - Retail Plan - Weekly Dividend Option,10.015
+2012-07-29,104550,Fidelity Cash Fund - Super Institutional Plan - Weekly Dividend Option,10.0
+2012-07-29,104551,Fidelity Cash Fund - Super Institutional Plan - Monthly Dividend Option,10.0
+2012-07-29,105080,SBI Ultra Short Duration Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),1675.03
+2012-07-29,105274,SBI Liquid Fund - Institutional - Growth,1758.8752
+2012-07-29,105275,SBI Liquid Fund - Institutional Daily Income Distribution cum Capital Withdrawal Option (IDCW),1003.25
+2012-07-29,105278,SBI Liquid Fund - Institutional Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1060.6136
+2012-07-29,105279,SBI Liquid Fund - Institutional Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW),1025.2179
+2012-07-29,105280,SBI Liquid Fund - REGULAR PLAN -Growth,1741.3695
+2012-07-29,105281,SBI Liquid Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),1003.25
+2012-07-29,105282,SBI Liquid Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1061.3239
+2012-07-29,105672,DWS INSTA CASH PLUS FUND - Regular Plan BONUS OPTION,11.2412
+2012-07-29,106467,DWS Insta Cash Plus Fund-Daily Dividend,100.304
+2012-07-29,106471,DWS Insta Cash Plus Fund -Growth,143.9378
+2012-07-29,106472,DWS Insta Cash Plus Fund - Weekly Dividend,100.057
+2012-07-29,106501,Religare Invesco Overnight Fund - Growth,1304.8836
+2012-07-29,106502,Religare Invesco Overnight Fund - Daily Dividend Reinvestment,1000.0048
+2012-07-29,106503,PineBridge India Liquid Fund-Retail Plan-DailyDividend Option,1001.0
+2012-07-29,106504,PineBridge India Liquid Fund-Retail Plan-Monthly Dividend Option,1001.7593
+2012-07-29,106506,PineBridge India Liquid Fund-Institutional Plan-Daily Dividend Option,1001.0
+2012-07-29,106507,PineBridge India Liquid Fund-Institutional Plan-Weekly Dividend Option,1002.1968
+2012-07-29,106508,PineBridge India Liquid Fund- Standard Plan-Growth Option,1411.1684
+2012-07-29,106509,PineBridge India Liquid Fund- Standard Plan-Weekly Dividend Option,1002.2163
+2012-07-29,106510,PineBridge India Liquid Fund-Retail Plan-Weekly Dividend Option,1002.1482
+2012-07-29,106511,PineBridge India Liquid Fund-Institutional Plan-Growth Option,1404.3221
+2012-07-29,106513,PineBridge India Liquid Fund- Standard Plan-Daily Dividend Option,1001.0
+2012-07-29,106514,PineBridge India Liquid Fund-Retail Plan-Growth Option,1383.763
+2012-07-29,106516,PineBridge India Liquid Fund-Retail Plan-Quarterly Dividend Option,1009.5819
+2012-07-29,106561,JPMorgan India Liquid Fund - Retail Plan - Growth Option,13.1403
+2012-07-29,106562,JPMorgan India Liquid Fund - Retail Plan - Daily Dividend Option,10.015
+2012-07-29,106842,Kotak Money Market Fund - (Daily Reinvestment of Income Distribution cum capital withdrawal option),10.1162
+2012-07-29,107328,Principal Ultra Short Term Fund-Growth Option,1237.722
+2012-07-29,107329,Principal Ultra Short Term Fund-Daily Income Distribution CUM Capital Withdrawal Option,1005.43
+2012-07-29,107330,Principal Ultra Short Term Fund-Monthly Income Distribution CUM Capital Withdrawal Option,1051.712
+2012-07-29,107332,Principal Ultra Short Term Fund-Weekly Income Distribution CUM Capital Withdrawal Option,1012.5078
+2012-07-29,107646,Mirae Asset Liquid Fund- Regular Plan - Daily Dividend,1086.7701
+2012-07-29,107647,Mirae Asset Liquid Fund- Regular Plan - Weekly Dividend,1089.45
+2012-07-29,107648,Mirae Asset Liquid Fund- Regular Plan - Growth,1141.3522
+2012-07-29,107649,Mirae Asset Liquid Fund- Regular Plan - Monthly Dividend,1031.7026
+2012-07-29,107659,Mirae Asset Liquid Fund- Institutional Plan - Growth,1019.4617
+2012-07-29,108607,BANDHAN Liquid Fund - Plan A-Dividend (Weekly),1001.4692
+2012-07-29,108629,BANDHAN Liquid Fund - Plan B - Dividend-Weekly,1000.5647
+2012-07-29,108681,BANDHAN Liquid Fund - Plan B-Daily-Dividend(Institutional Plan),1058.73
+2012-07-29,108690,BANDHAN LIQUID Fund - Regular Plan - Growth,1347.0173
+2012-07-29,108691,BANDHAN LIQUID Fund - Regular Plan - Weekly IDCW,1000.5897
+2012-07-29,108692,BANDHAN LIQUID Fund - Regular Plan - Daily IDCW,1000.25
+2012-07-29,108693,BANDHAN LIQUID Fund - Regular Plan - Monthly IDCW,1007.9023
+2012-07-29,108778,BANDHAN Liquid Fund-Plan A-Growth,1953.3068
+2012-07-29,108779,BANDHAN Liquid Fund-Plan A-Dividend (Daily),1058.19
+2012-07-29,108781,BANDHAN Liquid Fund - Plan B (G) (Institutional Plan),1972.4121
+2012-07-29,109177,JPMorgan India Liquid Fund - Retail Plan - Weekly Dividend Option,10.0275
+2012-07-29,109178,JPMorgan India Liquid Fund - Retail Plan - Fortnightly Dividend Option,10.0361
+2012-07-29,109179,JPMorgan India Liquid Fund - Retail Plan - Monthly Dividend Option,10.025
+2012-07-29,109254,BANK OF INDIA Liquid Fund- Regular Plan- Growth,1276.0704
+2012-07-29,109255,BANK OF INDIA Liquid Fund- Regular Plan- Weekly IDCW,1001.4237
+2012-07-29,109256,BANK OF INDIA Liquid Fund- Institutional Plan-Growth,1294.9418
+2012-07-29,109257,BANK OF INDIA Liquid Fund- Institutional Plan- Daily Dividend,1000.0226
+2012-07-29,109258,BANK OF INDIA Liquid Fund- Super Institutional Plan-Growth,1301.0142
+2012-07-29,109263,BANK OF INDIA Liquid Fund- Super Institutional Plan-Daily Dividend,1000.0654
+2012-07-29,109346,Canara Robeco Liquid Fund-Retail-Fortnightly Div Reinvest,1002.8143
+2012-07-29,109347,Canara Robeco Liquid Fund-Retail-Monthly Div Reinvest,1006.3989
+2012-07-29,109349,CANARA ROBECO LIQUID FUND - REGULAR PLAN - DAILY IDCW (Reinvestment),1005.5
+2012-07-29,109350,CANARA ROBECO LIQUID FUND - REGULAR PLAN - WEEKLY IDCW (Payout/Reinvestment),1001.0135
+2012-07-29,109352,Canara Robeco Liquid Fund-Institutional-Monthly Div Reinvest,1000.0
+2012-07-29,109353,CANARA ROBECO LIQUID FUND - REGULAR PLAN - GROWTH OPTION,1346.9994
+2012-07-29,109355,Canara Robeco Liquid Fund-Regular Plan-Fortnightly Div Reinvest.,1000.0
+2012-07-29,109356,Canara Robeco Liquid Fund-Retail-Weekly Div Reinvest,1006.3989
+2012-07-29,109357,Canara Robeco Liquid Fund-Institutional-Fortnightly Div Reinvest,1000.0
+2012-07-29,109934,Edelweiss Liquid Fund - Retail Plan - Daily Dividend Option,1000.0
+2012-07-29,109935,Edelweiss Liquid Fund - Daily Dividend Option,1000.003
+2012-07-29,109936,Edelweiss Liquid Fund - Institutional Plan - Weekly Dividend Option,1000.25
+2012-07-29,109937,Edelweiss Liquid Fund - Retail Plan - Weekly Dividend Option,1000.2311
+2012-07-29,109939,Edelweiss Liquid Fund - Retail Plan - Monthly Dividend Option,1006.6889
+2012-07-29,109940,Edelweiss Liquid Fund - Retail Plan - Growth Option,1271.435
+2012-07-29,109941,Edelweiss Liquid Fund - Institutional Plan - Daily Dividend Option,1000.0
+2012-07-29,109945,Edelweiss Liquid Fund - Institutional Plan - Growth Option,1019.3221
+2012-07-29,109946,Edelweiss Liquid Fund - Growth Option,1095.5083
+2012-07-29,110149,JPMorgan India Liquid Fund - Super Institutional Plan - Daily Dividend Option,10.0079
+2012-07-29,110150,JPMorgan India Liquid Fund - Super Institutional Plan - Growth Option,14.3536
+2012-07-29,110151,JPMorgan India Liquid Fund - Super Institutional Plan - Monthly Dividend Option,10.0428
+2012-07-29,110153,JPMorgan India Liquid Fund - Super Institutional Plan - Weekly Dividend Option,10.1454
+2012-07-29,111547,Taurus Liquid Fund Insti DDRIP,1000.0905
+2012-07-29,111644,Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW,1126.8483
+2012-07-29,111645,Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW,1126.4657
+2012-07-29,111646,Mirae Asset Liquid Fund - Regular Plan - Growth,1193.5435
+2012-07-29,111647,Mirae Asset Liquid Fund - Regular - Daily IDCW,1041.8298
+2012-07-29,111703,Taurus Liquid Fund - Regular Plan -SI Daily Dividend Option,1000.0905
+2012-07-29,111704,Baroda BNP Paribas LIQUID FUND - Regular Plan - GROWTH OPTION,1269.1126
+2012-07-29,111707,Baroda BNP Paribas LIQUID FUND - Regular Plan - DAILY IDCW OPTION,1000.63
+2012-07-29,111760,Taurus Liquid Fund Insti Growth,1216.9801
+2012-07-29,111915,Taurus Liquid Fund - Regular Plan - SI Growth Option,1194.2127
+2012-07-29,111971,BANK OF INDIA Liquid Fund- Regular Plan- Daily IDCW,1000.034
+2012-07-29,112014,Aditya Birla Sun Life Liquid Fund- Discipline Advantage Plan,121.0091
+2012-07-29,112076,UTI Money Market Fund - Regular Plan - Daily IDCW (Reinvestment),1003.3854
+2012-07-29,112077,UTI MMF - Regular Plan - Growth Option,1240.41
+2012-07-29,112210,Axis Liquid Fund - Regular Plan - Growth Option,1227.5926
+2012-07-29,112211,Axis Liquid Fund - Regular Plan - Daily IDCW,1000.1031
+2012-07-29,112212,Axis Liquid Fund - Regular Plan - Weekly IDCW,1003.6158
+2012-07-29,112213,Axis Liquid Fund - Regular Plan - Monthly IDCW,1001.0597
+2012-07-29,112221,DWS Treasury Fund - Cash Plan - Growth,11.9913
+2012-07-29,112222,DWS Treasury Fund - Cash Plan - Institiutional - Growth,123.6697
+2012-07-29,112227,DWS Treasury Fund - Cash Plan - Institiutional - Daily Dividend,100.497
+2012-07-29,112228,DWS Treasury Fund - Cash Plan - Daily Dividend,10.0391
+2012-07-29,112442,L&T Liquid Fund-Regular Cumulative,2174.4616
+2012-07-29,112445,L&T Liquid Fund -Regular Plan - Daily IDCW,1011.6349
+2012-07-29,112456,L&T Liquid Fund-Cum -Institutional Plus,2224.6739
+2012-07-29,112457,L&T Liquid Fund -Regular Plan - Growth,1519.2361
+2012-07-29,112468,L&T Liquid Fund - Regular Weekly Dividend,1199.821
+2012-07-29,112483,L&T Liquid Fund - Institutional Plus Weekly Dividend,1448.6874
+2012-07-29,112635,UTI Money Market Fund - Regular Plan - Weekly IDCW,1014.5512
+2012-07-29,112636,Navi Liquid Fund-Regular Plan-Growth Option,12.1057
+2012-07-29,112637,Navi Liquid Fund-Institutional Plan-Dividend Option-Daily,10.0015
+2012-07-29,112640,Navi Liquid Fund-Institutional Plan-Growth,12.0197
+2012-07-29,112641,Navi Liquid Fund-Retail Plan-Dividend Option-Daily,10.0015
+2012-07-29,112642,Navi Liquid Fund-Retail Plan-Dividend Option-Weekly,10.0137
+2012-07-29,112643,Navi Liquid Fund-Retail Plan-Dividend Option-Monthly,10.005
+2012-07-29,112644,Navi Liquid Fund-Retail Plan-Growth,11.827
+2012-07-29,112645,Navi Liquid Fund - Regular Plan Daily IDCW,10.0015
+2012-07-29,112646,Navi Liquid Fund - Regular Plan Weekly IDCW,10.0168
+2012-07-29,112647,Navi Liquid Fund - Regular Plan Monthly IDCW,10.0062
+2012-07-29,112712,Axis Liquid Fund - Retail Plan - Daily IDCW,1000.0875
+2012-07-29,112713,Axis Liquid Fund - Retail Plan - Growth Option,1199.721
+2012-07-29,112714,Axis Liquid Fund - Retail Plan - Monthly IDCW,1001.0164
+2012-07-29,112715,Axis Liquid Fund - Retail Plan - Weekly IDCW,1001.5324
+2012-07-29,112963,DWS Treasury Fund - Cash Plan - Institiutional - Monthly Dividend,101.8043
+2012-07-29,112964,DWS Treasury Fund - Cash Plan - Weekly Dividend,10.4132
+2012-07-29,112965,DWS Treasury Fund - Cash Plan - Monthly Dividend,10.0
+2012-07-29,112969,DWS Treasury Fund - Cash Plan - Institiutional - Weekly Dividend,100.7558
+2012-07-29,113096,IDBI Liquid Fund-Growth,1188.5978
+2012-07-29,113102,IDBI Liquid Fund-Daily IDCW,1000.0326
+2012-07-29,113103,IDBI Liquid Fund-Weekly IDCW,1000.22
+2012-07-29,113104,IDBI Liquid Fund- Monthly IDCW,1001.0048
+2012-07-29,113183,DHFL Pramerica Liquid Fund - Growth Option,1182.0006
+2012-07-29,113184,DHFL Pramerica Liquid Fund - Dividend Option - Daily,1000.15
+2012-07-29,113185,DHFL Pramerica Liquid Fund -Dividend Option- Weekly,1001.3054
+2012-07-29,113186,DHFL Pramerica Liquid Fund - Dividend Option - Monthly,1000.7711
+2012-07-29,113187,DHFL Pramerica Liquid Fund - Dividend Option - Fortnightly,1000.8136
+2012-07-29,113248,Taurus Liquid Fund - Regular Plan - SI Weekly Dividend Option,1000.7497
+2012-07-29,113275,SBI Debt Fund Series - 24 Months - 2 - Dividend,11.4321
+2012-07-29,113321,SBI Debt Fund Series - 60 Months - 1 - Dividend,11.3204
+2012-07-29,113363,SBI Debt Fund Series - 24 Months - 2 - Growth,11.4332
+2012-07-29,113401,SBI Debt Fund Series - 60 Months - 1 - Growth,11.3203
+2012-07-29,113632,BNP PARIBAS LIQUID Fund-Regular Plan-Monthly Dividend,10.0701
+2012-07-29,113634,BNP PARIBAS LIQUID Fund-Institutional Plan-Growth Option,17.0426
+2012-07-29,113637,BNP PARIBAS LIQUID Fund-Regular Plan-Weekly Dividend Option,10.0081
+2012-07-29,113638,BNP PARIBAS LIQUID Fund-Institutional Plan-Monthly Dividend Payout Option,10.0781
+2012-07-29,113640,BNP PARIBAS LIQUID Fund-Regular Plan-Growth Option,16.4751
+2012-07-29,113641,BNP PARIBAS LIQUID Fund-Institutional Plan-Daily Dividend Option,10.003
+2012-07-29,113642,BNP PARIBAS LIQUID Fund-Institutional Plan-Weekly Dividend Option,10.0087
+2012-07-29,114251,Reliance Liquid Fund-Cash Plan-Monthly Dividend Plan,10.0384
+2012-07-29,114252,Reliance Liquid Fund-Cash Plan-Quarterly Dividend Plan,10.1317
+2012-07-29,114297,SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),1009.91
+2012-07-29,114514,Daiwa Liquid Fund - Regular - Growth,1237.4737
+2012-07-29,114515,Daiwa Liquid Fund - Institutional - Growth,1240.1134
+2012-07-29,114516,Daiwa Liquid Fund - Institutional - Daily Dividend,1000.5197
+2012-07-29,114517,Daiwa Liquid Fund - Institutional - Weekly Dividend,1001.539
+2012-07-29,114518,Daiwa Liquid Fund - Regular - Weekly Dividend,1002.0279
+2012-07-29,114519,Daiwa Liquid Fund - Regular - Daily Dividend,1000.52
+2012-07-29,114781,SBI Capital Protection Oriented Fund - Series II -,10.9791
+2012-07-29,114966,DWS Treasury Fund - Cash Plan - Bonus,11.1498
+2012-07-29,115262,SBI SDFS - 36 MONTHS - 1 - GROWTH,11.2087
+2012-07-29,115263,SBI SDFS - 36 MONTHS - 1 - DIVIDEND,11.1581
+2012-07-29,115328,ICICI Prudential Money Market Fund Dividend,100.009
+2012-07-29,115398,Union Liquid Fund - Growth Option,1109.4508
+2012-07-29,115399,Union Liquid Fund - Fortnightly IDCW Option,1000.9404
+2012-07-29,115400,Union Liquid Fund - Monthly IDCW Option,1000.9405
+2012-07-29,115401,Union Liquid Fund - Daily IDCW Option,1000.18
+2012-07-29,115402,Union Liquid Fund - Weekly IDCW Option,1001.4406
+2012-07-29,115486,BANDHAN Liquid Fund-Plan A-Monthly,1007.4468
+2012-07-29,115487,BANDHAN Liquid Fund-Plan A-Periodic Dividend,1057.8398
+2012-07-29,115489,BANDHAN LIQUID Fund - Regular Plan - Periodic IDCW,1061.1636
+2012-07-29,115598,SBI DEBT FUND SERIES - 367 DAYS - 4 - DIVIDEND,10.9334
+2012-07-29,115599,SBI DEBT FUND SERIES - 367 DAYS 4 - GROWTH,10.9334
+2012-07-29,115639,SBI DEBT FUND SERIES 367 DAYS 5 - GROWTH,10.9093
+2012-07-29,115640,SBI DEBT FUND SERIES 367 DAYS - 5 - DIVIDEND,10.9093
+2012-07-29,115812,MS Liquid Fund - Regular- Growth,1087.9544
+2012-07-29,115813,MS Liquid Fund- Regular Daily Dividend Plan,1000.4971
+2012-07-29,115814,MS Liquid Fund - Regular- Weekly Dividend Plan,1001.2114
+2012-07-29,115815,MS Liquid Fund- Regular Monthly Dividend Plan,1001.4914
+2012-07-29,115824,SBI Capital Protection Oriented Fund - Series III - Growth,10.7256
+2012-07-29,115855,SBI DEBT FUND SERIES 367 DAYS - 6 - DIVIDEND,10.811
+2012-07-29,115856,SBI DEBT FUND SERIES 367 DAYS 6 - GROWTH,10.8116
+2012-07-29,115899,SBI DEBT FUND SERIES - 18 Months - 7 - DIVIDEND,10.7608
+2012-07-29,115900,SBI DEBT FUND SERIES - 18 Months - 7 - GROWTH,10.7608
+2012-07-29,115958,SBI DEBT FUND SERIES 367 DAYS - 7 - DIVIDEND,10.7479
+2012-07-29,115959,SBI DEBT FUND SERIES 367 DAYS 7 - GROWTH,10.7479
+2012-07-29,115991,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Regular Plan - Growth Option,1076.8712
+2012-07-29,115992,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment),1000.0
+2012-07-29,115993,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1001.5348
+2012-07-29,115995,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),1006.6591
+2012-07-29,116016,SBI DEBT FUND SERIES - 18 Months - 8 - DIVIDEND,10.7607
+2012-07-29,116017,SBI DEBT FUND SERIES - 18 Months - 8 - GROWTH,10.7646
+2012-07-29,116021,SBI DEBT FUND SERIES 367 DAYS - 8 - DIVIDEND,10.707
+2012-07-29,116022,SBI DEBT FUND SERIES 367 DAYS 8 - GROWTH,10.707
+2012-07-29,116058,SBI DEBT FUND SERIES 367 DAYS - 9 - DIVIDEND,10.7082
+2012-07-29,116059,SBI DEBT FUND SERIES 367 DAYS - 9 - GROWTH,10.7082
+2012-07-29,116113,SBI DEBT FUND SERIES 367 DAYS - 10 - DIVIDEND,10.6368
+2012-07-29,116114,SBI DEBT FUND SERIES 367 DAYS - 10 - GROWTH,10.6368
+2012-07-29,116123,SBI DEBT FUND SERIES 367 DAYS - 11 - GROWTH,10.663
+2012-07-29,116124,SBI DEBT FUND SERIES 367 DAYS - 11 - DIVIDEND,10.663
+2012-07-29,116361,DWS Insta Cash Plus Fund - Regular Plan - Annual Dividend Option,10.3847
+2012-07-29,116369,DWS Insta cash Plus Fund - Regular Plan - Quarterly Dividend Option,10.3849
+2012-07-29,116370,DWS Treasury Fund - Cash Plan - Annual Dividend,10.4968
+2012-07-29,116391,DWS Treasury Fund - Cash Plan - Quarterly Dividend,10.4771
+2012-07-29,116399,SBI DEBT FUND SERIES - 18 MONTHS - 9 - GROWTH,10.5536
+2012-07-29,116400,SBI DEBT FUND SERIES - 18 MONTHS - 9 - DIVIDEND,10.5536
+2012-07-29,116405,SBI DEBT FUND SERIES - 367 DAYS - 12 - DIVIDEND,10.5834
+2012-07-29,116406,SBI DEBT FUND SERIES - 367 DAYS - 12 - GROWTH,10.5834
+2012-07-29,116407,SBI DEBT FUND SERIES - 18 MONTHS - 10 - GROWTH,10.533
+2012-07-29,116408,SBI DEBT FUND SERIES - 18 MONTHS - 10 - DIVIDEND,10.533
+2012-07-29,116466,SBI DEBT FUND SERIES - 367 DAYS - 13 - DIVIDEND,10.5495
+2012-07-29,116467,SBI DEBT FUND SERIES - 367 DAYS - 13 - GROWTH,10.5496
+2012-07-29,116505,SBI DEBT FUND SERIES - 15 MONTHS - 7 - DIVIDEND,10.5285
+2012-07-29,116506,SBI DEBT FUND SERIES - 15 MONTHS - 7 - GROWTH,10.5284
+2012-07-29,116545,SBI DEBT FUND SERIES - 15 MONTHS - 8 - GROWTH,10.4844
+2012-07-29,116546,SBI DEBT FUND SERIES - 15 MONTHS - 8 - DIVIDEND,10.4844
+2012-07-29,116602,SBI DEBT FUND SERIES - 367 DAYS - 14 - DIVIDEND,10.5078
+2012-07-29,116603,SBI DEBT FUND SERIES - 367 DAYS - 14 - GROWTH,10.5078
+2012-07-29,116624,SBI DEBT FUND SERIES - 367 DAYS - 15 - DIVIDEND,10.4624
+2012-07-29,116625,SBI DEBT FUND SERIES - 367 DAYS - 15 - GROWTH,10.4624
+2012-07-29,116686,SBI DEBT FUND SERIES - 367 DAYS - 16 - GROWTH,10.4839
+2012-07-29,116687,SBI DEBT FUND SERIES - 367 DAYS - 16 - DIVIDEND,10.484
+2012-07-29,116750,SBI DEBT FUND SERIES - 15 MONTHS - 9 - DIVIDEND,10.3878
+2012-07-29,116751,SBI DEBT FUND SERIES - 15 MONTHS - 9 - GROWTH,10.3878
+2012-07-29,116803,Baroda BNP Paribas Liquid Fund - Regular - Weekly IDCW Option,1001.534
+2012-07-29,116872,SBI DEBT FUND SERIES - 13 MONTHS - 12 - DIVIDEND,10.4793
+2012-07-29,116873,SBI DEBT FUND SERIES - 13 MONTHS - 12 - GROWTH,10.4793
+2012-07-29,117054,SBI DEBT FUND SERIES - 13 MONTHS - 13 - DIVIDEND,10.4557
+2012-07-29,117055,SBI DEBT FUND SERIES - 13 MONTHS - 13 - GROWTH,10.4557
+2012-07-29,117110,SBI DEBT FUND SERIES - 15 MONTHS - 10 - DIVIDEND,10.3517
+2012-07-29,117111,SBI DEBT FUND SERIES - 15 MONTHS - 10 - GROWTH,10.3517
+2012-07-29,117142,SBI DEBT FUND SERIES - 367 DAYS - 17 - DIVIDEND,10.4028
+2012-07-29,117143,SBI DEBT FUND SERIES - 367 DAYS - 17 - GROWTH,10.4534
+2012-07-29,117183,SBI DEBT FUND SERIES - 367 DAYS - 18 - GROWTH,10.3807
+2012-07-29,117184,SBI DEBT FUND SERIES - 367 DAYS - 18 - DIVIDEND,10.3807
+2012-07-29,117189,SBI DEBT FUND SERIES - 367 DAYS - 19 - DIVIDEND,10.4197
+2012-07-29,117190,SBI DEBT FUND SERIES - 367 DAYS - 19 - GROWTH,10.4197
+2012-07-29,117252,SBI DEBT FUND SERIES - 366 DAYS - 1 - DIVIDEND,10.2969
+2012-07-29,117253,SBI DEBT FUND SERIES - 366 DAYS - 1 - GROWTH,10.2969
+2012-07-29,117294,SBI DEBT FUND SERIES - 366 DAYS - 2 - DIVIDEND,10.2724
+2012-07-29,117295,SBI DEBT FUND SERIES - 366 DAYS - 2 - GROWTH,10.2724
+2012-07-29,117326,SBI DEBT FUND SERIES - 90 DAYS - 62 - DIVIDEND,10.2252
+2012-07-29,117327,SBI DEBT FUND SERIES - 90 DAYS - 62 - GROWTH,10.2252
+2012-07-29,117335,SBI DEBT FUND SERIES - 366 DAYS - 3 - DIVIDEND,10.2575
+2012-07-29,117336,SBI DEBT FUND SERIES - 366 DAYS - 3 - GROWTH,10.2575
+2012-07-29,117337,SBI DEBT FUND SERIES - 180 DAYS - 24 - DIVIDEND,10.2351
+2012-07-29,117338,SBI DEBT FUND SERIES - 180 DAYS - 24 - GROWTH,10.2351
+2012-07-29,117383,SBI DEBT FUND SERIES - 180 DAYS - 25 - DIVIDEND,10.2217
+2012-07-29,117384,SBI DEBT FUND SERIES - 180 DAYS - 25 - GROWTH,10.2217
+2012-07-29,117405,SBI DEBT FUND SERIES - 90 DAYS - 63 - DIVIDEND,10.194
+2012-07-29,117406,SBI DEBT FUND SERIES - 90 DAYS - 63 - GROWTH,10.194
+2012-07-29,117407,SBI DEBT FUND SERIES - 366 DAYS - 4 - GROWTH,10.228
+2012-07-29,117408,SBI DEBT FUND SERIES - 366 DAYS - 4 - DIVIDEND,10.228
+2012-07-29,117442,SBI DEBT FUND SERIES - 90 DAYS - 64 - DIVIDEND,10.1599
+2012-07-29,117443,SBI DEBT FUND SERIES - 90 DAYS - 64 - GROWTH,10.1599
+2012-07-29,117475,SBI DEBT FUND SERIES - 366 DAYS - 5 - DIVIDEND,10.2169
+2012-07-29,117476,SBI DEBT FUND SERIES - 366 DAYS - 5 - GROWTH,10.2168
+2012-07-29,117555,SBI DEBT FUND SERIES - 90 DAYS - 65 - DIVIDEND,10.1179
+2012-07-29,117556,SBI DEBT FUND SERIES - 90 DAYS - 65 - GROWTH,10.1179
+2012-07-29,117557,SBI DEBT FUND SERIES - 366 DAYS - 6 - DIVIDEND,10.1332
+2012-07-29,117558,SBI DEBT FUND SERIES - 366 DAYS - 6 - GROWTH,10.1331
+2012-07-29,117602,SBI DEBT FUND SERIES - 90 DAYS - 66 - GROWTH,10.0979
+2012-07-29,117603,SBI DEBT FUND SERIES - 90 DAYS - 66 - DIVIDEND,10.0979
+2012-07-29,117625,SBI DEBT FUND SERIES - 366 DAYS - 7 - DIVIDEND,10.1363
+2012-07-29,117626,SBI DEBT FUND SERIES - 366 DAYS - 7 - GROWTH,10.1363
+2012-07-29,117637,SBI DEBT FUND SERIES - 90 DAYS - 67 - GROWTH,10.0863
+2012-07-29,117638,SBI DEBT FUND SERIES - 90 DAYS - 67 - DIVIDEND,10.0863
+2012-07-29,117695,SBI DEBT FUND SERIES - 366 DAYS - 8 - DIVIDEND,10.0599
+2012-07-29,117696,SBI DEBT FUND SERIES - 366 DAYS - 8 - GROWTH,10.0599
+2012-07-29,117707,SBI DEBT FUND SERIES - 366 DAYS - 9 - DIVIDEND,10.0394
+2012-07-29,117708,SBI DEBT FUND SERIES - 366 DAYS - 9 - GROWTH,10.0394

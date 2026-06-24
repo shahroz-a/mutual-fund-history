@@ -8,7 +8,7 @@ This repository focuses only on storing and publishing normalized NAV archive fi
 
 ## Overview
 
-This repository publishes historical mutual fund NAV data as browser-visible CSV files plus compressed CSV archives for bulk downloads. The archive targets common discovery and research needs around:
+This repository publishes historical mutual fund NAV data as plain CSV files from inception onward. The archive targets common discovery and research needs around:
 
 - historical mutual fund nav data
 - india mutual fund nav history
@@ -18,7 +18,7 @@ This repository publishes historical mutual fund NAV data as browser-visible CSV
 - mutual fund nav archive
 - indian mutual fund dataset
 
-The repository is intentionally simple: download the files, validate the schema, and query the NAV history using standard tools.
+The repository is intentionally simple: browse the files on GitHub, download the CSV data, validate the schema, and query NAV history using standard tools.
 
 ## Open Source By Creget
 
@@ -26,13 +26,11 @@ This archive is maintained as an open-source initiative by [Creget](https://creg
 
 ## Dataset Coverage
 
-The dataset is organized as a historical archive plus a latest snapshot:
+The dataset is organized as plain CSV files:
 
-- `data/latest.csv`: browser-visible latest available NAV snapshot.
-- `data/Year/YYYY/MM/DD.csv`: browser-visible daily NAV files for the latest archive year and future updates.
-- `data/Year/YYYY/MM/DD.csv.gz`: compressed date-level historical daily NAV records for the complete archive.
-- `historical.csv.gz`: complete monolithic historical daily NAV archive attached to GitHub Releases.
-- GitHub Releases: immutable compressed archives with checksums and validation reports.
+- `data/latest.csv`: latest available NAV snapshot.
+- `data/Year/YYYY/MM/DD.csv`: date-level historical daily NAV records from inception onward.
+- GitHub Releases: published metadata, checksums, validation reports, and the latest snapshot.
 
 <!-- DATASET_STATS_START -->
 | Metric | Value |
@@ -42,27 +40,26 @@ The dataset is organized as a historical archive plus a latest snapshot:
 | Unique scheme codes | 37,360 |
 | Date range | 2006-04-01 to 2026-06-21 |
 | Latest NAV date | 2026-06-21 |
-| Last validation | 2026-06-24T07:30:05+00:00 |
+| Last validation | 2026-06-24T11:27:19+00:00 |
 | Validation status | passed |
 <!-- DATASET_STATS_END -->
 
 ## Update Frequency
 
-The repository runs a daily scheduled publish job at 21:00 IST, after Indian market close. Generated dataset files are imported from a private generated-data archive when configured, then validated, checksummed, and attached to GitHub Releases.
+The repository runs a daily scheduled publish job at 21:00 IST, after Indian market close. Generated dataset files are imported from a private generated-data archive when configured, then validated, checksummed, and published.
 
 Every update should:
 
 1. Import generated NAV archive files from private automation when configured.
-2. Materialize browser-visible `data/latest.csv` and latest-year `data/Year/YYYY/MM/DD.csv` files.
-3. Validate `data/latest.csv` and the complete compressed daily archive under `data/Year`.
-4. Generate validation reports.
-5. Generate SHA-256 checksums.
-6. Create a GitHub Release containing `historical.csv.gz`, `latest.csv.gz`, checksums, and reports.
-7. Update the README statistics block.
+2. Validate `data/latest.csv` and `data/Year/YYYY/MM/DD.csv`.
+3. Generate validation reports.
+4. Generate SHA-256 checksums.
+5. Create a GitHub Release containing `latest.csv`, checksums, and validation reports.
+6. Update the README statistics block.
 
 ## File Format
 
-Repository-visible files are plain CSV where possible. Bulk historical downloads are also provided as gzip-compressed CSV files. All CSV content uses UTF-8 text and a header row.
+Files are plain CSV files using UTF-8 text and a header row.
 
 Required column order:
 
@@ -81,30 +78,29 @@ See [docs/schema.md](docs/schema.md) for the full schema.
 
 ## Download Instructions
 
-Download compressed archives from the latest GitHub Release:
-
-```bash
-curl -L -o historical.csv.gz https://github.com/shahroz-a/mutual-fund-historical-data/releases/latest/download/historical.csv.gz
-curl -L -o latest.csv.gz https://github.com/shahroz-a/mutual-fund-historical-data/releases/latest/download/latest.csv.gz
-curl -L -o checksums.sha256 https://github.com/shahroz-a/mutual-fund-historical-data/releases/latest/download/checksums.sha256
-shasum -a 256 -c checksums.sha256 --ignore-missing
-```
-
-Or open/download browser-visible CSV files directly from the repository:
+Download CSV files directly from the repository:
 
 ```bash
 curl -L -o latest.csv https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/latest.csv
 curl -L -o 2026-06-21.csv https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/Year/2026/06/21.csv
 ```
 
+Download the latest snapshot and metadata from the latest GitHub Release:
+
+```bash
+curl -L -o latest.csv https://github.com/shahroz-a/mutual-fund-historical-data/releases/latest/download/latest.csv
+curl -L -o checksums.sha256 https://github.com/shahroz-a/mutual-fund-historical-data/releases/latest/download/checksums.sha256
+shasum -a 256 -c checksums.sha256 --ignore-missing
+```
+
 ## GitHub Data Access
 
-This repository does not run a hosted API server. For lightweight API-like access, you can use GitHub-hosted files directly:
+This repository does not run a hosted API server. For lightweight API-like access, you can use GitHub-hosted CSV files directly:
 
 ```text
 https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/latest.csv
 https://raw.githubusercontent.com/shahroz-a/mutual-fund-historical-data/mutual-fund-historical-data/data/Year/2026/06/21.csv
-https://github.com/shahroz-a/mutual-fund-historical-data/releases/latest/download/historical.csv.gz
+https://github.com/shahroz-a/mutual-fund-historical-data/releases/latest/download/latest.csv
 ```
 
 Applications can also use the GitHub Contents API or Release Assets API, subject to GitHub rate limits.
@@ -140,7 +136,7 @@ import pandas as pd
 
 df = pd.concat(
     pd.read_csv(path, parse_dates=["date"])
-    for path in glob("data/Year/*/*/*.csv.gz")
+    for path in glob("data/Year/*/*/*.csv")
 )
 scheme = df[df["scheme_code"].astype(str) == "120503"].sort_values("date")
 scheme["one_year_return"] = scheme["nav"].pct_change(periods=252)
@@ -150,7 +146,7 @@ DuckDB:
 
 ```sql
 SELECT date, scheme_code, scheme_name, nav
-FROM read_csv('data/Year/*/*/*.csv.gz', compression='gzip', header=true)
+FROM read_csv('data/Year/*/*/*.csv', header=true)
 WHERE scheme_code = '120503'
 ORDER BY date;
 ```
@@ -160,8 +156,8 @@ SQLite:
 ```bash
 python3 - <<'PY'
 import csv
-import gzip
 import sqlite3
+from glob import glob
 
 con = sqlite3.connect("mutual_fund_nav.db")
 con.execute("""
@@ -174,10 +170,8 @@ CREATE TABLE IF NOT EXISTS nav (
 )
 """)
 
-from glob import glob
-
-for path in glob("data/Year/*/*/*.csv.gz"):
-    with gzip.open(path, "rt", newline="", encoding="utf-8") as f:
+for path in glob("data/Year/*/*/*.csv"):
+    with open(path, newline="", encoding="utf-8") as f:
         con.executemany(
             "INSERT OR REPLACE INTO nav VALUES (:date, :scheme_code, :scheme_name, :nav)",
             csv.DictReader(f),
@@ -211,11 +205,11 @@ No. This public repository intentionally does not disclose collection methods, p
 
 ### Does this repository expose an API or website?
 
-No. This repository only publishes CSV dataset files, compressed archives, checksums, and validation reports.
+No. This repository only publishes CSV dataset files, checksums, and validation reports.
 
 ### What files should I use?
 
-Use `data/latest.csv` for the browser-visible latest snapshot, `data/Year/YYYY/MM/DD.csv` for browser-visible recent day files, `data/Year/YYYY/MM/DD.csv.gz` for complete date-specific history, and the GitHub Release asset `historical.csv.gz` for the full archive.
+Use `data/latest.csv` for the latest snapshot and `data/Year/YYYY/MM/DD.csv` for complete date-specific history from inception onward.
 
 ### How do I verify downloads?
 

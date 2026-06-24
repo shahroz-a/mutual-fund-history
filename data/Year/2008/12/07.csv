@@ -1,0 +1,392 @@
+date,scheme_code,scheme_name,nav
+2008-12-07,100041,Aditya Birla Sun Life Liquid Fund -Institutional - IDCW,10.8023
+2008-12-07,100042,Aditya Birla Sun Life Liquid Fund-Retail (Growth),23.083
+2008-12-07,100043,Aditya Birla Sun Life Liquid Fund-Institutional (Growth),23.3133
+2008-12-07,100044,Aditya Birla Sun Life Liquid Fund -Retail - IDCW,16.3694
+2008-12-07,100046,Aditya Birla Sun Life Liquid Fund -Daily IDCW,10.0195
+2008-12-07,100047,Aditya Birla Sun Life Liquid Fund - Growth,13.7412
+2008-12-07,100048,Aditya Birla Sun Life Liquid Fund -Institutional - weekly  IDCW,10.8113
+2008-12-07,100049,Aditya Birla Sun Life Cash Plus-Institutional - Fortnightly Dividend,10.8425
+2008-12-07,100051,Aditya Birla Sun Life Liquid Fund -weekly IDCW,10.027
+2008-12-07,100052,Aditya Birla Sun Life Cash Plus-Institutional Premium - Fortnightly Dividend,10.0
+2008-12-07,100053,Aditya Birla Sun Life Cash Plus-Institutional Premium Plan-Monthly Dividend,10.0209
+2008-12-07,100190,ING Liquid Fund-Regular Growth Option,18.1199
+2008-12-07,100191,ING Liquid Fund-Regular Weekly Dividend Option,10.8395
+2008-12-07,100192,ING Liquid Fund-Regular Daily Dividend Option,10.7873
+2008-12-07,100194,ING Liquid Fund-Auto Sweep Growth Option,10.0
+2008-12-07,100195,ING Liquid Fund-Auto Sweep Weekly Dividend Option,10.0
+2008-12-07,100196,ING Liquid Fund-Institutional Growth Option,13.5311
+2008-12-07,100197,ING Liquid Fund-Institutional Weekly Dividend Option,10.0684
+2008-12-07,100198,ING Liquid Fund-Institutional Daily Dividend Option,10.0121
+2008-12-07,100199,ING Liquid Fund-Super Institutional Growth Option,12.838
+2008-12-07,100200,ING Liquid Fund-Super Institutional Daily Dividend Option,10.0048
+2008-12-07,100201,ING Liquid Fund-Super Institutional Weekly Dividend Option,10.0
+2008-12-07,100233,JM Liquid Fund (Regular) - Weekly IDCW,10.6163
+2008-12-07,100234,JM Liquid Fund - Growth Option,23.5183
+2008-12-07,100237,JM High Liquidity Fund-- Institutional Plan - Growth,14.1897
+2008-12-07,100238,JM High Liquidity Fund-Institutional Plan - Daily Dividend,10.0159
+2008-12-07,100241,JM High Liquidity Fund-- Institutional Plan - Dividend,10.3757
+2008-12-07,100243,JM High Liquidity Fund-- Premium Plan - Daily Dividend Option,10.0
+2008-12-07,100244,JM Liquid Fund (Regular) - Quarterly IDCW,13.5408
+2008-12-07,100245,JM High Liquidity Fund-Super Institutional Plan- Daily Dividend,10.0165
+2008-12-07,100246,JM High Liquidity Fund-Super Institutional Plan- Weekly  Dividend,10.0
+2008-12-07,100247,JM Liquid Fund (Regular) - Super Institutional Plan - Growth Option,13.4919
+2008-12-07,100357,ICICI Prudential Liquid Fund -Quarterly IDCW,10.172
+2008-12-07,100359,ICICI Prudential Liquid Institutional Plus Fund - Div - Daily,11.8515
+2008-12-07,100360,ICICI Prudential Liquid Institutional Plus Fund - Div - Weekly,11.8705
+2008-12-07,100362,ICICI Prudential Liquid Institutional Plus Fund - Growth,21.4104
+2008-12-07,100537,Franklin India Liquid Fund - Regular Plan - Weekly - IDCW,1244.3238
+2008-12-07,100538,Franklin India Liquid Fund - Regular Plan - Growth,2129.4147
+2008-12-07,100541,Franklin India Liquid Fund - Regular Plan - Daily - IDCW,1512.34
+2008-12-07,100542,Franklin India Liquid Fund - Liquid Plan - Weekly Dividend,1000.5749
+2008-12-07,100543,Franklin India Liquid Fund - Liquid Plan - Daily IDCW,1000.673
+2008-12-07,100544,Franklin India Liquid Fund - Liquid Plan - Growth,1304.1722
+2008-12-07,100546,Franklin India Liquid Fund - Super Institutional Plan - Growth,1276.3596
+2008-12-07,100547,Franklin India Liquid Fund - Super Institutional Plan - Daily - IDCW,1000.673
+2008-12-07,100548,Franklin India Liquid Fund - Super Institutional Plan - Weekly - IDCW,1021.1243
+2008-12-07,100561,Templeton India Money Market Account - Bonus Plan,1.0
+2008-12-07,100641,SBI ULTRA SHORT DURATION FUND - REGULAR PLAN - GROWTH,19.2154
+2008-12-07,100723,UTI MMF-Discontinued - Regular Plan -Growth,24.0448
+2008-12-07,100724,UTI MMF- Discontinued - Regular Plan - Flexi Dividend Option,18.2611
+2008-12-07,100725,UTI MMF- Discontinued - Regular Plan - Periodic Dividend Option,18.1711
+2008-12-07,100828,Kotak Liquid-Regular (Dividend),10.0354
+2008-12-07,100829,Kotak Liquid-Regular (Growth),16.8274
+2008-12-07,100830,Kotak Liquid-Institutional Plan  (Growth),17.1607
+2008-12-07,100831,Kotak Liquid Fund -Institutional Plan - (Daily Dividend),12.2281
+2008-12-07,100832,Kotak Liquid-Institutional Plan (Weekly Dividend),10.0365
+2008-12-07,100833,Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option,12.2281
+2008-12-07,100834,Kotak Liquid Fund Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend,10.0502
+2008-12-07,100835,Kotak Liquid Fund - Regular Plan - Growth,17.4194
+2008-12-07,100837,Nippon India Liquid Fund - Retail Option - Growth Plan,20.6407
+2008-12-07,100838,NIPPON INDIA LIQUID FUND - RETAIL Plan - WEEKLY IDCW OPTION,10.3466
+2008-12-07,100842,NIPPON INDIA LIQUID FUND - RETAIL Plan - DAILY IDCW OPTION,15.2426
+2008-12-07,100843,NIPPON INDIA LIQUID FUND - RETAIL plan - MONTHLY IDCW OPTION,12.9499
+2008-12-07,100844,NIPPON INDIA LIQUID FUND - RETAIL Plan - QUARTERLY IDCW OPTION,12.3867
+2008-12-07,100845,Reliance Liquid Fund-Cash Plan-Growth Plan,14.499
+2008-12-07,100848,Reliance Liquid Fund-Cash Plan-Weekly Dividend Reinvestment Option,10.9203
+2008-12-07,100849,Reliance Liquid Fund-Cash Plan-Daily Dividend Reinvestment Option,11.1415
+2008-12-07,100851,Nippon India Liquid Fund -Growth Plan,20.9481
+2008-12-07,100852,NIPPON INDIA LIQUID FUND - DAILY IDCW OPTION,15.2872
+2008-12-07,100853,NIPPON INDIA LIQUID FUND - WEEKLY IDCW OPTION,15.3105
+2008-12-07,100855,NIPPON INDIA LIQUID FUND - MONTHLY IDCW OPTION,20.948
+2008-12-07,100868,HDFC Liquid Fund - Growth Plan,17.0758
+2008-12-07,100872,HDFC Liquid Fund-PREMIUM PLUS- Growth,17.2583
+2008-12-07,100873,HDFC Liquid Fund-PREMIUM- Growth,17.2224
+2008-12-07,100874,HDFC Liquid Fund - IDCW Plan Weekly,10.3239
+2008-12-07,100875,HDFC Liquid Fund - IDCW Daily,10.1982
+2008-12-07,100876,HDFC Liquid Fund - IDCW Monthly,10.2925
+2008-12-07,100877,HDFC Liquid Fund-Premium Plan - Dividend-Daily,12.2598
+2008-12-07,100881,HDFC Liquid Fund-Premium Plus Plan - Dividend-Weekly,12.4345
+2008-12-07,100887,Principal Cash Management-Liquid Option-Dividend Plan,10.1268
+2008-12-07,100888,Principal Cash Management-Liquid Option-Growth Plan,16.7778
+2008-12-07,100889,Principal Cash Management-Liquid Option-Monthly Dividend,10.0189
+2008-12-07,100890,Principal Cash Management-Liquid Option-Institutional - Weekly Dividend Plan,10.0086
+2008-12-07,100891,Principal Cash Management-Liquid Option-Institutional - Monthly Dividend Plan,10.0195
+2008-12-07,100892,Principal Cash Management-Liquid Option-Daily Dividend,10.0022
+2008-12-07,100893,Principal Cash Management-Liquid Option-Institutional - Growth Plan,14.1456
+2008-12-07,100894,Principal Cash Management-Liquid Option-Institutional - Daily Dividend Plan,10.0022
+2008-12-07,100895,Principal Cash Management Fund - Daily Income Distribution CUM Capital Withdrawal,10.0007
+2008-12-07,100896,Principal Cash Management Fund - Weekly Income Distribution CUM Capital Withdrawal Option,10.0325
+2008-12-07,100897,Principal Cash Management Fund - Monthly Income Distribution CUM Capital Withdrawal Option,10.0552
+2008-12-07,100898,Principal Cash Management Fund -Growth Option,13.431
+2008-12-07,100940,DSP BlackRock Liquidity Fund - Regular Plan - Growth,20.7168
+2008-12-07,100941,DSP BlackRock Liquidity Fund - Regular Plan Weekly Dividend,12.4087
+2008-12-07,100943,DSP BlackRock Liquidity Fund - Regular Plan - Daily Dividend,10.01
+2008-12-07,100975,DBS Chola Liquid Fund-Regular Cumulative,17.2632
+2008-12-07,100978,DBS Chola Liquid Fund-Daily Dividend Reinvestment Plan,10.0521
+2008-12-07,100989,DBS Chola Liquid Fund-Cum -Institutional Plus,17.4354
+2008-12-07,101044,Franklin India Floating Rate Fund - IDCW,10.0
+2008-12-07,101048,Franklin India Floating Rate Fund - Growth Plan,15.2486
+2008-12-07,101078,JM Liquid Fund (Regular) - Daily IDCW,10.4302
+2008-12-07,101206,SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH,14.8251
+2008-12-07,101221,ICICI Prudential Money Market Fund Retail Growth (erstwhile Cash Option),14.4064
+2008-12-07,101294,Birla Sun Life Cash Plus Sweep Plan-Dividend Option,10.0904
+2008-12-07,101307,DBS Chola Liquid Fund - Regular Weekly Dividend,11.999
+2008-12-07,101352,Templeton Floating Rate Income Fund-Short Term Plan-Dividend Option,10.0491
+2008-12-07,101353,Templeton Floating Rate Income Fund-Short Term Plan-Growth Option,15.5499
+2008-12-07,101354,Templeton Floating Rate Income Fund-Short Term Plan-Institutional Option - Growth,12.7992
+2008-12-07,101355,Templeton Floating Rate Income Fund-Short Term Plan-Institutional Option - Dividend,10.1353
+2008-12-07,101361,Canara Robeco Liquid Fund- INSTITUTIONAL-Weekly dividend,10.041
+2008-12-07,101362,Canara Robeco Liquid Fund- INSTITUTIONAL-Growth,15.7311
+2008-12-07,101363,Canara Robeco Liquid Fund- INSTITUTIONAL-Daily Dividend Reinvestment,10.041
+2008-12-07,101364,Canara Robeco Liquid Fund-Retail-DRI,10.041
+2008-12-07,101365,Canara Robeco Liquid Fund-Retail-Growth,15.7086
+2008-12-07,101393,Sahara Liquid Fund-Fixed Pricing - Daily Dividend Option,1024.9045
+2008-12-07,101394,Sahara Liquid Fund-Fixed Pricing - Growth option,1537.2213
+2008-12-07,101397,Sahara Liquid Fund-Fixed Pricing -  Weekly Dividend Option,1026.2355
+2008-12-07,101398,Sahara Liquid Fund-Fixed Pricing - Monthly Dividend Option,1026.7902
+2008-12-07,101399,Sahara Liquid Fund-Variable Pricing - Daily Dividend option,1024.9262
+2008-12-07,101400,Sahara Liquid Fund-Variable Pricing - Weekly Dividend Option,1025.1866
+2008-12-07,101401,Sahara Liquid Fund-Variable Pricing- Monthly Dividend Option,1027.155
+2008-12-07,101402,Sahara Liquid Fund-Variable Pricing - Growth option,1547.4392
+2008-12-07,101407,Baroda BNP Paribas LIQUID FUND-Defunct Plan- IDCW Option,12.8584
+2008-12-07,101408,Baroda BNP Paribas LIQUID FUND- Defunct Plan -Growth Option,15.0059
+2008-12-07,101420,JM Floater Short Term Fund - Daily Dividend Option,10.0883
+2008-12-07,101421,JM Floater Short Term Fund - Growth Option,13.9898
+2008-12-07,101549,JM Liquid Fund (Regular) - Bonus Option - Principal Units,12.3504
+2008-12-07,101691,HSBC Cash Fund - Inst. - Growth,14.4346
+2008-12-07,101692,HSBC Cash Fund - Inst. - Dividend - Daily,10.4401
+2008-12-07,101693,HSBC Cash Fund - Inst. - Dividend - Weekly,10.4676
+2008-12-07,101694,HSBC Cash Fund - Inst. - Dividend - Monthly,10.5404
+2008-12-07,101696,HSBC Liquid Fund - Growth closed plan,14.35
+2008-12-07,101697,HSBC Cash Fund - Regular - Dividend - Daily,10.193
+2008-12-07,101698,HSBC Cash Fund - Regular - Dividend - Weekly,10.0207
+2008-12-07,101699,HSBC Liquid Fund Closed,13.5261
+2008-12-07,101700,HSBC Cash Fund - Dividend - Daily,10.0056
+2008-12-07,101701,HSBC Cash Fund - Dividend - Weekly,10.2386
+2008-12-07,101702,HSBC Cash Fund - Dividend - Monthly,10.0955
+2008-12-07,101714,Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option,10.0152
+2008-12-07,101716,DWS Insta Cash Plus Fund-DIVIDEND-WEEKLY DIVIDEND,10.3572
+2008-12-07,101717,DWS Insta Cash Plus Fund-DIVIDEND-MONTHLY DIVIDEND,10.9128
+2008-12-07,101718,DWS Insta Cash Plus Fund-DIVIDEND-Daily Dividend,10.301
+2008-12-07,101719,DWS Insta Cash Plus Fund-Growth-GROWTH,14.4364
+2008-12-07,101721,DWS Insta Cash Plus Fund-Institutional Plan-Growth,13.5386
+2008-12-07,101722,DWS Insta Cash Plus Fund-Institutional Plan-Daily Dividend,10.0195
+2008-12-07,101723,DWS Insta Cash Plus Fund-Institutional Plan-Weekly Dividend,10.015
+2008-12-07,101748,ICICI Prudential Liquid Fund - Institutional - Daily - Div,11.8502
+2008-12-07,101749,ICICI Prudential Liquid Fund - Institutional - Monthly - Div,10.0238
+2008-12-07,101750,ICICI Prudential Liquid Fund Retail Growth,21.0024
+2008-12-07,101751,ICICI Prudential Liquid Institutional Fund - Growth,21.2989
+2008-12-07,101752,ICICI Prudential Liquid Fund Retail Weekly Dividend,11.8462
+2008-12-07,101753,ICICI Prudential Liquid Fund - Institutional - Weekly - Div,11.8574
+2008-12-07,101754,ICICI Prudential Liquid Fund Retail Daily Dividend,11.8514
+2008-12-07,101755,ICICI Prudential Liquid Fund Retail Monthly Dividend,11.8568
+2008-12-07,101847,Tata Money Market Fund-Regular Plan - Growth Option,1590.3676
+2008-12-07,101858,Tata Liquid Retail Investment Plan - Growth,1988.1748
+2008-12-07,101859,Tata Liquid High Investment Plan - Weekly,1147.797
+2008-12-07,101860,Tata Liquid High Investment Plan - Growth,1435.5498
+2008-12-07,101861,Tata Liquid Fund-Regular Plan  - Weekly Dividend,1151.8403
+2008-12-07,101892,Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option),10.0622
+2008-12-07,101893,Kotak Money Market Fund - (Growth),14.196
+2008-12-07,101894,Kotak Money Market Fund - (Weekly Reinvestment of Income Distribution cum capital withdrawal option),10.0345
+2008-12-07,101958,DBS Chola Liquid Fund - Institutional Plus Weekly Dividend,11.9648
+2008-12-07,101970,Aditya Birla Sun Life Money Manager Fund - RETAIL - WEEKLY IDCW,10.3786
+2008-12-07,101971,Aditya Birla Sun Life Money Manager Fund - Retail Growth,14.1415
+2008-12-07,101972,Aditya Birla Sun Life Money Manager Fund - Retail - Daily IDCW,10.0015
+2008-12-07,101973,Aditya Birla Sun Life Money Manager Fund - Daily IDCW,10.0
+2008-12-07,101974,Aditya Birla Sun Life Money Manager Fund - WEEKLY IDCW,10.0116
+2008-12-07,101975,Aditya Birla Sun Life Floating Rate Fund-Short Term Plan-Institutional Fortnightly Dividend,10.0
+2008-12-07,101976,Aditya Birla Sun Life Money Manager Fund - Growth,11.3817
+2008-12-07,101982,Tata Liquid Retail Investment PLan - Daily,1116.8143
+2008-12-07,101983,Tata Liquid Retail Investment Plan - Fortnightly,1147.3039
+2008-12-07,101984,Tata Liquid High Investment Plan - Daily,1114.3379
+2008-12-07,101985,Tata Liquid High Investment Plan - Monthly,1021.6684
+2008-12-07,101986,Tata Money Market Fund- Regular Plan - Daily Reinvestment of IDCW Option,1114.52
+2008-12-07,101987,Tata Liquid Fund Reglar Plan - Monthly Dividend,1151.5647
+2008-12-07,101993,HDFC Money Market Fund - Growth Option,17.9661
+2008-12-07,101994,HDFC Money Market Fund - Daily IDCW Option,10.6364
+2008-12-07,101995,HDFC Money Market Fund - Weekly IDCW Option,10.6298
+2008-12-07,101996,HDFC Overnight Fund - Growth Option,14.5999
+2008-12-07,101997,HDFC Overnight Fund - IDCW Option (Daily),10.4266
+2008-12-07,102007,UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option,1044.5982
+2008-12-07,102008,UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option,1053.6579
+2008-12-07,102009,UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth,1399.4485
+2008-12-07,102010,UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment),1019.4457
+2008-12-07,102011,UTI Liquid Fund - Regular Plan - Monthly IDCW,1026.5761
+2008-12-07,102012,UTI-  Liquid Cash Plan - Regular Plan - Growth Option,1413.1383
+2008-12-07,102013,UTI Liquid Fund - Regular Plan - Weekly IDCW,1022.9033
+2008-12-07,102152,Tata Money Market Fund Regular (Bonus / Dividend),10.1617
+2008-12-07,102153,Tata Money Market Fund Regular (Growth),13.8365
+2008-12-07,102441,Franklin India Liquid Fund - Institution-Growth,1345.5397
+2008-12-07,102442,Franklin India Liquid Fund - Institutional Plan - Weekly - IDCW,1043.4047
+2008-12-07,102443,Franklin India Liquid Fund - Institutional Plan - Daily - IDCW,1000.673
+2008-12-07,102672,Tata Liquid Fund -Regular Plan - Growth Option,13.5289
+2008-12-07,102673,Nippon India Floater Fund - Growth Plan-Growth Option,13.4653
+2008-12-07,102675,NIPPON INDIA FLOATER FUND - MONTHLY IDCW Option,10.1555
+2008-12-07,102676,NIPPON INDIA FLOATER FUND - DAILY IDCW REINVESTMENT Option,10.0697
+2008-12-07,102677,NIPPON INDIA FLOATER FUND - WEEKLY IDCW Option,10.0864
+2008-12-07,102725,Principal Floating Rate Fund - SMP-Growth,13.4192
+2008-12-07,102726,Principal Floating Rate Fund - SMP-Daily Dividend,10.0007
+2008-12-07,102727,Principal Floating Rate Fund - SMP-Weekly Dividend,10.008
+2008-12-07,102728,Principal Floating Rate Fund - SMP-Monthly Dividend,10.6876
+2008-12-07,102729,Principal Credit Risk Fund - Regular Plan - Growth Option,13.4802
+2008-12-07,102730,Principal Floating Rate Fund - SMP-Insti. Daily Dividend,10.0007
+2008-12-07,102731,Principal Floating Rate Fund - SMP-Insti. Weekly Dividend,10.0081
+2008-12-07,102732,Principal Credit Risk Fund - Regular Plan - Monthly Dividend Option,11.4071
+2008-12-07,102798,ING Treasury Management Fund-Growth Option,13.3041
+2008-12-07,102799,ING Treasury Management Fund-Weekly Dividend Option,10.7916
+2008-12-07,102800,ING Treasury Management Fund-Quarterly Dividend Option,10.5493
+2008-12-07,102801,ING Treasury Management Fund-Half Yearly Dividend Option,10.5023
+2008-12-07,102802,ING Treasury Management Fund-Annual Dividend Option,10.986
+2008-12-07,102803,ING Treasury Management Fund-Bonus Option,13.3041
+2008-12-07,102804,ING Treasury Management Fund-Daily Dividend Option,10.3588
+2008-12-07,102832,HSBC Floating Rate Fund - Short Term - Regular - Growth,13.1579
+2008-12-07,102833,HSBC Floating Rate Fund - Short Term - Regular - Dividend - Daily,10.0
+2008-12-07,102834,HSBC Floating Rate Fund - Short Term - Regular - Dividend - Weekly,10.0197
+2008-12-07,102835,HSBC Floating Rate Fund - Short Term - Inst. - Growth,13.2782
+2008-12-07,102836,HSBC Floating Rate Fund - Short Term - Inst. - Dividend - Daily,10.0623
+2008-12-07,102837,HSBC Floating Rate Fund - Short Term - Inst. - Dividend - Weekly,10.4257
+2008-12-07,102838,HSBC Floating Rate Fund - Short Term - Inst. - Dividend - Monthly,10.1496
+2008-12-07,102839,HSBC Floating Rate Fund - Short Term - Inst. Plus - Growth,11.2689
+2008-12-07,102840,HSBC Floating Rate Fund - Short Term - Inst. Plus - Dividend - Daily,10.0
+2008-12-07,102841,HSBC Floating Rate Fund - Short Term - Inst. Plus - Dividend - Weekly,10.0363
+2008-12-07,102913,CANARA ROBECO SAVINGS FUND - REGULAR PLAN - GROWTH OPTION,13.2245
+2008-12-07,102914,CANARA ROBECO SAVINGS FUND - REGULAR PLAN - IDCW (Payout/Reinvestment),12.7163
+2008-12-07,102915,CANARA ROBECO SAVINGS FUND - REGULAR PLAN - WEEKLY IDCW (Payout/Reinvestment),10.2699
+2008-12-07,103048,Nippon India Money Market Fund-Growth Plan-Growth Option,12.9345
+2008-12-07,103050,NIPPON INDIA MONEY MARKET FUND - DAILY IDCW Option,10.0031
+2008-12-07,103051,NIPPON INDIA MONEY MARKET FUND - WEEKLY IDCW Option,10.0068
+2008-12-07,103052,NIPPON INDIA MONEY MARKET FUND - MONTHLY IDCW Option,12.8827
+2008-12-07,103134,DBS Chola Short Term Floating Rate Fund-Dividend-Daily,10.1968
+2008-12-07,103135,DBS Chola Short Term Floating Rate Fund-Dividend-Weekly,10.419
+2008-12-07,103136,DBS Chola Short Term Floating Rate Fund-Dividend-Monthly,10.4424
+2008-12-07,103137,DBS Chola Short Term Floating Rate Fund-Cumulative,12.7747
+2008-12-07,103140,SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),10.3014
+2008-12-07,103191,Aditya Birla Sun Life Low Duration Fund -INSTITUTIONAL - DAILY IDCW,10.003
+2008-12-07,103192,Aditya Birla Sun Life Low Duration Fund - Growth Plan,21.0431
+2008-12-07,103193,Aditya Birla Sun Life Low Duration Fund -REGULAR - WEEKLY IDCW,10.0113
+2008-12-07,103194,Aditya Birla Sun Life Low Duration Fund -Institutional - weekly  IDCW,10.0115
+2008-12-07,103195,Aditya Birla Sun Life Low Duration Fund - Institutional Plan - Growth,14.3595
+2008-12-07,103340,ICICI Prudential Liquid Fund - Growth,12.6885
+2008-12-07,103342,ICICI Prudential Liquid Fund - Weekly IDCW,10.0173
+2008-12-07,103343,ICICI Prudential Liquid Fund - Daily IDCW,10.0005
+2008-12-07,103344,ICICI Prudential Liquid Fund - Institutional Option - I,12.4212
+2008-12-07,103347,DSP Liquidity Fund - Regular Plan - Growth,1242.8221
+2008-12-07,103348,DSP Liquidity Fund - Regular Plan - IDCW - Weekly,1000.9362
+2008-12-07,103349,DSP Liquidity Fund- Regular Plan - IDCW - Daily,1000.2
+2008-12-07,103418,Fidelity MultiManager Cash Fund-Growth Option,12.37
+2008-12-07,103419,Fidelity MultiManager Cash Fund-Dividend Re-investment Option,10.0131
+2008-12-07,103519,Tata Liquidity Management Fund - Regular Plan  -Weekly Dividend,1006.1532
+2008-12-07,103631,Tata Liquidity Management Fund - Regular Plan - Daily Dividend,1002.6089
+2008-12-07,103632,Tata Liquidity Management Fund - Regular Plan - Growth,1211.8258
+2008-12-07,103633,ICICI Prudential Money Market Fund Option - Growth,12.2475
+2008-12-07,103634,ICICI Prudential Money Market Fund Option - Daily IDCW,10.001
+2008-12-07,103635,ICICI Prudential Money Market Fund Option - Weekly IDCW,10.0123
+2008-12-07,103636,ICICI Prudential Money Market Fund Option -Fortnightly IDCW,10.0249
+2008-12-07,103637,ICICI Prudential Money Market Fund Option - Monthly IDCW,10.0153
+2008-12-07,103734,Quantum Liquid Fund - Direct Plan Growth Option,12.2837
+2008-12-07,103735,Quantum Liquid Fund - Direct Plan Monthly IDCW,10.0304
+2008-12-07,103736,Quantum Liquid Fund - Direct Plan Daily IDCW,10.0
+2008-12-07,103884,SBI Ultra Short Duration Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),10.7509
+2008-12-07,104240,Taurus Liquid Fund-Dividend,10.0114
+2008-12-07,104241,Taurus Liquid Fund-Growth,11.5522
+2008-12-07,104308,ICICI Prudential Liquid Fund - Half Yearly IDCW,10.1716
+2008-12-07,104329,DBS Chola Liquid Fund-Cum -Super Institutional,11.8573
+2008-12-07,104483,Religare Invesco Liquid Fund - Institutional - Daily Dividend,10.0033
+2008-12-07,104484,Invesco India Liquid Fund - Daily IDCW (Reinvestment),10.0033
+2008-12-07,104486,Invesco India Liquid Fund - Growth,11.806
+2008-12-07,104488,Invesco India Liquid Fund - Regular - Growth,11.7268
+2008-12-07,104489,Invesco India Liquid Fund - Regular - Weekly IDCW (Reinvestment),10.0172
+2008-12-07,104490,Religare Invesco Liquid Fund - Institutional - Weekly Dividend,10.0175
+2008-12-07,104491,Religare Invesco Liquid Fund - Institutional - Growth,11.7898
+2008-12-07,104493,Fidelity Cash Fund - Retail Plan - Growth option,11.6619
+2008-12-07,104494,Fidelity Cash Fund - Super Institutional Plan - Daily Dividend Option,10.0052
+2008-12-07,104495,Fidelity Cash Fund - Retail Plan - Daily Dividend option,10.0025
+2008-12-07,104496,Fidelity Cash Fund - Super Institutional Plan - Growth Option,11.7809
+2008-12-07,104497,Fidelity Cash Fund - Institutional Plan - Growth Option,11.7553
+2008-12-07,104498,Fidelity Cash Fund - Institutional Plan - Daily Dividend Option,10.0025
+2008-12-07,104546,Fidelity Cash Fund - Institutional Plan - Weekly Dividend Option,10.0208
+2008-12-07,104547,Fidelity Cash Fund - Retail Plan - Monthly Dividend Option,10.0255
+2008-12-07,104548,Fidelity Cash Fund - Institutional Plan - Monthly Dividend Option,10.0271
+2008-12-07,104549,Fidelity Cash Fund - Retail Plan - Weekly Dividend Option,10.013
+2008-12-07,104550,Fidelity Cash Fund - Super Institutional Plan - Weekly Dividend Option,10.0
+2008-12-07,104551,Fidelity Cash Fund - Super Institutional Plan - Monthly Dividend Option,10.0
+2008-12-07,104554,Templeton India Money Market Account - Dividend Plan,1.0
+2008-12-07,104559,CANARA ROBECO SAVINGS FUND - REGULAR PLAN - DAILY IDCW (Reinvestment),10.26
+2008-12-07,105080,SBI Ultra Short Duration Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),16.7503
+2008-12-07,105274,SBI Liquid Fund - Institutional - Growth,13.7478
+2008-12-07,105275,SBI Liquid Fund - Institutional Daily Income Distribution cum Capital Withdrawal Option (IDCW),10.0325
+2008-12-07,105278,SBI Liquid Fund - Institutional Weekly Income Distribution cum Capital Withdrawal Option (IDCW),10.5994
+2008-12-07,105279,SBI Liquid Fund - Institutional Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW),10.1486
+2008-12-07,105280,SBI Liquid Fund - REGULAR PLAN -Growth,13.5917
+2008-12-07,105281,SBI Liquid Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),10.0325
+2008-12-07,105672,DWS INSTA CASH PLUS FUND - Regular Plan BONUS OPTION,10.7164
+2008-12-07,106467,DWS Insta Cash Plus Fund-Daily Dividend,10.02
+2008-12-07,106471,DWS Insta Cash Plus Fund -Growth,11.1475
+2008-12-07,106501,Religare Invesco Overnight Fund - Growth,10.8576
+2008-12-07,106502,Religare Invesco Overnight Fund - Daily Dividend Reinvestment,10.0
+2008-12-07,106503,PineBridge India Liquid Fund-Retail Plan-DailyDividend Option,1001.0
+2008-12-07,106504,PineBridge India Liquid Fund-Retail Plan-Monthly Dividend Option,1003.9522
+2008-12-07,106506,PineBridge India Liquid Fund-Institutional Plan-Daily Dividend Option,1001.0
+2008-12-07,106507,PineBridge India Liquid Fund-Institutional Plan-Weekly Dividend Option,1002.4764
+2008-12-07,106508,PineBridge India Liquid Fund- Standard Plan-Growth Option,1110.1252
+2008-12-07,106509,PineBridge India Liquid Fund- Standard Plan-Weekly Dividend Option,1002.4926
+2008-12-07,106510,PineBridge India Liquid Fund-Retail Plan-Weekly Dividend Option,1002.427
+2008-12-07,106511,PineBridge India Liquid Fund-Institutional Plan-Growth Option,1108.7771
+2008-12-07,106513,PineBridge India Liquid Fund- Standard Plan-Daily Dividend Option,1001.0
+2008-12-07,106514,PineBridge India Liquid Fund-Retail Plan-Growth Option,1104.5444
+2008-12-07,106516,PineBridge India Liquid Fund-Retail Plan-Quarterly Dividend Option,1004.3036
+2008-12-07,106561,JPMorgan India Liquid Fund - Retail Plan - Growth Option,10.2406
+2008-12-07,106562,JPMorgan India Liquid Fund - Retail Plan - Daily Dividend Option,10.015
+2008-12-07,106842,Kotak Money Market Fund - (Daily Reinvestment of Income Distribution cum capital withdrawal option),10.0428
+2008-12-07,106859,DSP BlackRock Cash Manager Fund - Regular Plan - Growth,1101.9255
+2008-12-07,106860,DSP BlackRock Cash Manager Fund - Regular Plan - Weekly Dividend Reinvest,1000.9748
+2008-12-07,106861,DSP BlackRock Cash Manager Fund - Institutional Plan - Daily Dividend Reinvest,1000.1
+2008-12-07,106862,DSP BlackRock Cash Manager Fund - Institutional Plan - Weekly Dividend Reinvest,1000.9788
+2008-12-07,106863,DSP BlackRock Cash Manager Fund - Institutional Plan - Growth,1102.6279
+2008-12-07,106903,ING High Yield Liquidity Fund- Regular Growth Option,10.0
+2008-12-07,106904,ING High Yield Liquidity Fund - Regular Daily Dividend Option,10.0
+2008-12-07,106905,ING High Yield Liquidity Fund- Regular Weekly Dividend Option,10.0
+2008-12-07,106906,ING High Yield Liquidity Fund- Regular Quarterly Dividend Option,10.0
+2008-12-07,106907,ING High Yield Liquidity Fund- Regular Monthly Dividend Option,10.0
+2008-12-07,106908,ING High Yield Liquidity Fund- Regular Bonus Option,10.0
+2008-12-07,106909,ING High Yield Liquidity Fund- Institutional Daily Dividend Option,10.0
+2008-12-07,106910,ING High Yield Liquidity Fund- Institutional Weekly Dividend Option,10.0
+2008-12-07,106911,ING High Yield Liquidity Fund- Institutional Monthly Dividend Option,10.0
+2008-12-07,106912,ING High Yield Liquidity Fund- Institutional Bonus Option,10.0
+2008-12-07,106913,ING High Yield Liquidity Fund - Institutional Growth Option,10.0
+2008-12-07,106914,ING High Yield Liquidity Fund - Institutional Quarterly Dividend Option,10.0
+2008-12-07,107325,Principal Money Manager Fund-Regular Plan-Daily Dividend Option,10.0247
+2008-12-07,107326,Principal Money Manager Fund-Regular Plan-Weekly Dividend Option,10.1065
+2008-12-07,107327,Principal Money Manager Fund-Regular Plan-Monthly Dividend Option,10.5379
+2008-12-07,107328,Principal Ultra Short Term Fund-Growth Option,10.4975
+2008-12-07,107329,Principal Ultra Short Term Fund-Daily Income Distribution CUM Capital Withdrawal Option,10.0247
+2008-12-07,107330,Principal Ultra Short Term Fund-Monthly Income Distribution CUM Capital Withdrawal Option,10.4006
+2008-12-07,107331,Principal Money Manager Fund-Regular Plan-Growth Option,10.6617
+2008-12-07,107332,Principal Ultra Short Term Fund-Weekly Income Distribution CUM Capital Withdrawal Option,10.1161
+2008-12-07,107646,Mirae Asset Liquid Fund- Regular Plan - Daily Dividend,922.7373
+2008-12-07,107647,Mirae Asset Liquid Fund- Regular Plan - Weekly Dividend,924.053
+2008-12-07,107648,Mirae Asset Liquid Fund- Regular Plan - Growth,969.2155
+2008-12-07,107649,Mirae Asset Liquid Fund- Regular Plan - Monthly Dividend,926.1264
+2008-12-07,107657,Mirae Asset Liquid Fund- Institutional Plan - Daily Dividend,921.3402
+2008-12-07,107660,Mirae Asset Liquid Fund- Regular Plan - Bonus,954.5193
+2008-12-07,108607,BANDHAN Liquid Fund - Plan A-Dividend (Weekly),10.1963
+2008-12-07,108629,BANDHAN Liquid Fund - Plan B - Dividend-Weekly,10.0057
+2008-12-07,108632,BANDHAN Low Duration Fund - Regular Plan - Growth,11.9632
+2008-12-07,108633,BANDHAN Low Duration Fund - Regular Plan - Daily IDCW,10.0125
+2008-12-07,108634,BANDHAN Low Duration Fund - Regular Plan - Weekly IDCW,10.0044
+2008-12-07,108635,BANDHAN Low Duration Fund - Regular Plan - Monthly IDCW,10.013
+2008-12-07,108681,BANDHAN Liquid Fund - Plan B-Daily-Dividend(Institutional Plan),10.5816
+2008-12-07,108690,BANDHAN LIQUID Fund - Regular Plan - Growth,10.4719
+2008-12-07,108692,BANDHAN LIQUID Fund - Regular Plan - Daily IDCW,10.0025
+2008-12-07,108693,BANDHAN LIQUID Fund - Regular Plan - Monthly IDCW,10.0246
+2008-12-07,108778,BANDHAN Liquid Fund-Plan A-Growth,15.4556
+2008-12-07,108779,BANDHAN Liquid Fund-Plan A-Dividend (Daily),10.5819
+2008-12-07,108781,BANDHAN Liquid Fund - Plan B (G) (Institutional Plan),15.5367
+2008-12-07,108793,IDFC Liquid Fund - Growth,1218.6363
+2008-12-07,108794,IDFC Liquid Fund - Daily Dividend,1000.21
+2008-12-07,108795,IDFC Liquid Fund-Weekly Dividend,1000.5371
+2008-12-07,108796,IDFC Liquid Fund - Monthly Dividend,1001.729
+2008-12-07,109177,JPMorgan India Liquid Fund - Retail Plan - Weekly Dividend Option,10.0272
+2008-12-07,109179,JPMorgan India Liquid Fund - Retail Plan - Monthly Dividend Option,10.0454
+2008-12-07,109254,BANK OF INDIA Liquid Fund- Regular Plan- Growth,1037.6007
+2008-12-07,109255,BANK OF INDIA Liquid Fund- Regular Plan- Weekly IDCW,1001.2467
+2008-12-07,109256,BANK OF INDIA Liquid Fund- Institutional Plan-Growth,1039.9422
+2008-12-07,109257,BANK OF INDIA Liquid Fund- Institutional Plan- Daily Dividend,1000.0005
+2008-12-07,109258,BANK OF INDIA Liquid Fund- Super Institutional Plan-Growth,1040.6971
+2008-12-07,109263,BANK OF INDIA Liquid Fund- Super Institutional Plan-Daily Dividend,1000.0005
+2008-12-07,109346,Canara Robeco Liquid Fund-Retail-Fortnightly Div Reinvest,10.0671
+2008-12-07,109347,Canara Robeco Liquid Fund-Retail-Monthly Div Reinvest,10.0668
+2008-12-07,109349,CANARA ROBECO LIQUID FUND - REGULAR PLAN - DAILY IDCW (Reinvestment),10.041
+2008-12-07,109350,CANARA ROBECO LIQUID FUND - REGULAR PLAN - WEEKLY IDCW (Payout/Reinvestment),10.0509
+2008-12-07,109353,CANARA ROBECO LIQUID FUND - REGULAR PLAN - GROWTH OPTION,10.4518
+2008-12-07,109356,Canara Robeco Liquid Fund-Retail-Weekly Div Reinvest,10.0506
+2008-12-07,109934,Edelweiss Liquid Fund - Retail Plan - Daily Dividend Option,10.0
+2008-12-07,109935,Edelweiss Liquid Fund - Daily Dividend Option,10.0
+2008-12-07,109937,Edelweiss Liquid Fund - Retail Plan - Weekly Dividend Option,10.0132
+2008-12-07,109939,Edelweiss Liquid Fund - Retail Plan - Monthly Dividend Option,10.025
+2008-12-07,109940,Edelweiss Liquid Fund - Retail Plan - Growth Option,10.273
+2008-12-07,109941,Edelweiss Liquid Fund - Institutional Plan - Daily Dividend Option,10.0
+2008-12-07,109946,Edelweiss Liquid Fund - Growth Option,10.273
+2008-12-07,110149,JPMorgan India Liquid Fund - Super Institutional Plan - Daily Dividend Option,10.0079
+2008-12-07,110150,JPMorgan India Liquid Fund - Super Institutional Plan - Growth Option,11.1049
+2008-12-07,110151,JPMorgan India Liquid Fund - Super Institutional Plan - Monthly Dividend Option,10.0363
+2008-12-07,110153,JPMorgan India Liquid Fund - Super Institutional Plan - Weekly Dividend Option,10.0174
+2008-12-07,110913,Fortis Overnight Fund-Regular Plan-Monthly Dividend Payout Option,10.0508
+2008-12-07,110914,Fortis Overnight Fund-Institutional Plus Plan-Daily Dividend Option,10.003
+2008-12-07,110915,Fortis Overnight Fund-Institutional Plan-Growth Option,13.037
+2008-12-07,110918,Fortis Overnight Fund-Regular Plan-Weekly Dividend Option,10.0078
+2008-12-07,110919,Fortis Overnight Fund-Institutional Plan-Monthly Dividend Payout Option,10.0332
+2008-12-07,110920,Fortis Overnight Fund-Institutional Plus Plan-Growth Option,10.6322
+2008-12-07,110921,Fortis Overnight Fund-Regular Plan-Growth Option,12.8361
+2008-12-07,110922,Fortis Overnight Fund-Institutional Plan-Daily Dividend Option,10.003

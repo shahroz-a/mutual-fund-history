@@ -5,7 +5,6 @@ from __future__ import annotations
 
 import argparse
 import csv
-import gzip
 import hashlib
 import json
 import re
@@ -46,8 +45,6 @@ def sha256_file(path: Path) -> str:
 
 
 def open_text(path: Path):
-    if path.suffix == ".gz":
-        return gzip.open(path, "rt", newline="", encoding="utf-8")
     return path.open("rt", newline="", encoding="utf-8")
 
 
@@ -323,14 +320,6 @@ def validate_file(path: Path, as_of: date, max_examples: int) -> dict[str, Any]:
                 if row_has_error:
                     invalid_rows += 1
 
-    except (gzip.BadGzipFile, EOFError) as exc:
-        add_issue(
-            issues,
-            "invalid_gzip",
-            path=path,
-            message=f"File is not a readable gzip archive: {exc}",
-            max_examples=max_examples,
-        )
     except UnicodeDecodeError as exc:
         add_issue(
             issues,
@@ -398,37 +387,19 @@ def build_report(paths: list[Path], as_of: date, max_examples: int) -> dict[str,
     total_rows = sum(int(file_report["rows"]) for file_report in file_reports)
     invalid_rows = sum(int(file_report["invalid_rows"]) for file_report in file_reports)
 
-    historical = next(
-        (item for item in file_reports if Path(item["path"]).name == "historical.csv.gz"),
-        None,
-    )
-    compressed_archive_chunks = [
-        item
-        for item in file_reports
-        if "Year" in Path(item["path"]).parts and Path(item["path"]).name.endswith(".csv.gz")
-    ]
-    visible_archive_chunks = [
+    archive_chunks = [
         item
         for item in file_reports
         if "Year" in Path(item["path"]).parts and Path(item["path"]).name.endswith(".csv")
     ]
-    archive_chunks = compressed_archive_chunks or visible_archive_chunks
     latest = next(
         (item for item in file_reports if Path(item["path"]).name == "latest.csv"),
         None,
-    ) or next(
-        (item for item in file_reports if Path(item["path"]).name == "latest.csv.gz"),
-        None,
     )
-    archive_reports = [historical] if historical else archive_chunks
-    archive_reports = [item for item in archive_reports if item]
+    archive_reports = archive_chunks
     date_min = min((item["date_min"] for item in archive_reports if item["date_min"]), default=None)
     date_max = max((item["date_max"] for item in archive_reports if item["date_max"]), default=None)
-    historical_rows = (
-        int(historical["rows"])
-        if historical
-        else sum(int(item["rows"]) for item in archive_chunks)
-    )
+    historical_rows = sum(int(item["rows"]) for item in archive_chunks)
     unique_scheme_codes = (
         int(latest["unique_scheme_codes"])
         if latest
@@ -572,8 +543,8 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument(
         "--input",
         nargs="+",
-        default=["data/historical.csv.gz", "data/latest.csv"],
-        help="CSV or CSV.GZ files to validate.",
+        default=["data/latest.csv"],
+        help="CSV files to validate.",
     )
     parser.add_argument(
         "--report-json",

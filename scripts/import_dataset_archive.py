@@ -1,16 +1,14 @@
 #!/usr/bin/env python3
-"""Import generated public dataset files from a private archive package.
+"""Import generated public CSV dataset files from a private archive package.
 
-The archive is expected to contain latest.csv or latest.csv.gz and a Year/
-directory, either at its root or under a data/ directory. This script
-intentionally does not know or expose any collection source; it only imports
-already-generated dataset files.
+The archive is expected to contain latest.csv and a Year/ directory, either at
+its root or under a data/ directory. This script intentionally does not know or
+expose any collection source; it only imports already-generated dataset files.
 """
 
 from __future__ import annotations
 
 import argparse
-import gzip
 import shutil
 import sys
 import tarfile
@@ -19,8 +17,8 @@ import zipfile
 from pathlib import Path
 
 
+REQUIRED_LATEST = "latest.csv"
 REQUIRED_TREE = "Year"
-LATEST_NAMES = ("latest.csv.gz", "latest.csv")
 
 
 def is_relative_to(path: Path, parent: Path) -> bool:
@@ -63,7 +61,7 @@ def extract_archive(archive: Path, target: Path) -> None:
     if tarfile.is_tarfile(archive):
         safe_extract_tar(archive, target)
         return
-    raise RuntimeError("Archive must be a tar/tar.gz/tgz or zip file.")
+    raise RuntimeError("Archive must be a tar, tgz, or zip file.")
 
 
 def candidate_roots(root: Path) -> list[Path]:
@@ -73,15 +71,11 @@ def candidate_roots(root: Path) -> list[Path]:
     return candidates
 
 
-def has_latest(candidate: Path) -> bool:
-    return any((candidate / name).is_file() for name in LATEST_NAMES)
-
-
 def find_payload(root: Path) -> Path:
     for candidate in candidate_roots(root):
-        if has_latest(candidate) and (candidate / REQUIRED_TREE).is_dir():
+        if (candidate / REQUIRED_LATEST).is_file() and (candidate / REQUIRED_TREE).is_dir():
             return candidate
-    raise RuntimeError("Archive must contain latest.csv or latest.csv.gz and Year/.")
+    raise RuntimeError("Archive must contain latest.csv and Year/.")
 
 
 def is_valid_daily_path(path: Path) -> bool:
@@ -93,80 +87,29 @@ def is_valid_daily_path(path: Path) -> bool:
         return False
     if not (month.isdigit() and len(month) == 2 and 1 <= int(month) <= 12):
         return False
-    if filename.endswith(".csv.gz"):
-        day = filename.removesuffix(".csv.gz")
-    elif filename.endswith(".csv"):
-        day = filename.removesuffix(".csv")
-    else:
+    if not filename.endswith(".csv"):
         return False
+    day = filename.removesuffix(".csv")
     return day.isdigit() and len(day) == 2 and 1 <= int(day) <= 31
-
-
-def gzip_csv(source: Path, target: Path) -> None:
-    target.parent.mkdir(parents=True, exist_ok=True)
-    raw = target.open("wb")
-    gz = gzip.GzipFile(filename="", mode="wb", fileobj=raw, compresslevel=6, mtime=0)
-    try:
-        with source.open("rb") as src:
-            shutil.copyfileobj(src, gz, length=1024 * 1024)
-    finally:
-        gz.close()
-        raw.close()
-
-
-def gunzip_csv(source: Path, target: Path) -> None:
-    target.parent.mkdir(parents=True, exist_ok=True)
-    with gzip.open(source, "rb") as src, target.open("wb") as dst:
-        shutil.copyfileobj(src, dst, length=1024 * 1024)
-
-
-def import_latest(payload: Path, data_dir: Path) -> None:
-    latest_gz = payload / "latest.csv.gz"
-    latest_csv = payload / "latest.csv"
-    if latest_gz.is_file():
-        shutil.copy2(latest_gz, data_dir / "latest.csv.gz")
-        gunzip_csv(latest_gz, data_dir / "latest.csv")
-        return
-    if latest_csv.is_file():
-        shutil.copy2(latest_csv, data_dir / "latest.csv")
-        gzip_csv(latest_csv, data_dir / "latest.csv.gz")
-        return
-    raise RuntimeError("Archive does not contain latest.csv or latest.csv.gz.")
 
 
 def import_payload(payload: Path, data_dir: Path) -> None:
     data_dir.mkdir(parents=True, exist_ok=True)
-    import_latest(payload, data_dir)
+    shutil.copy2(payload / REQUIRED_LATEST, data_dir / REQUIRED_LATEST)
 
     source_tree = payload / REQUIRED_TREE
     target_tree = data_dir / REQUIRED_TREE
     copied = 0
-    seen_daily: set[Path] = set()
-    for source_file in sorted(source_tree.rglob("*.csv*")):
+    for source_file in sorted(source_tree.rglob("*.csv")):
         relative = source_file.relative_to(source_tree)
         if any(part.startswith(".") for part in relative.parts):
             continue
         if not is_valid_daily_path(relative):
             raise RuntimeError(f"Unexpected dataset file path: {REQUIRED_TREE}/{relative}")
-
-        if source_file.name.endswith(".csv.gz"):
-            plain_relative = relative.with_suffix("")
-            if plain_relative in seen_daily:
-                continue
-            target_file = target_tree / relative
-            target_file.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(source_file, target_file)
-            copied += 1
-            seen_daily.add(plain_relative)
-        elif source_file.name.endswith(".csv"):
-            if relative in seen_daily:
-                continue
-            target_file = target_tree / relative
-            target_file.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(source_file, target_file)
-            gzip_csv(source_file, target_file.with_suffix(target_file.suffix + ".gz"))
-            copied += 1
-            seen_daily.add(relative)
+        target_file = target_tree / relative
+        target_file.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(source_file, target_file)
+        copied += 1
 
     if copied == 0:
         raise RuntimeError("Archive Year/ directory does not contain daily CSV files.")

@@ -4,7 +4,7 @@ These examples show how to load, filter, and analyze the mutual fund NAV archive
 
 ## Python
 
-Load a browser-visible daily CSV with only the Python standard library:
+Load one daily CSV with only the Python standard library:
 
 ```python
 import csv
@@ -17,18 +17,17 @@ with open("data/Year/2026/06/21.csv", newline="", encoding="utf-8") as f:
 print(rows[:5])
 ```
 
-Load the complete compressed daily archive:
+Load the complete archive:
 
 ```python
 import csv
-import gzip
 from glob import glob
 
 scheme_code = "120503"
 rows = []
 
-for path in glob("data/Year/*/*/*.csv.gz"):
-    with gzip.open(path, "rt", newline="", encoding="utf-8") as f:
+for path in glob("data/Year/*/*/*.csv"):
+    with open(path, newline="", encoding="utf-8") as f:
         rows.extend(
             row
             for row in csv.DictReader(f)
@@ -53,7 +52,7 @@ print(f"{total_return:.2%}")
 
 ## Pandas
 
-Load the browser-visible latest snapshot:
+Load the latest snapshot:
 
 ```python
 import pandas as pd
@@ -65,7 +64,7 @@ latest = pd.read_csv(
 )
 ```
 
-Load the complete compressed archive:
+Load the complete archive:
 
 ```python
 from glob import glob
@@ -77,7 +76,7 @@ df = pd.concat(
         dtype={"scheme_code": "string", "scheme_name": "string"},
         parse_dates=["date"],
     )
-    for path in glob("data/Year/*/*/*.csv.gz")
+    for path in glob("data/Year/*/*/*.csv")
 )
 ```
 
@@ -108,7 +107,7 @@ latest_by_scheme = (
 
 ## DuckDB
 
-Query a browser-visible daily CSV:
+Query one daily CSV:
 
 ```sql
 SELECT date, scheme_code, scheme_name, nav
@@ -117,15 +116,11 @@ WHERE scheme_code = '120503'
 ORDER BY date;
 ```
 
-Query the complete compressed archive directly:
+Query the complete archive directly:
 
 ```sql
 SELECT date, scheme_code, scheme_name, nav
-FROM read_csv(
-  'data/Year/*/*/*.csv.gz',
-  compression = 'gzip',
-  header = true
-)
+FROM read_csv('data/Year/*/*/*.csv', header=true)
 WHERE scheme_code = '120503'
 ORDER BY date;
 ```
@@ -139,7 +134,7 @@ WITH nav_history AS (
     scheme_code,
     scheme_name,
     CAST(nav AS DOUBLE) AS nav
-  FROM read_csv('data/Year/*/*/*.csv.gz', compression='gzip', header=true)
+  FROM read_csv('data/Year/*/*/*.csv', header=true)
   WHERE scheme_code = '120503'
 ),
 ranked AS (
@@ -168,50 +163,17 @@ SELECT
   scheme_code,
   scheme_name,
   CAST(nav AS DOUBLE) AS nav
-FROM read_csv('data/Year/*/*/*.csv.gz', compression='gzip', header=true);
+FROM read_csv('data/Year/*/*/*.csv', header=true);
 
 CREATE INDEX nav_scheme_date ON nav (scheme_code, date);
 ```
 
 ## SQLite
 
-SQLite can load the visible CSV files directly through Python:
+SQLite can load the CSV files through Python:
 
 ```python
 import csv
-import sqlite3
-
-con = sqlite3.connect("mutual_fund_nav.db")
-
-con.execute("""
-CREATE TABLE IF NOT EXISTS nav (
-  date TEXT NOT NULL,
-  scheme_code TEXT NOT NULL,
-  scheme_name TEXT NOT NULL,
-  nav REAL NOT NULL,
-  PRIMARY KEY (date, scheme_code)
-)
-""")
-
-with open("data/Year/2026/06/21.csv", newline="", encoding="utf-8") as f:
-    con.executemany(
-        """
-        INSERT OR REPLACE INTO nav
-        (date, scheme_code, scheme_name, nav)
-        VALUES (:date, :scheme_code, :scheme_name, :nav)
-        """,
-        csv.DictReader(f),
-    )
-
-con.execute("CREATE INDEX IF NOT EXISTS nav_scheme_date ON nav (scheme_code, date)")
-con.commit()
-```
-
-SQLite cannot read gzip files directly, but the Python standard library can load the complete compressed archive into SQLite:
-
-```python
-import csv
-import gzip
 import sqlite3
 from glob import glob
 
@@ -227,8 +189,8 @@ CREATE TABLE IF NOT EXISTS nav (
 )
 """)
 
-for path in glob("data/Year/*/*/*.csv.gz"):
-    with gzip.open(path, "rt", newline="", encoding="utf-8") as f:
+for path in glob("data/Year/*/*/*.csv"):
+    with open(path, newline="", encoding="utf-8") as f:
         con.executemany(
             """
             INSERT OR REPLACE INTO nav

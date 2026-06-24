@@ -30,15 +30,8 @@ jobs:
 
       - name: Validate dataset
         run: |
-          mapfile -t ARCHIVE_FILES < <(find data/Year -name '*.csv.gz' | sort)
-          python scripts/validation.py \
-            --input data/latest.csv "${ARCHIVE_FILES[@]}" \
-            --report-json releases/validation-report.json \
-            --report-md releases/validation-report.md \
-            --update-readme README.md
-
-      - name: Build monolithic release archive
-        run: python scripts/build_release_archive.py
+          mapfile -t ARCHIVE_FILES < <(find data/Year -name '*.csv' | sort)
+          python scripts/validation.py             --input data/latest.csv "${ARCHIVE_FILES[@]}"             --report-json releases/validation-report.json             --report-md releases/validation-report.md             --update-readme README.md
 
       - name: Generate checksums and release notes
         id: metadata
@@ -58,13 +51,12 @@ jobs:
             echo "Dataset release for ${RELEASE_DATE}."
             echo ""
             echo "Assets:"
-            echo "- historical.csv.gz"
-            echo "- latest.csv.gz"
+            echo "- latest.csv"
             echo "- checksums.sha256"
             echo "- validation-report.md"
             echo "- validation-report.json"
             echo ""
-            echo "This release packages generated dataset files already present in the repository."
+            echo "This release packages generated CSV dataset metadata already present in the repository."
           } > releases/release-notes.md
           echo "tag=${TAG}" >> "$GITHUB_OUTPUT"
           echo "title=${TITLE}" >> "$GITHUB_OUTPUT"
@@ -85,11 +77,4 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create "${{ steps.metadata.outputs.tag }}" \
-            data/historical.csv.gz \
-            data/latest.csv.gz \
-            releases/checksums.sha256 \
-            releases/validation-report.md \
-            releases/validation-report.json \
-            --title "${{ steps.metadata.outputs.title }}" \
-            --notes-file releases/release-notes.md
+          gh release create "${{ steps.metadata.outputs.tag }}"             data/latest.csv             releases/checksums.sha256             releases/validation-report.md             releases/validation-report.json             --title "${{ steps.metadata.outputs.title }}"             --notes-file releases/release-notes.md

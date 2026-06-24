@@ -6,11 +6,8 @@ This directory contains the public mutual fund NAV archive files.
 
 | File | Description |
 | --- | --- |
-| `latest.csv` | Browser-visible latest available NAV records. |
-| `Year/YYYY/MM/DD.csv` | Browser-visible daily NAV files for the latest archive year and future updates. |
-| `Year/YYYY/MM/DD.csv.gz` | Compressed date-level historical daily NAV records for the complete archive. |
-| `historical.csv.gz` | Complete monolithic historical daily NAV records. Too large for normal Git storage; published as a release asset. |
-| `latest.csv.gz` | Compressed latest snapshot generated for GitHub Releases. |
+| `latest.csv` | Latest available NAV records. |
+| `Year/YYYY/MM/DD.csv` | Date-level historical daily NAV records from inception onward. |
 
 All CSV files use this required header:
 
@@ -34,7 +31,7 @@ Do not add:
 Run:
 
 ```bash
-mapfile -t ARCHIVE_FILES < <(find data/Year -name '*.csv.gz' | sort)
+mapfile -t ARCHIVE_FILES < <(find data/Year -name '*.csv' | sort)
 python3 scripts/validation.py --input data/latest.csv "${ARCHIVE_FILES[@]}"
 ```
 
