@@ -29,14 +29,14 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Import generated private dataset archive
+      - name: Import optional generated dataset archive
         env:
           NAV_DATASET_ARCHIVE_URL: ${{ secrets.NAV_DATASET_ARCHIVE_URL }}
           NAV_DATASET_ARCHIVE_TOKEN: ${{ secrets.NAV_DATASET_ARCHIVE_TOKEN }}
         run: |
           set -euo pipefail
           if [ -z "${NAV_DATASET_ARCHIVE_URL}" ]; then
-            echo "No generated private dataset archive configured; validating existing public data."
+            echo "No generated dataset archive configured; continuing with public AMFI update."
             exit 0
           fi
 
@@ -49,10 +49,16 @@ jobs:
 
           python scripts/import_dataset_archive.py "${archive}" --data-dir data
 
+      - name: Fetch public AMFI updates
+        run: python scripts/update_dataset_from_amfi.py --data-dir data --lookback-days 14
+
       - name: Validate dataset and update README
         run: |
           mapfile -t ARCHIVE_FILES < <(find data/Year -name '*.csv' | sort)
           python scripts/validation.py --input data/latest.csv "${ARCHIVE_FILES[@]}" --report-json releases/validation-report.json --report-md releases/validation-report.md --update-readme README.md
+
+      - name: Check dataset freshness
+        run: python scripts/check_dataset_freshness.py --data-dir data --max-age-days 3
 
       - name: Generate checksums and notes
         id: metadata

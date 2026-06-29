@@ -17,7 +17,7 @@ date,scheme_code,scheme_name,nav
 
 ## Publication Model
 
-Generated dataset files are published here. Collection methods, private automation, private endpoints, and operational update systems are intentionally not included in this public repository.
+Generated dataset files are published here. The daily workflow refreshes these files from public AMFI NAV text exports. Private automation, private endpoints, credentials, and operational details are intentionally not included in this public repository.
 
 Do not add:
 

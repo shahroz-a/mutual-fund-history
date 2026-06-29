@@ -4,7 +4,7 @@ Historical daily NAV data for Indian mutual funds. Open-source archive with comp
 
 `mutual-fund-historical-data` is a public dataset repository for historical mutual fund NAV data in India. It is an open-source initiative by [Creget](https://creget.com) for developers, researchers, analysts, and data teams who need downloadable Indian mutual fund NAV history.
 
-This repository focuses only on storing and publishing normalized NAV archive files. Collection methods, update systems, private automation, and operational details are intentionally not exposed in the public repository.
+This repository focuses on storing and publishing normalized NAV archive files. The public daily updater uses AMFI-published NAV text exports; private credentials, endpoints, and operational details are intentionally not included.
 
 ## Overview
 
@@ -35,27 +35,29 @@ The dataset is organized as plain CSV files:
 <!-- DATASET_STATS_START -->
 | Metric | Value |
 | --- | --- |
-| Historical rows | 36,458,251 |
-| Latest rows | 37,360 |
-| Unique scheme codes | 37,360 |
-| Date range | 2006-04-01 to 2026-06-21 |
-| Latest NAV date | 2026-06-21 |
-| Last validation | 2026-06-29T18:04:45+00:00 |
+| Historical rows | 36,501,281 |
+| Latest rows | 37,367 |
+| Unique scheme codes | 37,367 |
+| Date range | 2006-04-01 to 2026-06-29 |
+| Latest NAV date | 2026-06-29 |
+| Last validation | 2026-06-29T18:08:26+00:00 |
 | Validation status | passed |
 <!-- DATASET_STATS_END -->
 
 ## Update Frequency
 
-The repository runs a daily scheduled publish job at 21:00 IST, after Indian market close. Generated dataset files are imported from a private generated-data archive when configured, then validated, checksummed, and published.
+The repository runs a daily scheduled publish job at 21:00 IST, after Indian market close. It imports an optional generated-data archive when configured, fetches public AMFI NAV updates, refreshes recent daily CSV files, rebuilds `latest.csv`, validates freshness, checksums the dataset, and publishes the release metadata.
 
 Every update should:
 
-1. Import generated NAV archive files from private automation when configured.
-2. Validate `data/latest.csv` and `data/Year/YYYY/MM/DD.csv`.
-3. Generate validation reports.
-4. Generate SHA-256 checksums.
-5. Create a GitHub Release containing `latest.csv`, checksums, and validation reports.
-6. Update the README statistics block.
+1. Import generated NAV archive files when configured.
+2. Fetch public AMFI NAV updates and write `data/Year/YYYY/MM/DD.csv`.
+3. Rebuild `data/latest.csv` while preserving older inactive schemes.
+4. Validate `data/latest.csv` and `data/Year/YYYY/MM/DD.csv`.
+5. Check that the dataset is fresh.
+6. Generate SHA-256 checksums.
+7. Create a GitHub Release containing `latest.csv`, checksums, and validation reports.
+8. Update the README statistics block.
 
 ## File Format
 
@@ -199,9 +201,9 @@ More examples are available in [docs/examples.md](docs/examples.md).
 
 No hosted API is provided. The archive is published as downloadable files, and GitHub raw/release URLs can be used for simple file-based access.
 
-### Does this repository expose collection methods?
+### How is this dataset updated?
 
-No. This public repository intentionally does not disclose collection methods, private automation, private endpoints, or operational update systems.
+The scheduled publish workflow fetches public AMFI NAV text exports and writes normalized CSV files. Private credentials, private endpoints, and operational details are not included.
 
 ### Does this repository expose an API or website?
 

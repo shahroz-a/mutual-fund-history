@@ -7,7 +7,7 @@ This repository is a public archive for generated Indian mutual fund NAV data. C
 ## Accepted Contributions
 
 - Dataset corrections to `data/latest.csv` or `data/Year/YYYY/MM/DD.csv`.
-- Validation improvements in `scripts/validation.py`.
+- Validation and public update improvements in `scripts/validation.py` and `scripts/update_dataset_from_amfi.py`.
 - Documentation improvements in `README.md`, `data/README.md`, or `docs/`.
 - Release metadata and checksum workflow improvements.
 
